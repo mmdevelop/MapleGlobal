@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MapHelper.img">
+    <imgdir name="weather">
+        <imgdir name="snow">
+            <canvas name="0" width="32" height="32">
+                <vector name="origin" x="15" y="15"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="cloud">
+            <canvas name="0" width="331" height="175">
+                <vector name="origin" x="165" y="87"/>
+            </canvas>
+            <canvas name="1" width="333" height="141">
+                <vector name="origin" x="166" y="70"/>
+            </canvas>
+            <canvas name="2" width="253" height="128">
+                <vector name="origin" x="3" y="96"/>
+            </canvas>
+            <canvas name="3" width="397" height="182">
+                <vector name="origin" x="198" y="91"/>
+            </canvas>
+            <canvas name="4" width="281" height="102">
+                <vector name="origin" x="140" y="51"/>
+            </canvas>
+            <canvas name="5" width="176" height="116">
+                <vector name="origin" x="39" y="9"/>
+            </canvas>
+            <canvas name="6" width="95" height="63">
+                <vector name="origin" x="42" y="-2"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="flower">
+            <canvas name="0" width="32" height="32">
+                <vector name="origin" x="16" y="16"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="soap">
+            <canvas name="0" width="28" height="28">
+                <vector name="origin" x="14" y="14"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="snowCrystal">
+            <canvas name="0" width="27" height="28">
+                <vector name="origin" x="13" y="14"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="present">
+            <canvas name="0" width="22" height="26">
+                <vector name="origin" x="11" y="13"/>
+            </canvas>
+            <canvas name="1" width="22" height="26">
+                <vector name="origin" x="11" y="13"/>
+            </canvas>
+            <canvas name="2" width="22" height="28">
+                <vector name="origin" x="11" y="14"/>
+            </canvas>
+            <canvas name="3" width="22" height="28">
+                <vector name="origin" x="11" y="14"/>
+            </canvas>
+            <canvas name="4" width="19" height="21">
+                <vector name="origin" x="9" y="10"/>
+            </canvas>
+            <canvas name="5" width="19" height="21">
+                <vector name="origin" x="9" y="10"/>
+            </canvas>
+            <canvas name="6" width="23" height="23">
+                <vector name="origin" x="11" y="11"/>
+            </canvas>
+            <canvas name="7" width="23" height="23">
+                <vector name="origin" x="11" y="11"/>
+            </canvas>
+            <int name="noresize" value="1"/>
+        </imgdir>
+        <imgdir name="chocolate">
+            <canvas name="0" width="27" height="26">
+                <vector name="origin" x="13" y="13"/>
+            </canvas>
+            <canvas name="1" width="26" height="24">
+                <vector name="origin" x="13" y="12"/>
+            </canvas>
+            <canvas name="2" width="26" height="25">
+                <vector name="origin" x="13" y="12"/>
+            </canvas>
+            <canvas name="3" width="25" height="23">
+                <vector name="origin" x="12" y="11"/>
+            </canvas>
+            <canvas name="4" width="27" height="25">
+                <vector name="origin" x="13" y="12"/>
+            </canvas>
+            <int name="noresize" value="1"/>
+        </imgdir>
+        <imgdir name="flowerage">
+            <canvas name="0" width="11" height="10">
+                <vector name="origin" x="5" y="5"/>
+            </canvas>
+            <canvas name="1" width="8" height="8">
+                <vector name="origin" x="4" y="4"/>
+            </canvas>
+            <canvas name="2" width="11" height="9">
+                <vector name="origin" x="5" y="4"/>
+            </canvas>
+            <canvas name="3" width="6" height="10">
+                <vector name="origin" x="3" y="5"/>
+            </canvas>
+            <canvas name="4" width="11" height="10">
+                <vector name="origin" x="5" y="5"/>
+            </canvas>
+            <canvas name="5" width="8" height="8">
+                <vector name="origin" x="4" y="4"/>
+            </canvas>
+            <canvas name="6" width="11" height="9">
+                <vector name="origin" x="5" y="4"/>
+            </canvas>
+            <canvas name="7" width="6" height="10">
+                <vector name="origin" x="3" y="5"/>
+            </canvas>
+            <canvas name="8" width="13" height="11">
+                <vector name="origin" x="6" y="5"/>
+            </canvas>
+            <canvas name="9" width="11" height="10">
+                <vector name="origin" x="5" y="5"/>
+            </canvas>
+            <canvas name="10" width="14" height="11">
+                <vector name="origin" x="7" y="5"/>
+            </canvas>
+            <int name="noresize" value="1"/>
+            <int name="count" value="300"/>
+        </imgdir>
+        <imgdir name="candy">
+            <int name="noresize" value="1"/>
+            <canvas name="0" width="38" height="26">
+                <vector name="origin" x="19" y="13"/>
+            </canvas>
+            <canvas name="1" width="48" height="26">
+                <vector name="origin" x="24" y="13"/>
+            </canvas>
+            <canvas name="2" width="48" height="26">
+                <vector name="origin" x="24" y="13"/>
+            </canvas>
+            <canvas name="3" width="48" height="26">
+                <vector name="origin" x="24" y="13"/>
+            </canvas>
+            <canvas name="4" width="17" height="15">
+                <vector name="origin" x="8" y="7"/>
+            </canvas>
+            <canvas name="5" width="17" height="15">
+                <vector name="origin" x="8" y="7"/>
+            </canvas>
+            <canvas name="6" width="17" height="15">
+                <vector name="origin" x="8" y="7"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="maple">
+            <canvas name="0" width="19" height="23">
+                <vector name="origin" x="9" y="11"/>
+            </canvas>
+            <canvas name="1" width="19" height="19">
+                <vector name="origin" x="9" y="9"/>
+            </canvas>
+            <canvas name="2" width="18" height="18">
+                <vector name="origin" x="9" y="9"/>
+            </canvas>
+            <canvas name="3" width="15" height="14">
+                <vector name="origin" x="7" y="7"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="portal">
+        <imgdir name="editor">
+            <canvas name="sp" width="77" height="100">
+                <vector name="origin" x="38" y="100"/>
+            </canvas>
+            <canvas name="pi" width="100" height="100">
+                <vector name="origin" x="50" y="100"/>
+            </canvas>
+            <canvas name="pv" width="87" height="182">
+                <vector name="origin" x="43" y="173"/>
+            </canvas>
+            <canvas name="pc" width="100" height="100">
+                <vector name="origin" x="50" y="50"/>
+            </canvas>
+            <canvas name="pg" width="87" height="182">
+                <vector name="origin" x="43" y="173"/>
+            </canvas>
+            <canvas name="ph" width="100" height="100">
+                <vector name="origin" x="50" y="100"/>
+            </canvas>
+            <canvas name="tp" width="94" height="116">
+                <vector name="origin" x="44" y="112"/>
+                <int name="delay" value="100"/>
+            </canvas>
+            <canvas name="ps" width="94" height="116">
+                <vector name="origin" x="44" y="112"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="game">
+            <imgdir name="pv">
+                <canvas name="0" width="87" height="182">
+                    <vector name="origin" x="43" y="173"/>
+                </canvas>
+                <canvas name="1" width="85" height="182">
+                    <vector name="origin" x="43" y="173"/>
+                </canvas>
+                <canvas name="2" width="87" height="201">
+                    <vector name="origin" x="44" y="193"/>
+                </canvas>
+                <canvas name="3" width="88" height="201">
+                    <vector name="origin" x="43" y="193"/>
+                </canvas>
+                <canvas name="4" width="87" height="217">
+                    <vector name="origin" x="42" y="209"/>
+                </canvas>
+                <canvas name="5" width="86" height="217">
+                    <vector name="origin" x="42" y="209"/>
+                </canvas>
+                <canvas name="6" width="85" height="256">
+                    <vector name="origin" x="41" y="248"/>
+                </canvas>
+                <canvas name="7" width="84" height="255">
+                    <vector name="origin" x="42" y="246"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="mark">
+        <canvas name="Henesys" width="38" height="38">
+        </canvas>
+        <canvas name="Ellinia" width="38" height="38">
+        </canvas>
+        <canvas name="Perion" width="38" height="38">
+        </canvas>
+        <canvas name="KerningCity" width="38" height="38">
+        </canvas>
+        <canvas name="Rith" width="38" height="38">
+        </canvas>
+        <canvas name="Dungeon" width="38" height="38">
+        </canvas>
+        <canvas name="Amherst" width="38" height="38">
+        </canvas>
+        <canvas name="SouthPerry" width="38" height="38">
+        </canvas>
+        <canvas name="MushroomVillage" width="38" height="38">
+        </canvas>
+        <canvas name="PcZone" width="38" height="38">
+        </canvas>
+        <canvas name="TestServer" width="38" height="38">
+        </canvas>
+        <canvas name="Orbis" width="38" height="38">
+        </canvas>
+        <canvas name="ElNath" width="38" height="38">
+        </canvas>
+        <canvas name="ElNathDungeon" width="38" height="38">
+        </canvas>
+        <canvas name="Ludibrium" width="38" height="38">
+        </canvas>
+        <canvas name="LudiTower1" width="38" height="38">
+        </canvas>
+        <canvas name="OmegaSector" width="38" height="38">
+        </canvas>
+    </imgdir>
+    <imgdir name="worldMap">
+        <imgdir name="mapImage">
+            <canvas name="0" width="12" height="12">
+                <vector name="origin" x="6" y="6"/>
+            </canvas>
+            <canvas name="1" width="7" height="7">
+                <vector name="origin" x="3" y="3"/>
+            </canvas>
+            <canvas name="2" width="12" height="12">
+                <vector name="origin" x="6" y="6"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="curPos">
+            <canvas name="0" width="22" height="27">
+                <vector name="origin" x="10" y="27"/>
+            </canvas>
+            <canvas name="1" width="22" height="23">
+                <vector name="origin" x="10" y="27"/>
+            </canvas>
+            <canvas name="2" width="22" height="20">
+                <vector name="origin" x="10" y="27"/>
+            </canvas>
+            <canvas name="3" width="22" height="17">
+                <vector name="origin" x="10" y="27"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

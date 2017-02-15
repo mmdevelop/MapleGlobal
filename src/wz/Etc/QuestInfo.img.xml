@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="QuestInfo.img">
+    <imgdir name="0000100">
+        <imgdir name="info">
+            <string name="subject" value="Bigg&apos;s Collection of Items"/>
+            <string name="req" value="None"/>
+            <int name="island" value="0"/>
+        </imgdir>
+        <imgdir name="f">
+            <string name="desc" value="I met this crewmember named Biggs at Southperry. He asked me if I can get him #b10 orange mushroom caps and 30 blue snail shells#k and that he&apos;ll reward me with a nice item if I do so. He doesn&apos;t look too convinced that I can do this, but... it looks like a piece of cake to me."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Biggs from Southperry #b10 mushroom caps and 30 blue snail shells#k. How is he going to do business out of this anyway? Well, he did get me a decent weapon to use. I guess I can travel for a while with this..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001100">
+        <imgdir name="info">
+            <string name="subject" value="&quot;Mar&quot; the Fairy and the LifeWater"/>
+            <string name="req" value="None"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="At Ellinia, I ran into a fairy that&apos;s been busily studying the magic of life. Her name is &quot;Mar&quot; and after taking a look at my pet that&apos;s been turned into a doll, she told me she can make it come back alive with #bThe Water of Life#k and #bThe Scroll of Life#k. I heard that she knows Cloy of Henesys... since it looks like a pet trainer named #bTrainer Bartos#k of Henesys knows something about the scroll of life, I should head over there... "/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="After easily passing the test from Trainer Bartos of Henesys, I got a hold of #bThe Water of Life#k and #bThe Scroll of Lifel#k, and got that to &quot;Mar&quot; the fairy. With her magical power and the items I got her, she turned the doll back into a living pet. I can hang out with him for a while longer now ... sweet ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000100">
+        <imgdir name="info">
+            <string name="subject" value="Fixing &quot;Blackbull&apos;s&quot; House"/>
+            <string name="req" value="None"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="w">
+            <string name="desc" value="Right here, in this dusty town of Perion, I ran into an oddly-dressed man named &quot;Blackbull.&quot; He told me he needs to fix is house and wondered if I could help him out by getting him #b30 tree branches and 50 firewoods#k. If I do him a favor, I get myself a nice shield that he has, but what if I say no? I wouldn&apos;t ... be ... EATEN BY HIM ... no?? I really hope not..."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got &quot;Blackbull&quot; of Perion #b30 tree branches and 50 firewoods#k. With these, he can finally fix his house. I got this shield as a reward ... and ... well, scratchmarks here and there, and it looks pretty old ... is this even usable?"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001800">
+        <imgdir name="info">
+            <string name="subject" value="Nella &amp; Kerning City Citizen&apos;s Request 1"/>
+            <string name="req" value="Level 15, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1s">
+            <string name="desc" value="I gave Nella 1000 mesos as a commission for hooking up Kerning City citizen&apos;s request. First request was to get the materials for Don Hwang, the owner of armor shop. The materials for making new armor are #b50 Green Mushroom caps#k and #b50 Bubbling&apos;s huge bubbles#k. It wouldn&apos;t be that hard, since I can easily find Green Mushrooms near the Ellina and Bubblings at the Subway."/>
+        </imgdir>
+        <imgdir name="1end">
+            <string name="desc" value="I gave what Don Hwang asked for and I got bunch of lemons for return. I wonder what kind of armor would Don Hwang make. Nella said there are many more requests I can do. I should visit Nella every once in a while."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="2s">
+            <string name="desc" value="I got the second request from Nella. Shumi wants to make a house for her little puppy. To make a puppy house, she needs #b5 Processed Woods#k and #b5 Screws#k. I need to get those ASAP. "/>
+        </imgdir>
+        <imgdir name="2end">
+            <string name="desc" value="I gave what Shumi asked for and I got bunch of cakes for return. Now, Shumi&apos;s little puppy has her own house~ I should get back to Nella for more requests."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="3s">
+            <string name="desc" value="I got the third request from Nella. Andrea in the hair shop wanted to eat Seafood Soup. I should get #b100 Octopus Legs#k and #bPure Water#k for his Seafood Soup ingredients."/>
+        </imgdir>
+        <imgdir name="3end">
+            <string name="desc" value="I gave what Andrea asked for and I got the glove for return. I hope Andrea can enjoy his Seafood Soup~ I should get back to Nella for more requests."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000200">
+        <imgdir name="info">
+            <string name="subject" value="Maya and the Weird Medicine"/>
+            <string name="req" value="Level 15, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="m1">
+            <string name="desc" value="I met this girl named Maya at the old, raggedy townstreet of Henesys. She&apos;s been suffering from illness for a long time, so she doesn&apos;t look too well to even live a normal life. #bWeird Medicine#k... what a strange name, and she said she&apos;ll get a little bit better by taking that... I better go to Lith Harbor and see this crewmember named Teo..."/>
+        </imgdir>
+        <imgdir name="m2">
+            <string name="desc" value="Around &quot;The Victoria&quot; in Lith Harbor, I met this heavily-bearded crewmember called Teo. He said he has the #bWeird Medicine#k but he wasn&apos;t willing to give it up for free. Instead he said he&apos;ll trade with me for a #bsparkling rock#k. I mean, he does look like he knows Maya pretty well, but he still wants to make a deal with me, knowing how sick she is ...?? That&apos;s strange... anyway, to get that #bsparkling rock#k, I need to head over to Perion and talk to the #rSophia#k, the daughter of the owner of the grocery store there."/>
+            <string name="prev" value="m1"/>
+        </imgdir>
+        <imgdir name="m3">
+            <string name="desc" value="I finally met Sophia, who&apos;s working on her dream as an alchemist inside the grocery store in Perion. To make the sparkling rock, she said she needs #b50 squishy liquid&apos;s, 50 leaves, 20 octopus legs and 1 Arcon&apos;s blood#k. Everything else looks reasonable enough except ... Arcon&apos;s blood ...??? Fortunately, Sophia knew where to get it. She told me to look for this man named Manji somewhere around Perion. Manji, huh ... where must he be ... ??"/>
+            <string name="prev" value="m2"/>
+        </imgdir>
+        <imgdir name="m4">
+            <string name="desc" value="I found Manji at Perion. Just as I thought, he was unwilling to give away #bArcon&apos;s blood#k for free. He wants me to go to the underground tunnel in the middle of the island and gather up #b40 charms of the dead#k for him ... by the way, who does he think he is, treating me like that??? I&apos;m starting to regret saying yes to Maya in the first place ..."/>
+            <string name="prev" value="m3"/>
+        </imgdir>
+        <imgdir name="m5">
+            <string name="desc" value="I gathered up #b40 charms of the dead#k from the underground tunnel and got them to Manji of Perion. Still cocky, still arrogant, but following through his promise, he hands over #bArcon&apos;s blood#k to me. Hmm ... maybe he isn&apos;t so horrible a guy afterall ... anyway, now I need to gather up #b50 squishy liquid&apos;s, 50 leaves, 20 octopus legs, and 1 Arcon&apos;s blood#k for Sophia ..."/>
+            <string name="prev" value="m4"/>
+        </imgdir>
+        <imgdir name="m6">
+            <string name="desc" value="Sophia looks genuinely surprised that I gathered up every single material needed for that #bsparkling rock#k. Well, it wasn&apos;t easy at all ... anyway, she handed me the piece of #bsparkling rock#k made out of all the materials I got for her. Hmmm ... this #bsparkling rock#k ... it gives off a strange light, and then ... it starts glittering, and ... now I can understand why people want this ...!! Well, now that I have it, all I got left is trading it with Teo in Lith Harbor."/>
+            <string name="prev" value="m5"/>
+        </imgdir>
+        <imgdir name="m7">
+            <string name="desc" value="I traded the #bsparkling rock#k with Teo of Lith Harbor for the #bweird medicine#k. Now, all I need to do is get this to #rMaya#k, and I&apos;m done...but...the more I think about it...the more I regret saying yes...anyway, this medicine...looks quite tasty...hmmm...if I get thirsty, should I just down this instead??"/>
+            <string name="prev" value="m6"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I went back to Henesys and handed Maya the weird medicine.  Hopefully she&apos;ll get better after taking this. As a sign of thanks, Maya got me 5,000 mesos and a #bbrown bamboo hat#k. This hat ... I mean, it looks like it&apos;s going to help when I&apos;m walking under a blazing sun, but it looks so old and raggedy ... and if I put it on, it makes this weird noise that feels as if some insect is walking around and stuff ... am I going to be alright ... ???"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000800">
+        <imgdir name="info">
+            <string name="subject" value="Luke the Security Guy"/>
+            <string name="req" value="Level 15, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="At the entrance of the dungeon, I met Luke the security guy. He wanted to make a healthy dish for his mom, and asked me if I could get him #b100 pieces of Jr. Necki&apos;s skin, 10 wings of Stirge, and a bowl of salad#k. He claimed that he&apos;s too busy with all the security matters and stuff, but ... he looks like he&apos;s just falling asleep at work ..."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Luke, who is protecting the entrance of the Dungeon, the stuff he asked for. Since he&apos;s making the &quot;Snake Drink&quot; and all ... I want a taste of that myself! In return, Luke got me a nicely refined jewel he found from around the area. It&apos;s not like a refined jewel drops from the sky ... did someone lose it while traveling? Anyway I should drop by later when the &quot;Snake Drink&quot; gets done ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000900">
+        <imgdir name="info">
+            <string name="subject" value="John&apos;s Pink Flower Basket"/>
+            <string name="req" value="Level 15"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="desc" value="At Lith Harbor, I met a fisherman named John. He wanted to get his wife a nice flower basket for their upcoming anniversary. He asked me if I could get him #b10 Pink Viola&apos;s#k since it&apos;s his wife&apos;s favorite. According to him, a mysterious statue can lead me to where the flower is. Sleepywood ... SLEEPYWOOD ??? That&apos;s FAR !?!?"/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 9 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 8 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 7 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 6 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 5 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 4 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 3 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 2 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 1 more."/>
+            <string name="prev" value="10"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got John all #b10 Pink Viola&apos;s#k. With these, he can make a beautiful flower basket for his wife on their anniversary. As a sign of appreciation, John got me a whole bunch of screws left over from ships here and there. By the way, if there are this many screws that have fallen out of ships, then how in the world are they even working ...? Are they carrying passengers on it ???"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000300">
+        <imgdir name="info">
+            <string name="subject" value="Pia and the Blue Mushroom"/>
+            <string name="req" value="Level 20, Beginner not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="p">
+            <string name="desc" value="Underneath the watchtower at Henesys park, I met Pia, who was wearing a teddy bear costume. She was talking about how, on the way to Ellinia, she ran into a couple of blue mushrooms and had a hard time with them. She wanted me to show them who&apos;s the boss, and as a proof, she wanted #b60 blue mushroom caps and 60 green mushroom caps#k ... but I can see why she&apos;s being attacked anyway ... anyone that walks around wearing those is bound to be attacked !!!"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Pia, who had been chilling under the watchtower at Henesys Park, the stuff she requested, #b60 blue mushroom caps and 60 green mushroom caps#k. For that, she got me the scroll for armor def. ... she said all I need to do is click on it at item window, and drag it to the armor. Simple, but ... what if this doesn&apos;t work ????"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001200">
+        <imgdir name="info">
+            <string name="subject" value="Shumi&apos;s Lost Coin"/>
+            <string name="req" value="Level 20"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I met this girl name Shumi at Kerning City. She was devasted about losing the lucky coin that she borrowed from a friend and that she was asking me to find it for her. She also told me a bunch of guys draped in white cloth took it from her at the subway, so they may be found at the #bconstuction site B1#k, deep in the station ... I should get in there first ..."/>
+        </imgdir>
+        <imgdir name="g">
+            <string name="desc" value="At the #bconstuction site B1#k of the subway, I found what appears to be the coin that Shumi lost ... all I need to do now is return it to her ..."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I found the lost coin that Shumi of Kerning City was looking for, and returned it to her. A precious coin borrowed from her friend, huh ... as a reward, she gave me a whole bunch of the return scrolls ... not bad at all!! She also said other items can be found at #bconstruction site B1#k ... I should check it out later ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000500">
+        <imgdir name="info">
+            <string name="subject" value="Alex the Runaway Kid"/>
+            <string name="req" value="Level 20, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="a">
+            <string name="desc" value="At the top of the building in Kerning City, I met this kid named Alex, who looked like a runaway kid. He left home a few days ago aftter a spat with his father. He&apos;d been wandering around Kerning City ever since, but now, with no money and a severe case of boredom hitting him, he just wanted to go back home ... with the problem being that he was certain that a whole round of spanking would await him if he did, indeed, return home. So he asked me if I could convince his father Stan, who happened to be the chief of Henesys, to let him return home without any incident. Not only that, he asked me to get his late mother&apos;s article, her #bold gold watch#k, from him as a proof. If he had known this would happen, would he have done it nonetheless?"/>
+        </imgdir>
+        <imgdir name="t">
+            <string name="desc" value="At the entrance of Henesys Park, I met Alex&apos;s father Stan, the chief of Henesys. I couldn&apos;t even start up a conversation with him at first, but once I got him #b50 Evil Eye&apos;s tails and 100 pig ribbons#k he requested to fix this town, that was when he decided to listen. He was even more straight-forward and difficult to talk to than I first thought, but I finally convinced him to accept Alex back with open arms. I also got Alex&apos;s late mother&apos;s #bgold watch#k as the proof. Now, all I need to do is get this watch to Alex in Kerning City, right?"/>
+            <string name="prev" value="a"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I gave Alex his late mother&apos;s #bgold watch#k. Hopefully this will get him home ... as a sign of appreciation, he got me an earing he received from friends he met while traveling here and there. Well, Alex is now forgiven by Stan, but based on the look of his face, I don&apos;t know if he really is going to head home right now ... I should check it out the next time I head over to Henesys ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000400">
+        <imgdir name="info">
+            <string name="subject" value="Jane and the Wild Boar"/>
+            <string name="req" value="Level 25, Beginners not allowed."/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="j">
+            <string name="desc" value="At around Lith Harbor near &quot;The Victoria&quot;, I met this girl name Jane, who was sporting bunny ears. Jane expressed a desire to travel around the island, but her father just wouldn&apos;t let her. She thought if she got a hold of #b100 wild boar teeth and 120 horned mushroom caps#k, then maybe her father would let her go afterall. And for that, she asked me if I could get her those ... I mean, isn&apos;t SHE supposed to collect them herself? Anyway it doesn&apos;t sound too hard, so I should headover to the highland and start hunting down some wild boars ..."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Jane #r100 wild boar teeth and 120 horned mushroom caps#k that she requested. Seriously, though, will her dad approve of her traveling with this? Not with the bunny ears she&apos;s wearing ... hmm ... anyway, in return, she got me something she&apos;s been keeping for a long time: a scroll for weapon for ATT. If this works, then... my weapon&apos;s going to be awesome!!"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001000">
+        <imgdir name="info">
+            <string name="subject" value="Arwen and the Glass Shoes"/>
+            <string name="req" value="Level 25, Beginners not allowed."/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="Arwen the fairy from Ellinia told me that a couple of days ago, on the way to Perion, she was attacked by a monster covered in flame, and lost her very precious #bglass shoes#k in the process. Fairies love glimmering, shiny objects to the point of obsession, so obviously she wants it back badly ... I better hunt some monsters around Perion, and hopefully I can find it there."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Arwen from Ellinia the glass shoes she desperately wanted back. I got lucky, finding it from a nasty Fireboar ... phew. Anyway, as a sign of gratitude, she gave me a fairy item. It&apos;s really gorgeous and glimmering like a star ... dang, maybe I can use this to make something special ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000700">
+        <imgdir name="info">
+            <string name="subject" value="Sabitrama and the Diet Medicine"/>
+            <string name="req" value="Level 25"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1_01">
+            <string name="desc" value="In front of Sleepywood Hotel, I met #bSabitrama#k, a medicinal herb trader who seems to be the younger brother of Chrishrama. He said he found a place where he can finally find the herb that he needed for this medicine he&apos;s working on...and that he asked if I could go in that forest and grab an herb called #bPink Anthurium#k. It consists of green grass and a small pink flower ... I better remember this well and get him the exact same one. I heard the place is near Ellinia ... I should go there and talk to this guy #bShane#k ..."/>
+        </imgdir>
+        <imgdir name="1_02">
+            <string name="desc" value="In front of Sleepywood Hotel, I met #bSabitrama#k, a medicinal herb trader who seems to be the younger brother of Chrishrama. He said he found a place where he can finally find the herb that he needed for this medicine he&apos;s working on ... and that he asked if I could go in that forest and grab an herb called #bOrange Anthurium#k. It consists of green grass and a small orange flower...I better remember this well and get him the exact same one. I heard the place is near Ellinia...I should go there and talk to this guy #bShane#k ..."/>
+        </imgdir>
+        <imgdir name="1_03">
+            <string name="desc" value="In front of Sleepywood Hotel, I met #bSabitrama#k, a medicinal herb trader who seems to be the younger brother of Chrishrama. He said he found a place where he can finally find the herb that he needed for this medicine he&apos;s working on ... and that he asked if I could go in that forest and grab an herb called #bBlue Anthurium#k. It consists of green grass and a small blue flower ... I better remember this well and get him the exact same one. I heard the place is near Ellinia ... I should go there and talk to this guy #bShane#k ..."/>
+        </imgdir>
+        <imgdir name="1_04">
+            <string name="desc" value="In front of Sleepywood Hotel, I met #bSabitrama#k, a medicinal herb trader who seems to be the younger brother of Chrishrama. He said he found a place where he can finally find the herb that he needed for this medicine he&apos;s working on ... and that he asked if I could go in that forest and grab an herb called #bYellow Anthurium#k. It consists of yellow grass and a small blue flower...I better remember this well and get him the exact same one. I heard the place is near Ellinia...I should go there and talk to this guy #bShane#k ..."/>
+        </imgdir>
+        <imgdir name="1_11">
+            <string name="desc" value="After going through all kinds of crap, I found a pile of flowers on top of the 2nd level of Forrst of Patient. In the midst of the pile, I found an herb called #bPink Anthurium#k ... but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_01"/>
+        </imgdir>
+        <imgdir name="1_12">
+            <string name="desc" value="After going through all kinds of crap, I found a pile of flowers on top of the 2nd level of Forest of Patient. In the midst of the pile, I found an herb called #bOrange Anthurium#k ... but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_02"/>
+        </imgdir>
+        <imgdir name="1_13">
+            <string name="desc" value="After going through all kinds of crap, I found a pile of flowers on top of the 2nd level of Forest of Patient. In the midst of the pile, I found an herb called #bBlue Anthurium#k ... but... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_03"/>
+        </imgdir>
+        <imgdir name="1_14">
+            <string name="desc" value="After going through all kinds of crap, I found a pile of flowers on top of the 2nd level of Forest of Patient. In the midst of the pile, I found an herb called #bYellow Anthurium#k ... but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_04"/>
+        </imgdir>
+        <imgdir name="1_91">
+            <string name="desc" value="There were times where I wanted to just give up, but I went on, persevered, and finally got to the top at the 2nd level of Forest of Patience, finding a pile of flowers there. In the midst of it, I took an herb called #bPink Anthurium#k, but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_01"/>
+        </imgdir>
+        <imgdir name="1_92">
+            <string name="desc" value="There were times where I wanted to just give up, but I went on, persevered, and finally got to the top at the 2nd level of Forest of Patience, finding a pile of flowers there. In the midst of it, I took an herb called #bOrange Anthurium#k, but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_02"/>
+        </imgdir>
+        <imgdir name="1_93">
+            <string name="desc" value="There were times where I wanted to just give up, but I went on, persevered, and finally got to the top at the 2nd level of Forest of Patience, finding a pile of flowers there. In the midst of it, I took an herb called #bBlue Anthurium#k, but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_03"/>
+        </imgdir>
+        <imgdir name="1_94">
+            <string name="desc" value="There were times where I wanted to just give up, but I went on, persevered, and finally got to the top at the 2nd level of Forest of Patience, finding a pile of flowers there. In the midst of it, I took an herb called #bYellow Anthurium#k, but ... is this really the one Sabitrama wanted me to get??"/>
+            <string name="prev" value="1_04"/>
+        </imgdir>
+        <imgdir name="1_00">
+            <string name="desc" value="Thankfully I got the flower that Sabitrama wanted from the Forest of Patience, and as a sign of appreciation, he gave me a #bscroll for the overall armor#k. Oh, and he also said that from here on out, I can enter the Forest of Patience without having to pay Shane of Ellinia. Based on what I&apos;ve heard, the diet medicine Sabitrama&apos;s working on is for Shane&apos;s fiance ... I better get back in the Forest of Patience when I have some time ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="1_99">
+            <string name="desc" value="I worked my butt off, but I got a different flower from what Sabitrama asked. Argh...but at least he rewarded me for my effort with #b10 Elixir&apos;s#k, so at least all that work wasn&apos;t for naught. Oh, and he also said that from here on out, I can enter the Forest of Patience without having to pay Shane of Ellinia. Based on what I heard, the diet medicine Sabitrama&apos;s working on should for Shane&apos;s fiance ... I better get back in the Forest of Patience when I have some time ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001801">
+        <imgdir name="info">
+            <string name="subject" value="Nella &amp; Kerning City Citizen&apos;s Request 2"/>
+            <string name="req" value="Level 25, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1s">
+            <string name="desc" value="Nella said I look much stronger than last time. First request is to get ingredients for Dr. Faymus, the owner of potion shop. He needs #b100 Horned Mushroom Tops#k and #b50 Jr. Necki Skins#k. hmm… Junior Necki… it might be little tough… but I will give it a try~"/>
+        </imgdir>
+        <imgdir name="1end">
+            <string name="desc" value="I gave what Dr. Faymus asked for and I got bunch of white potions for return. I wonder what kind of potion would Dr. Faymus make by using those materials. I should get back to Nella for more request."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="2s">
+            <string name="desc" value="I got the second request from Nella. Pio got his pillow stolen few days ago and he can&apos;t sleep well since then. To make a new pillow, he wants #b50 stiff feathers#k and #b20 leathers#k. I should get them ASAP."/>
+        </imgdir>
+        <imgdir name="2end">
+            <string name="desc" value="I got what Pio asked for and I got refined steal and bronze. Now, Pio can sleep well in his new pillow~ I should get back to Nella for more requests."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="3s">
+            <string name="desc" value="I got the third request from Nella. Cutthroat Manny wants to get #b200 Evil Eye Tails#k for his dinner. He wanted to make broiled Evil Eye Tail. Wow… Broiled Evil Eye Tail… sounds yummy…"/>
+        </imgdir>
+        <imgdir name="3end">
+            <string name="desc" value="I gave what Cutthroat Manny asked for and I got shoes for return. Now… Cutthroat Manny doesn&apos;t have to worry about his dinner menu for a while. I should get back to Nella for more request."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000600">
+        <imgdir name="info">
+            <string name="subject" value="Mr. Wetbottom&apos;s Secret Book"/>
+            <string name="req" value="Level 30, Beginners not allowed."/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="At a VIP sauna in Sleepywood, I met this bald man called #bMr. Wetbottom#k. He has a son, and apparently he ran away from home one day with a book that he cares deeply for. He requested that I find his son and get the book back from him. For a reward, he&apos;s offering me comfortable clothes for sauna... hmm... He also told me his son Ronnie hangs out at a tree tunnel around Ellinia, so maybe I can find him there. Anyway, is that book more important to him than his son?? What kind of a book is it anyway... ????"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="Inside a tree tunnel around Ellinia I found #bRonnie#k, the son of Mr. Wetbottom. He said the red book is off limits, but he seems to be starving. In the end, we made a deal that I get him #b50 Lupin bananas, Rina&apos;s Unagi Special, and a fresh milk#k, and he gives me the book. According to Ronnie, I can find Rina at Henesys, and as for the fresh milk, I can get it from Rowen the fairy from Ellinia. I have a lot of traveling to do, but oh well..."/>
+            <string name="prev" value="1"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="To get the Unagi special and a fresh milk, I need to gather up the ingredients for those. Rina of Henesys requested #b50 Curse Eye tails and 5 pig&apos;s heads#k for the Unagi special. Rowen the fairy of Ellinia asked for a refined piece of glittering #bdiamond#k for a fresh milk. Diamond, huh... how am I supposed to get that rare, expensive item?"/>
+            <string name="prev" value="2"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="I got Ronnie all the food he needed, and got the #bSecret Book#k that Mr. Wetbottom had been desperately looking for... it&apos;s a weird-looking book with a red cover... I have a feeling that I should not open this book... Anyway I should hurry up and get this to Mr. Wetbottom at the VIP sauna in Sleepywood before it&apos;s too late."/>
+            <string name="prev" value="3"/>
+        </imgdir>
+        <imgdir name="e">
+            <string name="desc" value="I got Mr. Wetbottom the precious Secret Book that he&apos;d been desperately looking for. I asked him if he&apos;s worried about Ronnie at all, only to hear that he&apos;ll be in good hands with the fairies... well, it&apos;d be best for Ronnie to be with the fairies, right? Anyway, I got the sauna clothes in return for the book... I guess wearing these cumbersome armors around sauna is a ridiculous thing to do. Might as well enjoy it now and chill here at the sauna..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000101">
+        <imgdir name="info">
+            <string name="subject" value="Building a New House For &quot;Blackbull&quot;"/>
+            <string name="req" value="Level 30, Fame 10, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="p0">
+            <string name="desc" value="I ran into &quot;Blackbull&quot; again, the guy I helped fix his house. He was surprised at how strong I looked, and asked me for a much harder favor. His cousins from Henesys are all trying to move to Perion, and so he needed to build a new house! To build a new house, he said he needed #b100 pieces of rock from Stone Gollem, 30 screws, 30 pieces of processed wood, and 1 deed to the land#k. His son had the deed to the land, only to have it stolen by Curse Eye neaer Sleepywood...hmmm...I should be looking for those wandering around the deep forest..."/>
+        </imgdir>
+        <imgdir name="pe">
+            <string name="desc" value="To move all of &quot;Blackbull&quot;&apos;s cousins to Perion, I got him all the items he requested: #b100 pieces of rock from Stone Gollem, 30 screws, 30 pieces of processed wood, and 1 deed to the land#k. I got him all these...and yet what if he asks me to actually BUILD a house for him next time up?? Anyway for that, he gave me a little bit of EXP, 15,000 mesos, and a scroll for weapon with 10% success rate. Even my fame went up +2...not bad..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000901">
+        <imgdir name="info">
+            <string name="subject" value="John&apos;s Present"/>
+            <string name="req" value="Level 30"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="20">
+            <string name="desc" value="I ran into John the fisherman again at Lith Harbor. This time, he wanted to get his wife Blue Viola for her birthday. He asked me to get #b20 Blue Viola&apos;s#k for him. The scent of Blue Violas last over 500 years...and according to John, they can be found through the mysterious statue again, where the flower may be found. Man....................do I HAVE to go in there again??"/>
+        </imgdir>
+        <imgdir name="19">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 19 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="18">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 18 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="17">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 17 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="16">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 16 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="15">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 15 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="14">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 14 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="13">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 13 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="12">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 12 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="11">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 111 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 10 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 9 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 8 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 7 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 6 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 5 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 4 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 3 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="I got John a couple of  #bBlue Viola&apos;s#k, but I still have to get him 2 more."/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="I got John a couple of #bBlue Viola&apos;s#k, but I still have to get him 19 more.1"/>
+            <string name="prev" value="20"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got John all #b20 Blue Viola&apos;s#k. It has a nice scent to it, but 20 of them? Makes my head spin...As a sign of appreciation, John got me a nice glove he found inside a ship. I mean, it looks like someone accidentally left that glove in there...is he allowed to give it to me like that? What if I wear this around town and run into the actual owner of it??"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001201">
+        <imgdir name="info">
+            <string name="subject" value="Shumi&apos;s Lost Bundle of Money"/>
+            <string name="req" value="Level 30"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I ran into Shumi again at Kerning City. She seemed really worried about how she lost her rent money because a Steezy flew over and snatched a bundle of money away from her. Man...do I have to walk back in there again...can I just pay the rent for her? Anyway like last time, I need to go back in there, this time to #bconstruction site B2#k and find the bundle of money she lost...aye, better go in there now... "/>
+        </imgdir>
+        <imgdir name="g">
+            <string name="desc" value="I found the bundle of money that appears to be Shumi&apos;s at #bconstructoin site B2#k of the subway. Now I need to get this back to her..."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Shumi from Kerning City the lost bundle of money. I guess she can pay her rent now...and as a reward, she got me #b100 Mana Elixir&apos;s#k...she also said I may find other items at the #bconstruction site B2#k...I should go check it out sometime..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000601">
+        <imgdir name="info">
+            <string name="subject" value="Rowen the Fairy and the Cursed Doll"/>
+            <string name="req" value="Level 35, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="r0">
+            <string name="desc" value="I ran into #bRowen#k again, the same Rowen who I got a fresh milk from for Mr. Wetbottom&apos;s son Ronnie. He seemed to be keeping his guards up against humans then, but it looks like he&apos;s accepting me as Ronnie&apos;s friend...Rowen is assistant of the head magician of Ellinia, Grendel the Really Old, and he&apos;s been concerned about the cursed dolls that Grendel the Really Old made with his black magic a long long time ago. The dolls had been sealed up for a while, until a bunch of Lupin&apos;s took them and ran away. They have since turned into zombies, and have been destroying the forest. To return the forest to how it was before, someone needs to take down the Zombie Lupin&apos;s and take away the #bcursed dolls#k from them ... well, I readily accepted the request of collecting #b100 cursed dolls#k, but am I going to be okay against those crazy monkeys ??"/>
+        </imgdir>
+        <imgdir name="r1">
+            <string name="desc" value="I took down a bunch of Zombie Lupin&apos;s on a forest near Ellinia, and collected all #b100 cursed dolls#k for Rowen. In return, she gave me 7 ores. Will the forest really return to normal with this?"/>
+            <string name="prev" value="r0"/>
+        </imgdir>
+        <imgdir name="r2">
+            <string name="desc" value="Rowen asked me again, this time #b200 cursed dolls#k. Well, that&apos;s easy..."/>
+            <string name="prev" value="r1"/>
+        </imgdir>
+        <imgdir name="r3">
+            <string name="desc" value="I took down a bunch of Zombie Lupin&apos;s on a forest near Ellinia, and collected all #b200 cursed dolls#k for Rowen. In return, she gave me 10 ores. Will the forest really return to normal with this?"/>
+            <string name="prev" value="r2"/>
+        </imgdir>
+        <imgdir name="r4">
+            <string name="desc" value="Rowen asked me again, this time #b400 cursed dolls#k. 400?? Hmmm...it&apos;s getting quite serious now..."/>
+            <string name="prev" value="r3"/>
+        </imgdir>
+        <imgdir name="r5">
+            <string name="desc" value="I took down a bunch of Zombie Lupin&apos;s on a forest near Ellinia, and collected all #b400 cursed dolls#k for Rowen. In return, she gave me 5 very-hard-to-find ores. Will the forest really return to normal with this?"/>
+            <string name="prev" value="r4"/>
+        </imgdir>
+        <imgdir name="r6">
+            <string name="desc" value="Rowen asked me again, this time #b600 cursed dolls#k. 600?? THAT&apos;S A LOT...."/>
+            <string name="prev" value="r5"/>
+        </imgdir>
+        <imgdir name="r7">
+            <string name="desc" value="I took down a bunch of Zombie Lupin&apos;s on a forest near Ellinia, and collected all #b600 cursed dolls#k for Rowen. In return, she gave me the scroll for gloves. Will the forest really return to normal with this?"/>
+            <string name="prev" value="r6"/>
+        </imgdir>
+        <imgdir name="r8">
+            <string name="desc" value="Rowen asked me one last time, this time #b1000 cursed dolls#k. Why does he need that much? Is she trying to sell them all???"/>
+            <string name="prev" value="r7"/>
+        </imgdir>
+        <imgdir name="re">
+            <string name="desc" value="I took down a bunch of Zombie Lupin&apos;s on a forest near Ellinia, and collected all #b1000 cursed dolls#k for Rowen. In return, she gave me a nice hat. I&apos;ve collected so many of those for her, but it looks like Zombie Lupin&apos;s aren&apos;t decreasing in any way shape or form ... what&apos;s going on? Anyway, at least it seems that the fairies may not have such animosity towards humans now ... and that&apos;s fine with me hehe ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000401">
+        <imgdir name="info">
+            <string name="subject" value="Jane the Alchemist"/>
+            <string name="req" value="Level 40, Beginners not allowed"/>
+            <int name="reqLevel" value="40"/>
+            <string name="reqPOP" value="0"/>
+            <string name="reqJob" value="0"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="j0">
+            <string name="desc" value="I ran into Jane again at Lith Harbor, the same Jane that I helped get wild boar&apos;s canine teeth for her to travel. She said she got busted for lying that it was her that collected those items...anyway, she gave up on her dream to travel, and now is trying to become an alchemist. She needed some materials to experiment with...and...I&apos;m pretty sure I&apos;m getting those for her. Anyway, she said she needed #b1 pure water, 30 medicines with weird vibe, and 20 malady&apos;s experimental frogs#k to try to make an Elixir. Oh, what the heck, I&apos;ll get them for her and see if it really works..."/>
+        </imgdir>
+        <imgdir name="j1">
+            <string name="desc" value="I got all the materials needed for Jane to make the elixir. If she does it well, then maybe I can get myself a nice elixir, but what if she fails...is the whole place going to blow up??"/>
+            <string name="prev" value="j0"/>
+        </imgdir>
+        <imgdir name="j2">
+            <string name="desc" value="This time, Jane promised she&apos;ll make a better item, and wants me to get #b1 Mushmom&apos;s spore, 3 of Drake&apos;s blood, 100 medicine with weird vibes, and 30 Malady&apos;s experimental frogs#k. She said something about making a Power Elixir, the one that can restore both HP and MP at once..."/>
+            <string name="prev" value="j1"/>
+        </imgdir>
+        <imgdir name="j3">
+            <string name="desc" value="I got all the materials needed for Jane to make the elixir. If she does it well, then maybe I can get myself a nice elixir, but what if she fails...then I don&apos;t know if really want to take it...blehhh..."/>
+            <string name="prev" value="j2"/>
+        </imgdir>
+        <imgdir name="j4">
+            <string name="desc" value="This time, the last time, she promised to make me a mysterious scroll, and that she wanted me to get #ba moon rock, 20 dragon skins, and 10 saps of ancient tree#k for her. I guess I should ask the fairies at Ellinia for the moon rock, right?"/>
+            <string name="prev" value="j3"/>
+        </imgdir>
+        <imgdir name="je">
+            <string name="desc" value="I got all the materials needed for Jane to make the scroll. Thankfully, the scroll for glove for ATT was made without a hitch, and she readily gave it to me. If the scroll really works, then I may have myself a dandy of a glove! Anyway, Jane expressed a strong desire to keep experimenting and become a good alchemist someday. Maybe next time I come back here, I may be able to buy an item from her that&apos;s not sold in store...nice..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001202">
+        <imgdir name="info">
+            <string name="subject" value="Shumi&apos;s Lost Sack of Money"/>
+            <string name="req" value="Level 40"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I ran into Shumi again at Kerning City. A while ago, she got a favor from JM From the Streetz to get an elixir for him, only to have the sack of money fall down and lose it all in the process. I guess I can find it at the deep part of the subway station, the #bconstruction site B3#k, again."/>
+        </imgdir>
+        <imgdir name="g">
+            <string name="desc" value="At #bconstruction site B3#k of subway, I found the sack of money Shumi might have lost. All I need to do now is return it to her."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Shumi of Kerning City the lost sack of money. With that, she can finally get the stuff JM requested. As a sign of thanks, she gave me #bscroll for shoes for speed#k. Since there are other items that can be found at #bconstruction site B3#k , maybe I should head back in there sometime..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001400">
+        <imgdir name="info">
+            <string name="subject" value="Alpha Platoon&apos;s Network of Communication "/>
+            <string name="req" value="Level 40"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="Inside El Nath, I found #bMaster Sergeant Fox#k, who seemed to have crashlanded here. He asked if I can find 3 of his men and if they are doing their job whereever they are. The ones I need to meet up are #bStaff Sergeant Charlie, Corporal Easy, and Sergeant Bravo#k, and they should be arround Ossyria. He&apos;d prefer that I meet them in the order of their ranks...that sounds pretty difficult to me..."/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="I found #bStaff Sergeant Charlie#k at Orbis. He said he&apos;s been doing his duties and that, while investigating around the area, he found this piece of an ancient document that he wants me to deliver to Master Sergeant Fox. Now I have #bCorporal Easy and Sergeant Bravo#k to find..."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="desc" value="I found #bSergeant Bravo#k in the middle of a snowfield far from El Nath. He said he&apos;s been doing his duties and that, while investigating around the area, he found this piece of an ancient document that he wants me to deliver to Master Sergeant Fox. Now I have #bStaff Sergeant Charlie and Corporal Easy#k to find..."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="desc" value="I found #bCorporal Easy#k in the middle of an old-looking tower far from El Nath. He said he&apos;s been doing his duties and that, while investigating around the area, he found this piece of an ancient document that he wants me to deliver to Master Sergeant Fox. Now I have #bStaff Sergeant Charlie and Sergeant Bravo#k to find..."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="12">
+            <string name="desc" value="I found #bStaff Sergeant Charlie#k at Orbis, and #bSergeant Bravo#k at a snowfield. They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they wants me to deliver to Master Sergeant Fox. Now I only have #bCorporal Easy#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="21">
+            <string name="desc" value="I found #bStaff Sergeant Charlie#k at Orbis, and #bSergeant Bravo#k at a snowfield. They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they wants me to deliver to Master Sergeant Fox. Now I only have #bCorporal Easy#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="desc" value="I found #bStaff Sergeant Charlie#k at Orbis, and #bCorporal Easy#k at an old-looking tower. They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they want me to deliver to Master Sergeant Fox. Now I only have #bSergeant Bravo#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="201">
+            <string name="desc" value="I found #bStaff Sergeant Charlie#k at Orbis, and #bCorporal Easy#k at an old-looking tower.  They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they want me to deliver to Master Sergeant Fox. Now I only have #bSergeant Bravo#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="desc" value="I found #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at an old-looking tower.  They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they want me to deliver to Master Sergeant Fox. Now I only have #bStaff Sergeant Charlie#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="210">
+            <string name="desc" value="I found #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at an old-looking tower.  They said they&apos;ve been doing their duties and that, while investigating around the area, they found these pieces of an ancient document that they want me to deliver to Master Sergeant Fox. Now I only have #bStaff Sergeant Charlie#k to find.."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="123">
+            <string name="desc" value="It may not be the right order of ranks, but I did meet #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="132">
+            <string name="desc" value="It may not be the right order of ranks, but I did meet #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="213">
+            <string name="desc" value="It may not be the right order of ranks, but I did meet #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="231">
+            <string name="desc" value="It may not be the right order of ranks, but I did meet #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="312">
+            <string name="desc" value="It may not be the right order of ranks, but I did meet #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="321">
+            <string name="desc" value="With the right order of ranks, I met #bStaff Sergeant Charlie#k at Orbis, #bSergeant Bravo#k at a snowfield, and #bCorporal Easy#k at the old-looking tower. I should get these 3 pieces of documents back to Master Sergeant Fox now!!"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end1">
+            <string name="desc" value="Just like the way Master Sergeant Fox requested, I met his men in order of ranks and got the 3 pieces of an ancient document to him. He was really happy about it, and gave me the scroll made out of those pieces. He also wished that I could drop by sometime later and see how the other men are doing...maybe I should..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="end2">
+            <string name="desc" value="I may not have met the men in order, but I still did meet the members of the Alpaso Platoon and got the 3 pieces of an ancient document to him. He was really happy about it, and gave me the scroll made out of those pieces. He also wished that I could drop by sometime later and see how the other men are doing...maybe I should..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="end3">
+            <string name="desc" value="I may not have met the men in order, but I still did meet the members of the Alpaso Platoon and told Master Sergeant Fox of their whereabouts. Unfortunately, I lose the pieces of the ancient document, but he was still happy and gave me a little bit of mesos. He also wished that I could drop by sometime later and see how the other men are doing...maybe I should..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="end4">
+            <string name="desc" value="Just like the way Master Sergeant Fox requested, I met his men in order of ranks and told him of their whereabouts. Unfortunately, I lose the pieces of the ancient document, but he was still happy and gave me a little bit of mesos. He also wished that I could drop by sometime later and see how the other men are doing...maybe I should..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000201">
+        <imgdir name="info">
+            <string name="subject" value="Manji&apos;s Ragged Gladius"/>
+            <string name="req" value="Level 45, Beginners not allowed"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="ms">
+            <string name="desc" value="I ran into Manji from Perion again, the same Manji that I met while I was helping the little Maya get her medicine. He was shocked by my stronger appearance, and wanted to ask me for a favor. Long long ago, he was in danger of being attacked by Balrog, only to be saved by the legendary hero Tristan. He died in place of Manji, and for that, he&apos;s been keeping that sword to this day. Too bad the sword has been soaked in Balrog&apos;s evilness and is as ragged as possible. It&apos;s too embarrassing to even call it a sword now. Anyway, he gave me the #rRagged Gladius#k and wanted me to reawaken it for him. If it indeed gets reawaken, it becomes the #bHero&apos;s Gladius#k ...I should go see Chrishrama of Sleepywood just the way Manji said it..."/>
+        </imgdir>
+        <imgdir name="mc">
+            <string name="desc" value="I found Chrishrama of Sleepywood, and showed him the #bragged Gladius#k that Manji gave me. He claimed to have made it himself, and that he needs a #bstar rock, 1 piece of ice, 1 ancient scroll, and 1 flamed feather#k. I&apos;ve never heard of any of those, so I don&apos;t know how I&apos;m going to even start with this...Chrishrama said they only way I can get is to talk to Mike who&apos;s guarding the entrace of the dungeon."/>
+            <string name="prev" value="ms"/>
+        </imgdir>
+        <imgdir name="mh">
+            <string name="desc" value="I got all the materials needed to reawaken the sword to Chrishrama. He couldn&apos;t believe his eyes, but went on with it, and reawoke the sword into #bHero&apos;s Gladius#k. It gives off a mystic light...and it&apos;s a really nice sword! Hmmm...I don&apos;t know if I should really give it to him..."/>
+            <string name="prev" value="mc"/>
+        </imgdir>
+        <imgdir name="yes">
+            <string name="desc" value="It was tough, but I returned the reawaken #bHero&apos;s Gladius#k to Manji. He was ecstatic over it, and handed me a #bskull earring#k, an article left by his dead friend. I&apos;m guessing he&apos;s accepting me now. It feels weird wearing a skull around my ear, but it&apos;s from Manji, so I should take care of it too..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="no">
+            <string name="desc" value="I returned to Manji with the reawaken #bHero&apos;s Gladius#k, but...I said no to his request to return the sword. He took care of it as if it was his life, and for me to say no to that, he must&apos;ve been REALLY mad about it...he told me to get out of his sight right this minute...I can&apos;t talk to him anymore...now it won&apos;t work even if I tell him to take it...I&apos;m happy about the sword I have now, but it just doesn&apos;t feel right..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000701">
+        <imgdir name="info">
+            <string name="subject" value="Sabitrama&apos;s Anti-Aging Medicine"/>
+            <string name="req" value="Level 50"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="2_01">
+            <string name="desc" value="I ran into #bSabitrama#k again in front of the Sleepywood hotel, the same one I helped get herbs before. This time, he said he found a place where I can get the important herb that he needed for his new medicine. He asked me if I could go into that forest and grab #bDouble-rooted Red Ginseng#k for him. The root is in two, and red ... I should remember it well and find the same one once I get to the top. The place where this may be at is #bShane#k of Ellinia ..."/>
+        </imgdir>
+        <imgdir name="2_02">
+            <string name="desc" value="I ran into #bSabitrama#k again in front of the Sleepywood hotel, the same one I helped get herbs before. This time, he said he found a place where I can get the important herb that he needed for his new medicine. He asked me if I could go into that forest and grab #bTriple-rooted Red Ginseng#k for him. The root is in three, and red ... I should remember it well and find the same one once I get to the top. The place where this may be at is #bShane#k of Ellinia..."/>
+        </imgdir>
+        <imgdir name="2_51">
+            <string name="desc" value="I ran into #bSabitrama#k again in front of the Sleepywood hotel, the same one I helped get herbs before. I felt about not gettingthe right one then...this time, he said he found a place where I can get the important herb that he needed for his new medicine. He asked me if I could go into that forest and grab #bSinle-rooted Ginseng#k for him. The root is in two, and red ... I should remember it well and find the same one once I get to the top. The place where this may be at is #bShane#k of Ellinia..."/>
+        </imgdir>
+        <imgdir name="2_52">
+            <string name="desc" value="I ran into #bSabitrama#k again in front of the Sleepywood hotel, the same one I helped get herbs before. I felt about not gettingthe right one then...this time, he said he found a place where I can get the important herb that he needed for his new medicine. He asked me if I could go into that forest and grab #bDouble-rooted Ginseng#k for him. The root is in two, and yellow ... I should remember it well and find the same one once I get to the top. The place where this may be at is #bShane#k of Ellinia..."/>
+        </imgdir>
+        <imgdir name="2_53">
+            <string name="desc" value="I ran into #bSabitrama#k again in front of the Sleepywood hotel, the same one I helped get herbs before. I felt about not gettingthe right one then...this time, he said he found a place where I can get the important herb that he needed for his new medicine. He asked me if I could go into that forest and grab #bTriple-rooted Ginseng#k for him. The root is in Tripe, and white ... I should remember it well and find the same one once I get to the top. The place where this may be at is #bShane#k of Ellinia ..."/>
+        </imgdir>
+        <imgdir name="2_11">
+            <string name="desc" value="After going through so much crap, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #double-rooted red ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_01"/>
+        </imgdir>
+        <imgdir name="2_12">
+            <string name="desc" value="After going through so much crap, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #btriple-rooted red ginseng#k...I&apos;m hoping this is the one Sabitrama asked me to get..."/>
+            <string name="prev" value="2_02"/>
+        </imgdir>
+        <imgdir name="2_61">
+            <string name="desc" value="After going through so much crap, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #single-rooted ginseng#k...I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_51"/>
+        </imgdir>
+        <imgdir name="2_62">
+            <string name="desc" value="After going through so much crap, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #double-rooted ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get..."/>
+            <string name="prev" value="2_52"/>
+        </imgdir>
+        <imgdir name="2_63">
+            <string name="desc" value="After going through so much crap, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #triple-rooted ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get..."/>
+            <string name="prev" value="2_53"/>
+        </imgdir>
+        <imgdir name="2_91">
+            <string name="desc" value="I felt like giving up numerous times, but, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #double-rooted red ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_01"/>
+        </imgdir>
+        <imgdir name="2_92">
+            <string name="desc" value="I felt like giving up numerous times, but, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #triple-rooted red ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_02"/>
+        </imgdir>
+        <imgdir name="2_81">
+            <string name="desc" value="I felt like giving up numerous times, but, I finally found the pile of herbs at the top of level 5 of the Forrest of Patience. Amidst the pile, I grabbed a #single-rooted ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get..."/>
+            <string name="prev" value="2_51"/>
+        </imgdir>
+        <imgdir name="2_82">
+            <string name="desc" value="I felt like giving up numerous times, but, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #double-rooted ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_52"/>
+        </imgdir>
+        <imgdir name="2_83">
+            <string name="desc" value="I felt like giving up numerous times, but, I finally found the pile of herbs at the top of level 5 of the Forest of Patience. Amidst the pile, I grabbed a #triple-rooted ginseng#k ... I&apos;m hoping this is the one Sabitrama asked me to get ..."/>
+            <string name="prev" value="2_53"/>
+        </imgdir>
+        <imgdir name="2_00">
+            <string name="desc" value="Thankfully I got the one that Sabitrama asked me to get, and for that, I got rewarded with a mysterious rock. And from here on out, I don&apos;t have to pay Shane everytime I go in the Forest of Patience. From what I hear, that anti-aging medicine Sabitrama is working on may be what Shane needed ... if I have time, I should go back in there ..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+        <imgdir name="2_99">
+            <string name="desc" value="I worked so hard for it, but I wound up getting something that he didn&apos;t want. But he rewarded me nonetheless with #b50 Elixir&apos;s#k, so all that wasn&apos;t for nothing... And from here on out, I don&apos;t have to pay Shane everytime I go in the Forest of Patience. From what I hear, that anti-aging medicine Sabitrama is working on may be what Shane needed...if I have time, I should go back in there..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000801">
+        <imgdir name="info">
+            <string name="subject" value="Luke the Security Man&apos;s Wish to Travel"/>
+            <string name="req" value="Level 50, Warrior only"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I met Luke at the entrance of the dungeon again. The Snake Drink back then is gone now because his mom drank it all...anyway, Luke was ready to quit the boring life of a security man and wanted to travel...and to make a glove that befits the traveling, Mr. Smith of Perion suggested #b1 black feather, 10 Orihalcon&apos;s, 50 dragon skins, 40 screws, and 3 horns of Taurospear!! That&apos;s insane...well, I&apos;m guessing he wants me to collect them for him...oh, do the fairies of Ellinia know something about it?"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Luke all the materials he needed for the nice glove, and return, he gave me a very precious item that has been passed down from generaition to generation, an #bold bronze normal Helm#k. I feel like I&apos;m losing out on this deal...but I can&apos;t get mad at him since it&apos;s been passed down from generation to generatoin. I heard Mr. Thunder can make this helmet even better...I should go there sometime later.."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000301">
+        <imgdir name="info">
+            <string name="subject" value="Pia&apos;s Present For a Friend"/>
+            <string name="req" value="Level 55, Thief only"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I ran into that same teddy-bear-costume-wearig Pia at the Henesys Park. I did her a favor and took care of the blue mushrooms before. This time, she wants to make a present for a friend in Ellinia who wants to go out on a journey. The claw that she wants to make for her consists of #b15 silver plates, 50 dragon skins, and 40 screws#k...and for the friend, she also wanted me to get back the #bRed Cape#k that Rina of Henesys borrowed. If I get her all these...am I going to be richly rewarded?"/>
+        </imgdir>
+        <imgdir name="g">
+            <string name="desc" value="I went to see Rina at Henesys, and instead, she tells me she took that red cape because Pia didn&apos;t return the items she borrowed from her. She said, if she gets her items back, then the cape is hers again...the borrowed stuff are #b1 black crystal, 1 ancient scroll, and 30 horns of Tauromacis."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="p">
+            <string name="desc" value="I got Rina #b1 black crystal, 1 ancient document, and 30 horns of Tauromacis#k, and in return, I got Pia&apos;s #bred cape#k back. With that and #b15 silver, 50 dragon skins, and 40 screws#k, I should go back to Pia..."/>
+            <string name="prev" value="g"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Pia of Henesys Park all the materials she requested for her friend&apos;s claw, and in return, got myself a thief-only clothes...wow...since that was made just for me, I should take good care of these, right? Anyway, did that friend of Pia&apos;s leave by now? Who knows? I may see him sometime..."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000602">
+        <imgdir name="info">
+            <string name="subject" value="Ronnie &amp; the Fairies Building a New House."/>
+            <string name="req" value="Level 55, Magicians only"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="Ronnie from the forest of Ellinia asked me a favor of gathering up materials to build a house for the newborn fairies that are to come down the road. #b50 of orange mushroom caps, leaves, squishy liquid, and red snail shells each#k ... I guess I can get most of these from the monsters around the prairie ..."/>
+        </imgdir>
+        <imgdir name="1e">
+            <string name="desc" value="I got all the items Ronnie requested, but when do I get rewarded for this? What? How many more times do I have to do this??"/>
+            <string name="prev" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="This time Ronnie wanted #b50 of octopus legs, Curse Eye tails, wild boar tooth, and the charm of the undead EACH#k. These are probably available by the monsters around the deep forest, highland, and ant tunnels. "/>
+            <string name="prev" value="1e"/>
+        </imgdir>
+        <imgdir name="2e">
+            <string name="desc" value="I got them all for Ronnie. Please don&apos;t tell me he wanted all these for free...!"/>
+            <string name="prev" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="This time Ronnie wanted #b50 each of Drake&apos;s skull, Stone Gollem&apos;s pieces of rock, the skin of Croko, and Lupin&apos;s banana#k. I can probably get those from the monsters at the ant hole, prarie, and at swamp...this is getting quite difficult now..."/>
+            <string name="prev" value="2e"/>
+        </imgdir>
+        <imgdir name="3e">
+            <string name="desc" value="I got them all for Ronnie. I&apos;m still not getting anything?? How many more times do I have to do this??"/>
+            <string name="prev" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="Ronnie asked for the last time. This time he wanted #b50 each of medicine with weird vibe, dark stone gollem&apos;s pieces of rock, Wild Cargo&apos;s eyes, and Tauromacis&apos;s horns, along with 1 diamond#k. I can sort of get this, but for me to hunt at subway, deep forest, the ant tunnel ... it sucks!!"/>
+            <string name="prev" value="3e"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got all the materials Ronnie needed for the last time. Is this it? For the reward, he gave me a pair of shoes he got as a gift from the fairies that found it somewhere around the forest. Somehow, he can&apos;t put the shoes on, so I&apos;m getting it ... hopefully it works ... haha"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1000202">
+        <imgdir name="info">
+            <string name="subject" value="Collecting For Maya"/>
+            <string name="req" value="Level 55, only for Bowman"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="desc" value="I got a favor request from Maya of Henesys, who has been collecting various items. She wanted #b50 each of snail shells, blue snail shells, mushroom spores, and tree branches#k. Maybe..well it looks like I can get these from the monsters around the prarie..."/>
+        </imgdir>
+        <imgdir name="1e">
+            <string name="desc" value="I got all the items Maya requested, but when do I get rewarded for this? What? How many more times do I have to do this??"/>
+            <string name="prev" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="This time Maya wanted #b50 each of fireboar teeth, Bubbling&apos;s huge bubbles, pig ribbons, and tablecloths#k. Apparently I can get those by hunting down the monster around the plateau, subway station, and prairies...well, that&apos;s easy!"/>
+            <string name="prev" value="1e"/>
+        </imgdir>
+        <imgdir name="2e">
+            <string name="desc" value="I got them all for Maya. Please don&apos;t tell me she wanted all these for free..."/>
+            <string name="prev" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="This time, Maya requested #b10 Lupin Dolls and 50 each of Cold Eye&apos;s tail, Tortie&apos;s shell, and Iron Hog&apos;s Steel Hoof#k. Apparently I can get those through monsters at the highland, beach, and prarie. This is getting harder now..."/>
+            <string name="prev" value="2e"/>
+        </imgdir>
+        <imgdir name="3e">
+            <string name="desc" value="I got them all for Maya. I&apos;m still not getting anything?? How many more times do I have to do this??"/>
+            <string name="prev" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="Maya requested, for the last time, #b50 each of Clang&apos;s claws, Dark Stone Gollem&apos;s pieces of rock, the eyes of Wild Cargo, and Tauromacis&apos;s horns, along with one diamond#k. Apparently I can get those through monsters at the beach, deep forest, and deep into the ant tunnel ... this is RIDICULOUS! It&apos;s too hard !! "/>
+            <string name="prev" value="3e"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got all the items Maya requested for the last time...or is it? As a sign of appreciation, she gave me a pair of shoes her grandma made for Athena Pierce, the chief of this town. It may be really old, but it still looks solid like brand new!!"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1002000">
+        <imgdir name="info">
+            <string name="subject" value="Collecting Huckle&apos;s Magic Ingredients"/>
+            <string name="req" value="None"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I met an old man named Huckle at the hidden room in the middle of Orbis Tower. He&apos;s been living in there for 30 years, studying the physics of the self-moving stones. He wants me to gather up #b45 Jr. Sentinel Shellpieces, 20 Ice Sentinel Shellpieces, and 20 Fire Sentinel Shellpieces#k. Alright, let&apos;s do this …"/>
+        </imgdir>
+        <imgdir name="end">
+            <int name="end" value="1"/>
+            <string name="desc" value="I got Huckle, the old man living in the hidden room at the Orbis Tower, the items he had requested, and in return, got the Statue-Teleporting Scroll. It allows me to teleport between the statue at the 20th floor of Orbis Tower, and the 1st floor. Huckle looks like he needs more samples, so I guess I&apos;ll need to keep looking for those …"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001500">
+        <imgdir name="info">
+            <string name="subject" value="Looking for a Book of Ancient"/>
+            <string name="req" value="Level 55"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I met #bAlcaster#k, the archeologist, at Elnath. He said he had heard about #b&quot;book of ancient&quot;#b, which tells about the Great World War, happened hundreds years ago. Hmm… interesting…The only offspring of &quot;book of ancient&quot; &apos;s author is #bHela#k living in Orbis. I better go to find her right now~"/>
+        </imgdir>
+        <imgdir name="hs">
+            <string name="desc" value="#bHella#k, the lone surviving descendent of the author of the &quot;Book of Ancient&quot;, has been missing for a while… Where can I find her?"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="he">
+            <string name="desc" value="It was #bHella#k who was the assistant of old Spiruna, living in Orbis Park. She said she said she lost the book in the snowfield. Jade said that I better look for the book in the #bgrave#k at the snowfield."/>
+            <string name="prev" value="hs"/>
+        </imgdir>
+        <imgdir name="ks">
+            <string name="desc" value="I found the #bold ring#k at the little grave. Well… What should I do with this?... Well… No idea~…. Since there is nobody else, I should bring this to #bAlcaster#k, first…"/>
+            <string name="prev" value="he"/>
+        </imgdir>
+        <imgdir name="ke">
+            <string name="desc" value="I accepted Scadur&apos;s request and I heard I should bring this ring to #bThe Four Wisemen at the Victoria Island#k."/>
+            <string name="prev" value="ks"/>
+        </imgdir>
+        <imgdir name="fe">
+            <string name="desc" value="I met the Four Wisemen at the Victoria Island and got #b4 pieces of the map#k, which probably indicates where the &quot;Book of Ancient&quot; is. I better get back to Alcaster~"/>
+            <string name="prev" value="ke"/>
+        </imgdir>
+        <imgdir name="ms">
+            <string name="desc" value="To put 4 pieces of maps together, I should have #bmemory powder#k… I heard #bCorporal Easy#k have it… I better go to Orbis…"/>
+            <string name="prev" value="fe"/>
+        </imgdir>
+        <imgdir name="mw">
+            <string name="desc" value="Corporal Easy and I had a deal. If I give him #b3 toenails of Werewolf#k, he would give me memory powder for return. Hmm… Werewolf… It might be tough… I should give it a try…"/>
+            <string name="prev" value="ms"/>
+        </imgdir>
+        <imgdir name="mg">
+            <string name="desc" value="I got the #bmemory powder#k from Corporal Easy. Well.. it is time to go back to Alcaster~"/>
+            <string name="prev" value="mw"/>
+        </imgdir>
+        <imgdir name="me">
+            <string name="desc" value="Alcaster made four pieces of maps to a whole map by using memory powder. According to the map, #bThe Book of Ancient#k is at the bottom of the unknown sculpture in Orbis Tower."/>
+            <string name="prev" value="mg"/>
+        </imgdir>
+        <imgdir name="fb">
+            <string name="desc" value="I finally got #bThe Book of Ancient#k. I should go back to Alcaster right now~"/>
+            <string name="prev" value="me"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I finally gave #bThe Book of Ancient#k to Alcaster and I got the special cape for return. He said he would focus on sealing this book… I wish him the best luck for his work…"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001501">
+        <imgdir name="info">
+            <string name="subject" value="Missing Hella"/>
+            <string name="req" value="Level 55"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="As Alcaster said, I went to the Hella&apos;s house in Orbis, but the only person I could meet was #bElma#k, the housekeeper of Hella. Elma said Hella had been missing for few months… She also said that #bJade in El Nath#k was the best friend of Hella. I better meet him…"/>
+        </imgdir>
+        <imgdir name="h1">
+            <string name="desc" value="I asked Jade about Hella, but he didn&apos;t know where she is, either. Since there is nobody else to ask about her, I should ask Jade, one more time…"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="h2">
+            <string name="desc" value="Jade said Hella might went out to get #bstolen articles left by her mother#k. He suggested me to go back to Hella&apos;s house once again and ask Elma about Hella."/>
+            <string name="prev" value="h1"/>
+        </imgdir>
+        <imgdir name="h3">
+            <string name="desc" value="Elma had heard from Hella about the #bold lady#k before she became missing. Elma said I should ask Jade about old lady. "/>
+            <string name="prev" value="h2"/>
+        </imgdir>
+        <imgdir name="h4">
+            <string name="desc" value="Jade said the old lady Hella talked about might be #bSpiruna#k living in Orbis Park. "/>
+            <string name="prev" value="h3"/>
+        </imgdir>
+        <imgdir name="h5">
+            <string name="desc" value="The assistant of #bOld Spiruna#k was Hella!"/>
+            <string name="prev" value="h4"/>
+        </imgdir>
+        <imgdir name="h6">
+            <string name="desc" value="I got the request from Hella to bring #bher pendant#k to Jade. She also said that she had lost the Book of Ancient in the snowfield. Well… I better go back to Jade."/>
+            <string name="prev" value="h5"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I gave Jade #bHella&apos;s Pendant#k and told him Hella lost the Book of Ancient in snowfield. Jade said I better look for the book in the #blittle grave#k at the snowfield, Well… anyway It is good to let him know Hella is okay…"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001502">
+        <imgdir name="info">
+            <string name="subject" value="Black Crystal of Old Spiruna"/>
+            <string name="req" value="Level 55"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I went to Spiruna&apos;s house in the Orbis Park to meet Hella. But Spiruna acts like she doesn&apos;t even know Hella. But I am sure she does..."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="desc" value="This old lady... Errr...."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="desc" value="Let see who wins!!!"/>
+            <string name="prev" value="2"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="desc" value="I am sure she knows Hella... Err... I will keep asking her till she answers me..."/>
+            <string name="prev" value="3"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="desc" value="Oh my god... I will ask, one last time..."/>
+            <string name="prev" value="4"/>
+        </imgdir>
+        <imgdir name="s1">
+            <string name="desc" value="Spiruna said she would tell me anything if I get the #bblack crystal#k , which she has lost when she went out to get some herbs couple of days ago."/>
+        </imgdir>
+        <imgdir name="s2">
+            <string name="desc" value="I found Spiruna&apos;s #bblack crystal#k under the rock, but it is broken… Well… anyway…I should go back to Spiruna."/>
+            <string name="prev" value="s1"/>
+        </imgdir>
+        <imgdir name="s3">
+            <string name="desc" value="Well…Well…Well… Spiruna yelled at me and said it was me who broke the black crystal… I should ask for the help to the girl living with Spiruna…"/>
+            <string name="prev" value="s2"/>
+        </imgdir>
+        <imgdir name="s4">
+            <string name="desc" value="The girl said the only way I can calm Spiruna down is to find the #bfairy powder#k, which can fix broken black crystal. Hella said #bKriel the Fairy#k in the Orbis potion shop might have the #bfairy powder#k. "/>
+            <string name="prev" value="s3"/>
+        </imgdir>
+        <imgdir name="s5">
+            <string name="desc" value="#bKriel the Fairy#k said that I should bring #b100 Star Pixie&apos;s Starpieces#k, #b50 Lunar Pixie&apos;s Moonpieces#k and #b30 Luster Pixie&apos;s Sunpieces#k. Time to hunt some Pixies~"/>
+            <string name="prev" value="s4"/>
+        </imgdir>
+        <imgdir name="s6">
+            <string name="desc" value="I gave everything #bKriel the Fairy#k asked for and got the #bfairy powder#k for return. I should get back to Spiruna now."/>
+            <string name="prev" value="s5"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="Once Spiruna gets the #bfairy powder#k, she starts talking to me and says her assistant is #bHella#k. Oh my goodness… I even talked to her and I did not know who she was? Anyway… Hella said she came here to have a big power after she lost her mother by dark magic… Then, it means this old lady is really powerful…"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001503">
+        <imgdir name="info">
+            <string name="subject" value="Scadur the Hunter"/>
+            <string name="req" value="Level 55"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I finally got a hold of the #bold ring#k from the corpse at the small grave Jade told me to go to. This should hold the key to finding the #bBook of Ancient#k … anyway, I should go talk to #bAlcaster#k about it."/>
+        </imgdir>
+        <imgdir name="k1">
+            <string name="desc" value="I visited Scadur the hunter of El Nath with the #bold ring#k, but instead, I had that ring taken away from me."/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="k2">
+            <string name="desc" value="#bScadur#k bargained with me that the price of wolf skin has skyrocketed, and that if I get him 100 tails of Hector and 100 tails of White Pang, then he&apos;ll return the ring, along with telling me everything he knows about everything."/>
+            <string name="prev" value="k1"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got the items Scadur wanted, and I got my #bold ring#k back. He told me he had heard about the ring back in the day from the four wisemen in Victoria Island, and recommended that I go visit each of the #bfour wisemen#k. He also wanted me to see the wiseman at #bPerion#k first, and foremost."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001504">
+        <imgdir name="info">
+            <string name="subject" value="The Four Wisemen at the Victoria Island"/>
+            <string name="req" value="Level 55"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I showed the wiseman of Perion, #bDances with Balrog#k the ring, and, much to my delight, he told me he has an item that can hold the key to finding the Book of Ancient. Of course, he wanted me to get something for him for that. He wanted #b2 Power Crystals#k to recover health, and then he&apos;ll give me the clues for the Book of Ancient."/>
+        </imgdir>
+        <imgdir name="f1">
+            <string name="desc" value="I handed Dances with Balrog the 2 Power Crystals he had requested, and in return, I got the 1st #bold piece of map#k. The map has been split into four pieces, each of them taken care of by each of the four wisemen. I&apos;ve also been requested to collect all four, and then use it to find the book and then seal it up for good. Now I got to go see the wiseman from #bEllinia#k…"/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="f2">
+            <string name="desc" value="The wiseman of Ellinia, #bGrendel the Really Old#k, has promised me to give me the 2nd piece of the map, provided that I get him #b2 Wisdom Crystals#k. "/>
+            <string name="prev" value="f1"/>
+        </imgdir>
+        <imgdir name="f3">
+            <string name="desc" value="I handed Grendel the Really Old the two crystals of wisdom, and I got the 2nd #bold piece of map#k. Now I got to go see the wiseman from #bHenesys#k…"/>
+            <string name="prev" value="f2"/>
+        </imgdir>
+        <imgdir name="f4">
+            <string name="desc" value="The wiseman of Henesys, #bAthena Pierce#k, has promised me to give me the 3rd piece of the map, provided that I get her #b2 DEX Crystals#k."/>
+            <string name="prev" value="f3"/>
+        </imgdir>
+        <imgdir name="f5">
+            <string name="desc" value="I handed Athena Pierce the 2 DEX Crystals, and I got the 3rd #bold piece of map#k in return. Now I got to go see the wiseman from #bKerning City#k…"/>
+            <string name="prev" value="f4"/>
+        </imgdir>
+        <imgdir name="f6">
+            <string name="desc" value="The wiseman of Kerning City, #bDark Lord#k, has promised me to give me the 3rdd piece of the map, provided that I get him #b2 crystals of luck#k."/>
+            <string name="prev" value="f5"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I&apos;ve met all four wisemen at the Victoria Island, and came away with the #b4 pieces of the old map#k. I guess my job now is to find the Book of Ancient and safely seal it up for good, just the way they envisioned it. Now I better head off to El Nath and see Alcaster."/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001600">
+        <imgdir name="info">
+            <string name="subject" value="Alcaster and the Dark Crystal"/>
+            <string name="req" value="Level 60"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="Alcaster of El Nath said, in order to seal up the #bBook of Ancient#k, he&apos;ll need #bDark Crystal#k and #bRock of Star#k. I promised to get it for him, but ... the ore of Dark Crystal is available through monsters with sinister heart ... Once I gather up the ores, I need to take it to Spiruna at Orbis Park to get it refined ..."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Alcaster the #bDark Crystal#k and the #bRock of Star#k. He may have spent half of his almighty power trying to seal up the #bBook of Ancient#k, but he seems very relieved and ecstatic to do so ... "/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1001900">
+        <imgdir name="info">
+            <string name="subject" value="Nick, the Son of Scadur the Hunter"/>
+            <string name="req" value="Level 65"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I met up with Scadur the hunter again through the request of Alcaster. He told me a story of how, a long time ago, a bunch of monsters from the dead mine claimed the life of his wife, enraging his son Nick. 3 years later, he went into the dead mine, hoping to avenge his mother&apos;s death, but haven&apos;t been heard since. He wants me to find #bNick&apos;s Ring#k somewhere at the innermost part of the lava cave. He also wants me to grant his dying wish, which would be collecting #b100 Cerebes&apos; teeth#k. This will be VERY tough to do ..."/>
+        </imgdir>
+        <imgdir name="g">
+            <string name="desc" value="I found what appears to be Nick&apos;s #bring#k at the bottom of the scraps of the statue at the innermost part of the lava cave. Seems to have a name engraved on the ring ... maybe Scadur knows what&apos;s up. "/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I found Nick&apos;s ring at the lava cave, and I also collected a number of Bulldawg&apos;s teeth, getting them all to Scadur. Hopefully Nick will be satisfied with this... I got a cape from Scadur that&apos;s been passed down from generation to generation ... this ain&apos;t bad at all! "/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="7000000">
+        <imgdir name="info">
+            <string name="subject" value="Zakum Dungeon, Level I"/>
+            <string name="req" value="Level 50"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I&apos;ve been cleared by the chief of El Nath to enter the Zakum Dungeon. Apparently there&apos;s an incredible monster at the innermost part of the dungeon … I need to go see Adobis first."/>
+        </imgdir>
+        <imgdir name="fail">
+            <string name="desc" value="I tried hard going through the 1st level, but had to quit midway through. It&apos;s not easy meeting up with the boss … sigh … well, I better go visit Adobis once I get ready for this. "/>
+            <string name="prev" value="s"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got through the 1st level just fine, and found a #bpiece of fire ore#k. I need another item. Can I get it at the 2nd level? "/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="7000001">
+        <imgdir name="info">
+            <string name="subject" value="Zakum Dungeon, Level II"/>
+            <string name="req" value="Level 50"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="At level 2, I can gather up another material for the item needed to summon up the boss. After going through all the obstacles, apparently the material is at the end, waiting to be picked up … I better hope I don&apos;t fall into the lava…"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got through the 2nd level just fine, and found an item called #bBreath of Lava#k. So, am I supposed to refine this and the #bpieces of fire ore#k for THE ITEM?"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="7000002">
+        <imgdir name="info">
+            <string name="subject" value="Zakum Dungeon, Level III"/>
+            <string name="req" value="Level 50"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="Adobis tells me that if I gather up #b30 pieces of zombie&apos;s lost gold tooth#k, then I can get #bLava&apos;s Breath#k and #bpiece of fire ore#k refined. Where can I get them... "/>
+        </imgdir>
+        <imgdir name="s2">
+            <string name="desc" value="Adobis tells me that if I gather up #b30 pieces of zombie&apos;s lost gold tooth#k, then I can get #bLava&apos;s Breath#k and #bpiece of fire ore#k refined. Where can I get them..."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Adobis the items he needed, and in return, got #bThe Eye of Fire#k, which is the refined product of the combination of #bBreath of Lava#k and the #bpieces of ores of fire#k. So, now that I got this, I should set it on top of the altar, and… the boss … will …?!?!?! "/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1002200">
+        <imgdir name="info">
+            <string name="subject" value="Lost Guard"/>
+            <string name="req" value="None"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I meet the lost guard in Eos Tower 93rd Floor. He says he needs to go down to 59th floor, but there are too many monsters blocking his way. He asks me to get #b30 Worn-Out Goggles &amp; 30 Propellers#k."/>
+        </imgdir>
+        <imgdir name="end">
+            <int name="end" value="1"/>
+            <string name="desc" value="I got scrolls for activating Eos Rock by giving the items he asked for. he said the scrolls will make you to warp the other Eos rocks... And I think he should kill more monsters to get down to 59th floor. So I better visit him from time to time."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1002100">
+        <imgdir name="info">
+            <string name="subject" value="Cleaning up Eos Tower"/>
+            <string name="req" value="Lv. 30, All"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="default">
+            <string name="desc" value="Marcel asked me to kill #b50 Ratz#k living in Eos Tower.\n\n Ratz to kill : #r#a10021001##k"/>
+        </imgdir>
+        <imgdir name="000">
+            <string name="desc" value="Marcel asked me to kill #b50 Ratz#k living in Eos Tower. I killed them all~\n\n Ratz to kill : #b#a10021001##k"/>
+        </imgdir>
+        <imgdir name="end1">
+            <string name="desc" value="I killed all #bRatz#k, which Marcel asked for, but Looks like there&apos;s still more to be cleaned inside the Eos Tower"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1002101">
+        <imgdir name="info">
+            <string name="subject" value="Cleaning deep inside the Eos Tower"/>
+            <string name="req" value="Lv. 30, All"/>
+            <int name="island" value="2"/>
+        </imgdir>
+        <imgdir name="default">
+            <string name="desc" value="Marcel asked me to kill #b50 Black Ratz#k and #b50 Trixter#k living deep inside Eos Tower.\n\nBlack Ratz to kill : #r#a10021011##k\n Trxier to kill : #r#a10021012##k "/>
+        </imgdir>
+        <imgdir name="000000">
+            <string name="desc" value="Marcel asked me to kill #b50 Black Ratz#k and #b50 Trixter#k living deep inside Eos Tower.I killed them all~\n\nBlack Ratz to kill : #b#a10021011##k\n Trxier to kill : #b#a10021012##k "/>
+        </imgdir>
+        <imgdir name="end2">
+            <string name="desc" value="I killed all #bBlack Ratz#k &amp; #bTrixter#k which Marcel asked for, but Looks like there&apos;s still more to be cleaned outside of the Eos Tower"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8020000">
+        <imgdir name="info">
+            <string name="subject" value="Cody and the Theme Park"/>
+            <string name="req" value="Level 20"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I ran into a programmer from Wizet while walking around Henesys! His name is Cody, and he seemed to be looking for some help. He&apos;s been asking anyone and everyone, so he and the people at Wizet could build a #bGlobal Theme Park#k for us. He wanted me to get him #b100 tree branches, 50 pieces of wild boar&apos;s tooth, 1 steel plate, and 1000 mesos#k.. I better get these items soon, or I&apos;ll hear him complain about how I don&apos;t keep my end of the promise."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Cody all the items he was asking for: #b100 tree branches, 50 pieces of wild boar&apos;s tooth, 1 steel plate, and 1000 mesos#k. It wasn&apos;t terribly difficult to do. He gave me a Maple Flag as a sign of appreciation … Hmmm, this looks pretty cool. Anyway, now that I got him the stuff, the theme park better get here soon!"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8020001">
+        <imgdir name="info">
+            <string name="subject" value="Halloween with Ria"/>
+            <string name="req" value="None"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="I was told to gather up 250 candies, but I couldn&apos;t get them all to her on time. Shucks, if only I could find out what she was going to get me as a reward …"/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I got Ria all the candies she asked for, and she got me a nice Halloween pumpkin basket. It looks pretty cool to carry around. I&apos;ll start filling these up with chocolates and candies…"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8020002">
+        <imgdir name="info">
+            <string name="subject" value="Thanksgiving with Maple Administrator"/>
+            <string name="req" value="None"/>
+            <int name="island" value="1"/>
+        </imgdir>
+        <imgdir name="s">
+            <string name="desc" value="The Maple Administrator in Henesys challenged me to gather up all the letters that make up the word #bMAPLESTORY#k, available through monsters. This shouldn&apos;t be really THAT difficult and all, but I only have til the 30th to complete this."/>
+        </imgdir>
+        <imgdir name="end">
+            <string name="desc" value="I took on the challenge and got all the letters that consist the word MapleStory to the Maple Administrator in Henesys. Now I need to just wait until the winners are announced on MapleGlobal.com. I hope I can get it…"/>
+            <int name="end" value="1"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

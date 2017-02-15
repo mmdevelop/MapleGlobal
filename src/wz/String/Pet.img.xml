@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Pet.img">
+    <imgdir name="5000000">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="meow~"/>
+        <string name="c1_s2" value="meeeooww~"/>
+        <string name="c1_f1" value="meow? meeeeeoooww?"/>
+        <string name="c1_f2" value="meoow?"/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="You want me to sit, meoww? I&apos;m one smart cat...meow"/>
+        <string name="c2_s2" value="Like this, meow? This is nothing, meow..."/>
+        <string name="c2_s3" value="It&apos;s a piece of cake, meow."/>
+        <string name="c2_s4" value="Too easy, meow~"/>
+        <string name="c2_f1" value="I wanna do something fun, meow~"/>
+        <string name="c2_f2" value="I wanna do something else, meow~"/>
+        <string name="c2_f3" value="It&apos;s too nasty for me to sit, meow~"/>
+        <string name="c2_f4" value="I can&apos;t sit here, because someone peed the ground, meow~"/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="Yes, master~ MEOW~"/>
+        <string name="c3_s2" value="Like this? MEOW~"/>
+        <string name="c3_s3" value="I did well, right? MEOW~"/>
+        <string name="c3_s4" value="Sitting is easy~ MEOW~"/>
+        <string name="c3_f1" value="Master, instead of that...give me some food~ MEOW~"/>
+        <string name="c3_f2" value="Master, let&apos;s do something else for fun~ Meow~"/>
+        <string name="c3_f3" value="I don&apos;t wanna sit right now~ MEOW~"/>
+        <string name="c3_f4" value="Master, you&apos;re talking funny, and I can&apos;t understand you~"/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="Just say it~"/>
+        <string name="c4_s2" value="It&apos;s hard being a pet..."/>
+        <string name="c4_s3" value="Piece of cake..."/>
+        <string name="c4_s4" value="Master, whaddaya think? I&apos;m good right?"/>
+        <string name="c4_f1" value="Why don&apos;t YOU sit...hehe"/>
+        <string name="c4_f2" value="Sitting&apos;s waaay too easy...let me do something else."/>
+        <string name="c4_f3" value="Ahh..I&apos;m sleepy...what&apos;s up? What did you say? I didn&apos;t hear you~"/>
+        <string name="c4_f4" value="Hehe...I was daydreaming, so I couldn&apos;t hear you..."/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="niao...niao..."/>
+        <string name="c5_s2" value="meeeeooooowww...~"/>
+        <string name="c5_f1" value="kaooooooo~!"/>
+        <string name="c5_f2" value="Kao~! Kao~!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="Heeeng...you scare me, meow..."/>
+        <string name="c6_s2" value="That&apos;s not cool, meow..."/>
+        <string name="c6_s3" value="Please don&apos;t make a scary face like that...meow..."/>
+        <string name="c6_s4" value="That...that surprised me, meow..."/>
+        <string name="c6_f1" value="What did I do wrong, meow?"/>
+        <string name="c6_f2" value="You&apos;re just going off on me, meow...!"/>
+        <string name="c6_f3" value="I didn&apos;t do anything wrong, meow...!"/>
+        <string name="c6_f4" value="You&apos;re just doing this because you&apos;re bored, meow...!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="So...sorry...MEOW..."/>
+        <string name="c7_s2" value="I&apos;m sorry...MEOW..."/>
+        <string name="c7_s3" value="Master, are you really mad at me...? MEOW..."/>
+        <string name="c7_s4" value="Master...I won&apos;t do that again...MEOW..."/>
+        <string name="c7_f1" value="What did I do anyway~! MEOW!"/>
+        <string name="c7_f2" value="Master that wasn&apos;t cool at all! Meow~!"/>
+        <string name="c7_f3" value="Where else will you find an obedient pet like me? MEOW~!"/>
+        <string name="c7_f4" value="Master! If you keep doing that, I may one day get out of here! MEOW!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="Master...I&apos;ll be careful now..."/>
+        <string name="c8_s2" value="Ah...master, you&apos;re really scaring me..."/>
+        <string name="c8_s3" value="Master...I&apos;ll be good now..."/>
+        <string name="c8_s4" value="Master...please give me that scary face..."/>
+        <string name="c8_f1" value="Man...I haven&apos;t done anything wrong, and still..."/>
+        <string name="c8_f2" value="Master...things happen in life..."/>
+        <string name="c8_f3" value="Man...going off on me again for no reason..."/>
+        <string name="c8_f4" value="Master must be bored...so I&apos;m treated like crap..."/>
+        <string name="c9" value="stupid|ihateyou|dummy"/>
+        <string name="c9_s1" value="Meeeooooowwww..."/>
+        <string name="c9_s2" value="Meow... ... ..."/>
+        <string name="c9_f1" value="Meeeoooow!!"/>
+        <string name="c9_f2" value="OWWW!!!!"/>
+        <string name="c10" value="stupid|ihateyou|dummy"/>
+        <string name="c10_s1" value="I...I am not that, meow..."/>
+        <string name="c10_s2" value="Please don&apos;t leave me, meow..."/>
+        <string name="c10_s3" value="I don&apos;t like hearing that, meow..."/>
+        <string name="c10_s4" value="That was harsh, meow..."/>
+        <string name="c10_f1" value="Take back what you just said, meow!"/>
+        <string name="c10_f2" value="I&apos;m not that, meow!!"/>
+        <string name="c10_f3" value="I&apos;m pissed, meow!!"/>
+        <string name="c10_f4" value="What are you saying, meow???"/>
+        <string name="c11" value="stupid|ihateyou|dummy"/>
+        <string name="c11_s1" value="M...master...I can&apos;t believe you said that...MEOW!"/>
+        <string name="c11_s2" value="Master, I get hurt when I hear those...MEOW"/>
+        <string name="c11_s3" value="That was a joke...right? Right? MEOW?"/>
+        <string name="c11_s4" value="You...didn&apos;t mean that, right? right? MEOW?"/>
+        <string name="c11_f1" value="You&apos;re stupid! MEOW!"/>
+        <string name="c11_f2" value="Take back what you said! MEOW!!!!!"/>
+        <string name="c11_f3" value="That hurts, master! MEOW!"/>
+        <string name="c11_f4" value="You suck master! MEOW!"/>
+        <string name="c12" value="stupid|ihateyou|dummy"/>
+        <string name="c12_s1" value="Master...this is not the first time I&apos;ve heard this, but it still hurts..."/>
+        <string name="c12_s2" value="You aren&apos;t gonna leave me out hanging like this, right?"/>
+        <string name="c12_s3" value="I still like you though..."/>
+        <string name="c12_s4" value="Do you really not like me??"/>
+        <string name="c12_f1" value="Wah? What? I can&apos;t hear you~"/>
+        <string name="c12_f2" value="You didn&apos;t mean what you said, right?"/>
+        <string name="c12_f3" value="I&apos;m sick of hearing that everyday...hehe"/>
+        <string name="c12_f4" value="If you keep saying that, I can really go pissy on you..."/>
+        <string name="c13" value="poop"/>
+        <string name="c13_s1" value="Meeeeeeeeeeeow~"/>
+        <string name="c13_s2" value="Meeoooooow~"/>
+        <string name="c13_f1" value="Meow? Meeeow?"/>
+        <string name="c13_f2" value="Meooooooow~"/>
+        <string name="c14" value="poop"/>
+        <string name="c14_s1" value="Oh, that was good, meow..."/>
+        <string name="c14_s2" value="Ahhh..."/>
+        <string name="c14_s3" value="It...it&apos;s not coming out well, meow..."/>
+        <string name="c14_s4" value="Oh...it smells, meow..."/>
+        <string name="c14_f1" value="It&apos;s not pooping time yet, meow..."/>
+        <string name="c14_f2" value="How can I poop if I don&apos;t feel like it, meow..."/>
+        <string name="c14_f3" value="Pooping is only for bathroom, meow..."/>
+        <string name="c14_f4" value="I pooped before, meow..."/>
+        <string name="c15" value="poop"/>
+        <string name="c15_s1" value="Phew~ MEOW~"/>
+        <string name="c15_s2" value="Oh my...it smells...MEOW~"/>
+        <string name="c15_s3" value="EEhhh...I may be constipating...MEOW~"/>
+        <string name="c15_s4" value="EEhhh...not coming out...MEOW~"/>
+        <string name="c15_f1" value="Master, it hasn&apos;t been long since I last pooped...MEOW..."/>
+        <string name="c15_f2" value="It&apos;s not time to poop yet, master...MEOW..."/>
+        <string name="c15_f3" value="Master...I don&apos;t feel like pooping yet...MEOW..."/>
+        <string name="c15_f4" value="Don&apos;t YOU poop, master? MEOW..."/>
+        <string name="c16" value="poop"/>
+        <string name="c16_s1" value="Ahhh...that was good...but it&apos;s still embarassing...hehe"/>
+        <string name="c16_s2" value="Ahh...whoa, my breakfast just came out like that...hehe"/>
+        <string name="c16_s3" value="Phew~ Doesn&apos;t my poop look as adorable as me? "/>
+        <string name="c16_s4" value="Phew~ Haven&apos;t taken a crap in 3 days and look at this!! Yowza!"/>
+        <string name="c16_f1" value="I haven&apos;t had anything to poop out in the first place..."/>
+        <string name="c16_f2" value="Master...can I do it later in the dark? I don&apos;t wanna do it in public..."/>
+        <string name="c16_f3" value="Master! YOU POOP"/>
+        <string name="c16_f4" value="Master...how am I gonna crap on purpose??"/>
+        <string name="c17" value="talk|chat|say"/>
+        <string name="c17_s1" value="I&apos;m hungry, hungry, meow~"/>
+        <string name="c17_s2" value="The harder you go hunting, the better the items you&apos;ll find, meow..."/>
+        <string name="c17_s3" value="Isn&apos;t it nice out here today? We should go far and have fun wherever on a day like this, meow..."/>
+        <string name="c17_s4" value="I need a nap on top of a comfortable blanket, meow..."/>
+        <string name="c17_f1" value="How do cats talk, meow~"/>
+        <string name="c17_f2" value="I&apos;m too depressed to talk right now, meow~"/>
+        <string name="c17_f3" value="I have nothing to say to you...meow...!"/>
+        <string name="c17_f4" value="Cats don&apos;t talk, meow!"/>
+        <string name="c18" value="talk|chat|say"/>
+        <string name="c18_s1" value="It&apos;s awesome outside today~MEOW!"/>
+        <string name="c18_s2" value="I have a feeling a nice item may come our way today! MEOW!"/>
+        <string name="c18_s3" value="Master, you&apos;ll get me some goood food today, right? MEOW~"/>
+        <string name="c18_s4" value="Let&apos;s go to the beach today! I wanna do something fun!!"/>
+        <string name="c18_f1" value="I don&apos;t have anything to say...MEOW..."/>
+        <string name="c18_f2" value="I wanna rest~MEOW~"/>
+        <string name="c18_f3" value="I have little to say...MEOW..."/>
+        <string name="c18_f4" value="Feel me first...MEOW!"/>
+        <string name="c19" value="talk|chat|say"/>
+        <string name="c19_s1" value="Master, are you dating someone? I&apos;m not..."/>
+        <string name="c19_s2" value="Hey master, can you beat Barlog?"/>
+        <string name="c19_s3" value="You better level-up today!"/>
+        <string name="c19_s4" value="Master, I heard there&apos;s something scary in a cave in the middle of the island..."/>
+        <string name="c19_f1" value="Ah...screw the talk, just get me some food..."/>
+        <string name="c19_f2" value="Must be really really bored...haha..."/>
+        <string name="c19_f3" value="Arrgh...didn&apos;t hear a thing...didn&apos;t hear a thing..."/>
+        <string name="c19_f4" value="Man I&apos;m tired, and I don&apos;t feel like talking..."/>
+        <string name="c20" value="cutie"/>
+        <string name="c20_s1" value="What do you think, meow? Am I doing well...meow?"/>
+        <string name="c20_s2" value="Even I think this is cute...meow...~"/>
+        <string name="c20_s3" value="Hehe...is this the right way...meow...?"/>
+        <string name="c20_s4" value="You like my butt? I know too...meow...!"/>
+        <string name="c20_f1" value="No! I don&apos;t want to do it...meow...!"/>
+        <string name="c20_f2" value="Dummy! You do it...meow...!"/>
+        <string name="c20_f3" value="Not in a mood...meow...!"/>
+        <string name="c20_f4" value="I&apos;m TIRED, meow...!"/>
+        <string name="c21" value="cutie"/>
+        <string name="c21_s1" value="Master, what do you think? Cute, right? MEOW!"/>
+        <string name="c21_s2" value="Hehe...cute butt I got here right? MEOW!"/>
+        <string name="c21_s3" value="I&apos;ll do anything for you, master~!"/>
+        <string name="c21_s4" value="Whatever you ask me to do...MEOW~!"/>
+        <string name="c21_f1" value="Master! Just get me some food! MEOW!"/>
+        <string name="c21_f2" value="I don&apos;t wanna do cute stuff! MEOW!"/>
+        <string name="c21_f3" value="Master, I don&apos;t feel good! MEOW!"/>
+        <string name="c21_f4" value="Just leave me alone! MEOW!"/>
+        <string name="c22" value="cutie"/>
+        <string name="c22_s1" value="Like this? At least you know a cute act when you see one..."/>
+        <string name="c22_s2" value="Luv ya master~"/>
+        <string name="c22_s3" value="Master I love you~"/>
+        <string name="c22_s4" value="I&apos;ll do whatever you ask me to do~"/>
+        <string name="c22_f1" value="Keeps making me do stupid stuff...I&apos;m sick of it..."/>
+        <string name="c22_f2" value="Feed me instead of making me do those!"/>
+        <string name="c22_f3" value="Man~ That thing is wack now! I don&apos;t wanna do it!"/>
+        <string name="c22_f4" value="You think I&apos;ll do just what you ask me to do? Dummy..."/>
+        <string name="c23" value="up|stand|rise"/>
+        <string name="c23_s1" value="It&apos;s hard...I can&apos;t stand for too long~MEOW~"/>
+        <string name="c23_s2" value="Like this? MEOW?"/>
+        <string name="c23_s3" value="Master~ I&apos;m doing fine, right? MEOW?"/>
+        <string name="c23_s4" value="Hap!! Whoa, I got tall! MEOW!"/>
+        <string name="c23_f1" value="It&apos;s hard! MEOW!"/>
+        <string name="c23_f2" value="No way~! MEOW!"/>
+        <string name="c23_f3" value="NOOOO NOO NOO~! MEOW~!"/>
+        <string name="c23_f4" value="How&apos;s a cat supposed to stand up? MEOW!"/>
+        <string name="c24" value="up|stand|rise"/>
+        <string name="c24_s1" value="Hehe...master, I&apos;m good, right?"/>
+        <string name="c24_s2" value="This ain&apos;t nothing~ Too easy~"/>
+        <string name="c24_s3" value="If I keep practicing like this everyday, I may one day walk around with two feet...hehe"/>
+        <string name="c24_s4" value="I&apos;m good, right? Give me something harder~"/>
+        <string name="c24_f1" value="Maybe if you feed me...then I might...hehe"/>
+        <string name="c24_f2" value="Master~That&apos;s too hard, and I don&apos;t wanna do it~"/>
+        <string name="c24_f3" value="Man...some strange stuff again..."/>
+        <string name="c24_f4" value="No..."/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="Meow~~"/>
+        <string name="c25_s2" value="Meow~, meow~~~~"/>
+        <string name="c25_f1" value="...?"/>
+        <string name="c25_f2" value="Meow?"/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="I love you too, meow~"/>
+        <string name="c26_s2" value="Hehe...I&apos;m blushing, meow~"/>
+        <string name="c26_s3" value="Really? Thanks, meow~"/>
+        <string name="c26_s4" value="Me too~"/>
+        <string name="c26_f1" value="Liar..."/>
+        <string name="c26_f2" value="What did you say, meow?"/>
+        <string name="c26_f3" value="What&apos;s up, meow?"/>
+        <string name="c26_f4" value="Since when, meow?"/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="Master, me too~! MEOW!"/>
+        <string name="c27_s2" value="Really? Thanks, master! MEOW!"/>
+        <string name="c27_s3" value="I like you too~ MEOW!"/>
+        <string name="c27_s4" value="I like you very very much! MEOW!"/>
+        <string name="c27_f1" value="Master, give me some food...meow..."/>
+        <string name="c27_f2" value="...? MEOW?"/>
+        <string name="c27_f3" value="Ah...I was thinking of something else...MEOW"/>
+        <string name="c27_f4" value="I know you&apos;re lying...MEOW..."/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="Master...right back atcha!"/>
+        <string name="c28_s2" value="You&apos;re the only one in my heart, master!"/>
+        <string name="c28_s3" value="Me too! Me too!! hehe..."/>
+        <string name="c28_s4" value="Aye...I&apos;m blushing..."/>
+        <string name="c28_f1" value="Liar~ Liar~"/>
+        <string name="c28_f2" value="Master&apos;s talking gibberish again..."/>
+        <string name="c28_f3" value="Don&apos;t be lying to me like that~!"/>
+        <string name="c28_f4" value="Gimme some food already~"/>
+        <string name="f1_s" value="Meow~ Meow~Meoooow!"/>
+        <string name="f1_f" value="Me...meooooooowwww..."/>
+        <string name="f2_s" value="FOOD~! FOOD~!"/>
+        <string name="f2_f" value="I wanna stop eating now...argh..."/>
+        <string name="f3_s" value="Master~ That was gooood!"/>
+        <string name="f3_f" value="Master...I can&apos;t eat anymore...hoo"/>
+        <string name="f4_s" value="Master, I want today&apos;s special~"/>
+        <string name="f4_f" value="Yo master...I&apos;m realllly full..."/>
+    </imgdir>
+    <imgdir name="5000001">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="Bark bark~"/>
+        <string name="c1_s2" value="Bark~Bark bakr!"/>
+        <string name="c1_f1" value="Heh...heh..."/>
+        <string name="c1_f2" value="...?"/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="You want me to sit like this? Bark?"/>
+        <string name="c2_s2" value="It&apos;s so sleepy sitting down, bark!"/>
+        <string name="c2_s3" value="Ahh...this is easier~barkbark~"/>
+        <string name="c2_s4" value="Sit? Like this? Barkbark!"/>
+        <string name="c2_f1" value="I don&apos;t understand what the master&apos;s saying~BarkBark!"/>
+        <string name="c2_f2" value="It&apos;s too hard to understand~Barkbark!"/>
+        <string name="c2_f3" value="I have no clue what you said! Barkbark!"/>
+        <string name="c2_f4" value="No I don&apos;t want to sit! Barkbark!"/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="Master, this is how you sit, right? Woof!"/>
+        <string name="c3_s2" value="Master, I&apos;m doing well, right? Right? Woof woof!"/>
+        <string name="c3_s3" value="I hope the master keeps asking me to sit...woof woof~"/>
+        <string name="c3_s4" value="I have short legs, so it&apos;s easy to sit~ woof woof!"/>
+        <string name="c3_f1" value="Master, I can&apos;t tell what you&apos;re saying~ woof woof~"/>
+        <string name="c3_f2" value="Master, do I HAVE to sit right now? woof woof!"/>
+        <string name="c3_f3" value="Let&apos;s do something else right now~ woof woof!"/>
+        <string name="c3_f4" value="It&apos;s too dirty to sit here! Woof woof!"/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="Yo master...still telling me to sit? IT&apos;s waaay too easy..."/>
+        <string name="c4_s2" value="Alright~ At your command!"/>
+        <string name="c4_s3" value="My back legs are so short, I feel more comfortable sitting like this...hehe..."/>
+        <string name="c4_s4" value="You want me to sit? Here...this is the right way, right?"/>
+        <string name="c4_f1" value="Ahh...itchy...(acting like I didn&apos;t hear it...)"/>
+        <string name="c4_f2" value="Sitting is waaaay too easy. Give me something hard to work on."/>
+        <string name="c4_f3" value="(scratching) Whoa? What did you just say? I didn&apos;t hear you~"/>
+        <string name="c4_f4" value="I&apos;m sick of doing stuff at your command..."/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="Bark...bark bark..."/>
+        <string name="c5_s2" value="heeeng...heeeng..."/>
+        <string name="c5_f1" value="Grrrrr..."/>
+        <string name="c5_f2" value="Woof woof woof!!!!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="So scary...bark"/>
+        <string name="c6_s2" value="Please don&apos;t give me that look...bark bark"/>
+        <string name="c6_s3" value="Don&apos;t hit me...heeng..."/>
+        <string name="c6_s4" value="I&apos;m so sorry...bark..."/>
+        <string name="c6_f1" value="Krrr...Do you want to be punished by ME?"/>
+        <string name="c6_f2" value="I didn&apos;t do anything wrong! Bark Bark Bark!"/>
+        <string name="c6_f3" value="I was just sitting here...BARK BARK BARK!"/>
+        <string name="c6_f4" value="Krrrr...One of these days, I won&apos;t take it anymore...BARK BARK!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="I...I&apos;m so sorry...woof..."/>
+        <string name="c7_s2" value="I&apos;m sorry...woooof..."/>
+        <string name="c7_s3" value="Master, are you mad? Woooof..."/>
+        <string name="c7_s4" value="Master, I&apos;ll be careful from here on out...wooof..."/>
+        <string name="c7_f1" value="Master! Things like that happen at times...why so mad? Woof woof!"/>
+        <string name="c7_f2" value="Master, just because you&apos;re bored, doesn&apos;t mean you have a right to abuse me! Woof woof!!"/>
+        <string name="c7_f3" value="Where else will you find a cute pet like this? Krrrr..."/>
+        <string name="c7_f4" value="I didn&apos;t do anything wrong! Woof woof!!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="Master...I&apos;ll be more careful next time..."/>
+        <string name="c8_s2" value="Master, you scare me..."/>
+        <string name="c8_s3" value="Master, I&apos;ll be good, I&apos;ll be good..."/>
+        <string name="c8_s4" value="Please forgive me, master..."/>
+        <string name="c8_f1" value="Man...the master&apos;s going off on me again...and I didn&apos;t do a thing..."/>
+        <string name="c8_f2" value="Master...things happen sometimes...why so mad??"/>
+        <string name="c8_f3" value="Rrrr...master&apos;s not happy over a nothing..."/>
+        <string name="c8_f4" value="Man...shush..."/>
+        <string name="c9" value="stupid|ihateyou|baddog|dummy"/>
+        <string name="c9_s1" value="Bark..."/>
+        <string name="c9_s2" value="Heeeng..."/>
+        <string name="c9_f1" value="...???"/>
+        <string name="c9_f2" value="Woof...? Woof woof woof...???"/>
+        <string name="c10" value="stupid|ihateyou|baddog|dummy"/>
+        <string name="c10_s1" value="No...bark..."/>
+        <string name="c10_s2" value="I&apos;ll be better...bark...much better..."/>
+        <string name="c10_s3" value="I&apos;m hurt inside...pretty bad...bark..."/>
+        <string name="c10_s4" value="How can you...say such...thing...bark..."/>
+        <string name="c10_f1" value="Huh? I was too itchy to hear that...bark...!"/>
+        <string name="c10_f2" value="Ahh, itchy...I&apos;ll just pretend I never heard that...bark..."/>
+        <string name="c10_f3" value="Stupid...bark..."/>
+        <string name="c10_f4" value="What did the master just say? Bark..."/>
+        <string name="c11" value="stupid|ihateyou|baddog|dummy"/>
+        <string name="c11_s1" value="How can you say such thing...woof woof..."/>
+        <string name="c11_s2" value="Master, I&apos;m really really hurt...woof..."/>
+        <string name="c11_s3" value="Master, are you for real...? Woof........"/>
+        <string name="c11_s4" value="Master...you didn&apos;t...really mean it...right? Woof..."/>
+        <string name="c11_f1" value="Master, was that a joke? Woof~"/>
+        <string name="c11_f2" value="You didn&apos;t mean that, right? Woof woof..."/>
+        <string name="c11_f3" value="Ey...You mean that for real? Woof???"/>
+        <string name="c11_f4" value="Ey...you were just saying that because you&apos;re bored, right? Woof?"/>
+        <string name="c12" value="stupid|ihateyou|baddog|dummy"/>
+        <string name="c12_s1" value="You say that everyday...that hurts you know..."/>
+        <string name="c12_s2" value="Master, I&apos;ll be good...just don&apos;t leave me alone..."/>
+        <string name="c12_s3" value="Whatever you tell me, I&apos;ll still be following you and only you...sigh..."/>
+        <string name="c12_s4" value="How can you...you don&apos;t really mean it, right?"/>
+        <string name="c12_f1" value="What? What did you say? I can&apos;t hear you~~"/>
+        <string name="c12_f2" value="Ahh, itchy...stop saying that and bathe me instead!"/>
+        <string name="c12_f3" value="I&apos;m sick of hearing that now...hehe..."/>
+        <string name="c12_f4" value="That again? Heheh..."/>
+        <string name="c13" value="pee"/>
+        <string name="c13_s1" value="...(shh...)"/>
+        <string name="c13_s2" value="...(shhhhhh..)"/>
+        <string name="c13_f1" value="Woof? Woof woof??"/>
+        <string name="c13_f2" value="Woof~! Woof woof  woof!!"/>
+        <string name="c14" value="pee"/>
+        <string name="c14_s1" value="Oh that felt good! Bark bark!!!!"/>
+        <string name="c14_s2" value="Ohhhhhhh....!"/>
+        <string name="c14_s3" value="Shhhhhh~"/>
+        <string name="c14_s4" value="Hehe...I must have drank a lot of water...bark bark!"/>
+        <string name="c14_f1" value="I don&apos;t feel like peeing right now...bark..."/>
+        <string name="c14_f2" value="How am I supposed to pee on purpose when there&apos;s nothing coming out...bark..."/>
+        <string name="c14_f3" value="It&apos;s embarassing to pee here...BARK! BARK BARK!"/>
+        <string name="c14_f4" value="I peed just before...bark..."/>
+        <string name="c15" value="pee"/>
+        <string name="c15_s1" value="Shhhhh~ Shhhhhhhhhhhhhhhhhh~~"/>
+        <string name="c15_s2" value="Hehe...NO!! Got some on my legs!!! Woof........."/>
+        <string name="c15_s3" value="Phew...almost peed on myself...woof..."/>
+        <string name="c15_s4" value="Whoa, I aimed it wrong...woof..."/>
+        <string name="c15_f1" value="Master...it hasn&apos;t been long since I last peed...woof..."/>
+        <string name="c15_f2" value="Hey master, it&apos;s not time to pee just yet...woof..."/>
+        <string name="c15_f3" value="Sorry...don&apos;t feel like peeing yet...woof..."/>
+        <string name="c15_f4" value="Master...peeing is reserved for bathrooms...woof..."/>
+        <string name="c16" value="pee"/>
+        <string name="c16_s1" value="Ahhhh, that feels good...but it&apos;s still embarassing..."/>
+        <string name="c16_s2" value="Shhhh....wait, that OJ I drank...that&apos;s a funny-looking pee there..."/>
+        <string name="c16_s3" value="Shhh....arrrrrgh, I stepped on it!!"/>
+        <string name="c16_s4" value="Shhhhhhh~ Oops, almost stepped on it..."/>
+        <string name="c16_f1" value="I haven&apos;t had anything to pee out anyway..."/>
+        <string name="c16_f2" value="No..."/>
+        <string name="c16_f3" value="I won&apos;t do it..."/>
+        <string name="c16_f4" value="Can YOU pee on purpose? "/>
+        <string name="c17" value="talk|chat|say|bark"/>
+        <string name="c17_s1" value="It&apos;s a secret, just between you and me...I have a hidden bone around this area...bark bark!!"/>
+        <string name="c17_s2" value="What&apos;s the latest on radio? Bark bark bark!?!"/>
+        <string name="c17_s3" value="What&apos;s your hobby? Hopefully it&apos;s something that involves me...hehe...BARK!"/>
+        <string name="c17_s4" value="I heard in one of the hidden streets at Henesys ther&apos;s a huuuuuge mushroom called Mushmom, am I right? Bark!"/>
+        <string name="c17_f1" value="How&apos;s a dog supposed to talk? Bark!"/>
+        <string name="c17_f2" value="NO! Don&apos;t feel like talking! BARK BARK!!"/>
+        <string name="c17_f3" value="I have nothing to say to you! Bark!!!"/>
+        <string name="c17_f4" value="I feel like crap! Bark bark!!!"/>
+        <string name="c18" value="talk|chat|say|bark"/>
+        <string name="c18_s1" value="Please change up the menu every once in a while...I&apos;m sick of eating the same thing over and over again..."/>
+        <string name="c18_s2" value="Every once in a while, I feel like riding a boat to some other island and just chill there...woof woof~"/>
+        <string name="c18_s3" value="How are you today? Good? Right? Good!! Woof woof!"/>
+        <string name="c18_s4" value="You better be careful not to get ripped off when doing business with someone else...woof woof..."/>
+        <string name="c18_f1" value="I have nothing to say...woof..."/>
+        <string name="c18_f2" value="Don&apos;t feel like talking...I&apos;m really depressed...woof woof..."/>
+        <string name="c18_f3" value="Nah... soo itchy... woof"/>
+        <string name="c18_f4" value="II&apos;m depressed...everything&apos;s annoying...don&apos;t feel like talking...woof..."/>
+        <string name="c19" value="talk|chat|say|bark"/>
+        <string name="c19_s1" value="Who&apos;s your favorite celebrity?"/>
+        <string name="c19_s2" value="What&apos;s the menu for today? Can I get something nice? "/>
+        <string name="c19_s3" value="Master, you have a huge head! hahha"/>
+        <string name="c19_s4" value="You look like you&apos;ve got yourself quite a belly there...haha"/>
+        <string name="c19_f1" value="Ey...how about feeding me right now?"/>
+        <string name="c19_f2" value="So annoying~~must have nothing to do right now..."/>
+        <string name="c19_f3" value="Man...do I have to talk again? Don&apos;t feel like it..."/>
+        <string name="c19_f4" value="You talk, and I&apos;ll listen."/>
+        <string name="c20" value="down"/>
+        <string name="c20_s1" value="What do you think? Good? GOOD? Bark bark!!"/>
+        <string name="c20_s2" value="Well, I&apos;m smart, what can I say? Bark bark!!"/>
+        <string name="c20_s3" value="Like this, right? Bark bark!!"/>
+        <string name="c20_s4" value="Sweeet! Here, what do you think? Bark bark!"/>
+        <string name="c20_f1" value="No! I wanna do something else! Bark bark!"/>
+        <string name="c20_f2" value="I don&apos;t know what you&apos;re saying!!! Bark! Bark!!"/>
+        <string name="c20_f3" value="Can&apos;t understand what you&apos;re saying! Bark bark!"/>
+        <string name="c20_f4" value="You have a short tongue, right? I have noooo idea what you&apos;re saying! Bark bark!"/>
+        <string name="c21" value="down"/>
+        <string name="c21_s1" value="Master, that was good, right? Right? Woof woof!!"/>
+        <string name="c21_s2" value="Hehe...this is really easy~ Woof woof!"/>
+        <string name="c21_s3" value="I&apos;ll do whatever you ask me to do! Woof woof!!"/>
+        <string name="c21_s4" value="Master, is this how you do it? Woof woof!!"/>
+        <string name="c21_f1" value="Just feed me first! Woof woof!!"/>
+        <string name="c21_f2" value="The floor&apos;s too dirty so I don&apos;t want to do that! Woof!"/>
+        <string name="c21_f3" value="Why don&apos;t you lie on your belly first! Woof...!"/>
+        <string name="c21_f4" value="You show me first!! Woof woof!"/>
+        <string name="c22" value="down"/>
+        <string name="c22_s1" value="Like...this? I&apos;m just going to do this once..."/>
+        <string name="c22_s2" value="Master, I did well...right? Right?"/>
+        <string name="c22_s3" value="I love you, master"/>
+        <string name="c22_s4" value="Like this, huh? Whatever you ask me to do..."/>
+        <string name="c22_f1" value="Hey master! I won&apos;t do everything you ask me to do...!"/>
+        <string name="c22_f2" value="Master! I&apos;m hungry; just feed me!!"/>
+        <string name="c22_f3" value="No! Imma wander around!"/>
+        <string name="c22_f4" value="I ain&apos;t doing that..."/>
+        <string name="c23" value="up|stand|rise"/>
+        <string name="c23_s1" value="Like this? Woof woof...this is hard..."/>
+        <string name="c23_s2" value="Whoa~ I&apos;m tallllll~~~ woof!!"/>
+        <string name="c23_s3" value="Whoa...the air&apos;s much cleaner up here...woof~!"/>
+        <string name="c23_s4" value="MMy...my legs are short...that&apos;s why it&apos;s hard...woof!"/>
+        <string name="c23_f1" value="That&apos;s too hard!! Woof woof!!"/>
+        <string name="c23_f2" value="No...! WOOF!!!"/>
+        <string name="c23_f3" value="I won&apos;t do it...woof woof!"/>
+        <string name="c23_f4" value="How am I supposed to get up with these legs? Woof woof!"/>
+        <string name="c24" value="up|stand|rise"/>
+        <string name="c24_s1" value="Hehe...master, am I doing well?"/>
+        <string name="c24_s2" value="Hey master, but I can&apos;t walk on two feet..."/>
+        <string name="c24_s3" value="Woot! Whoa, that&apos;s pretty high.."/>
+        <string name="c24_s4" value="Whoa...with these shorties?? I&apos;m incredible, yo!!"/>
+        <string name="c24_f1" value="Maybe if I get fed right now..."/>
+        <string name="c24_f2" value="With these short legs, I can&apos;t even stand on four feet well.."/>
+        <string name="c24_f3" value="Is the master trying to put me on showcase for a circus??"/>
+        <string name="c24_f4" value="Can&apos;t be asking too much from a dog..."/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="WOOOOOF!!!!"/>
+        <string name="c25_s2" value="Wo...woof woof~~~~"/>
+        <string name="c25_f1" value="...?"/>
+        <string name="c25_f2" value="Woof?"/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="Me too~ bark bark!"/>
+        <string name="c26_s2" value="Stop~~I&apos;m blushing~~~bark bark"/>
+        <string name="c26_s3" value="Really? Thanks...bark~!"/>
+        <string name="c26_s4" value="Hehe...me too...bark bark"/>
+        <string name="c26_f1" value="Liar...bark..."/>
+        <string name="c26_f2" value="What? Bark bark???"/>
+        <string name="c26_f3" value="What did you just say? Bark bark..."/>
+        <string name="c26_f4" value="Feed me first...bark..."/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="Master, me too~~ woof woof!"/>
+        <string name="c27_s2" value="That&apos;s MY MASTER, ladies and gentlemen..."/>
+        <string name="c27_s3" value="I love you too master~!! Woof woof"/>
+        <string name="c27_s4" value="Hehe...I feel good...woof woof"/>
+        <string name="c27_f1" value="I know you&apos;re lying, master...woof woof"/>
+        <string name="c27_f2" value="Eh?? Woof...?"/>
+        <string name="c27_f3" value="I was thinking of something else...and I didn&apos;t hear it...Woof..."/>
+        <string name="c27_f4" value="You think I&apos;ll like you back? Woof..."/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="I love you too master very very much!!"/>
+        <string name="c28_s2" value="Master...I&apos;m blushing..."/>
+        <string name="c28_s3" value="You better love me and no one else!!!"/>
+        <string name="c28_s4" value="Hehe~ I feel goooooood"/>
+        <string name="c28_f1" value="Liar..."/>
+        <string name="c28_f2" value="Everyone knows that&apos;s just a token gesture..."/>
+        <string name="c28_f3" value="And then the master will go off on me later..."/>
+        <string name="c28_f4" value="You think I&apos;ll fall for that again...?"/>
+        <string name="f1_s" value="Bark! bark bark bark!!!"/>
+        <string name="f1_f" value="woo...woof..."/>
+        <string name="f2_s" value="FOOD!! FOOD!!! Woof woof..."/>
+        <string name="f2_f" value="I&apos;m so full I can&apos;t eat anymore...woof..."/>
+        <string name="f3_s" value="Master, this is really delicious! Woof woof..."/>
+        <string name="f3_f" value="Master, I can&apos;t eat anymore...woof woof..."/>
+        <string name="f4_s" value="Master, this is sweeeet"/>
+        <string name="f4_f" value="Master...I&apos;m FULLLLL"/>
+    </imgdir>
+    <imgdir name="5000002">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="Kyu~~"/>
+        <string name="c1_s2" value="Kyooooot~"/>
+        <string name="c1_f1" value="...?"/>
+        <string name="c1_f2" value="..."/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="Sit? Alright I&apos;ll sit...kyu~~"/>
+        <string name="c2_s2" value="I get sleepy from sitting down, but...kyu.."/>
+        <string name="c2_s3" value="I should just sit here instead of roaming around~kyu~"/>
+        <string name="c2_s4" value="So I just need to sit here, right, kyu??"/>
+        <string name="c2_f1" value="What is the master saying...kyu??"/>
+        <string name="c2_f2" value="Keeps making me do the same thing over and over again...anything else? kyu...?"/>
+        <string name="c2_f3" value="Huh? I was thinking of something else for a sec...kyu..."/>
+        <string name="c2_f4" value="It&apos;s dirty here...kyu..."/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="Master, sitting is waay too easy~!"/>
+        <string name="c3_s2" value="Piece of cake~! KYU!"/>
+        <string name="c3_s3" value="You keep asking me to do some easy thing...KYU~!"/>
+        <string name="c3_s4" value="Yes, master! I&apos;ll sit! KYU!"/>
+        <string name="c3_f1" value="Master, you can&apos;t say it right, right? KYU?"/>
+        <string name="c3_f2" value="Can I sit later..KYU...?"/>
+        <string name="c3_f3" value="It&apos;s too dirty to sit around here...KYU..."/>
+        <string name="c3_f4" value="Feed me instead~! KYU!"/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="This is waaay too easy~"/>
+        <string name="c4_s2" value="I gotta do one for the master every once in a while..."/>
+        <string name="c4_s3" value="Now that I sat, you need to feed me~"/>
+        <string name="c4_s4" value="It&apos;s nothing really~"/>
+        <string name="c4_f1" value="Ahh...sleepy..."/>
+        <string name="c4_f2" value="Argh...so annoying..."/>
+        <string name="c4_f3" value="Ey...get away..."/>
+        <string name="c4_f4" value="No...stupid..."/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="Kyouuuuu..."/>
+        <string name="c5_s2" value="..."/>
+        <string name="c5_f1" value="KYUT!"/>
+        <string name="c5_f2" value="Kyooot, kyuuuuuuuut!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="Scary...kyu..."/>
+        <string name="c6_s2" value="No more of that scary face...please...kyu..."/>
+        <string name="c6_s3" value="I&apos;ll be better...kyu..."/>
+        <string name="c6_s4" value="Sorry...kyu..."/>
+        <string name="c6_f1" value="Man, just letting out on me, kyu!!"/>
+        <string name="c6_f2" value="I wasn&apos;t doing anything! WHAT, kyu!"/>
+        <string name="c6_f3" value="Dummy, kyu!"/>
+        <string name="c6_f4" value="Stupid, kyu!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="I&apos;m really sorry, master...KYU..."/>
+        <string name="c7_s2" value="You&apos;re too scary...KYU..."/>
+        <string name="c7_s3" value="Master...please don&apos;t get mad...! KYU!"/>
+        <string name="c7_s4" value="I&apos;ll be better...KYU...!"/>
+        <string name="c7_f1" value="Master! You don&apos;t understand...!KYU!"/>
+        <string name="c7_f2" value="Master, what exactly did I do wrong? KYU!"/>
+        <string name="c7_f3" value="You won&apos;t find a more obidient pet around you! KYU!"/>
+        <string name="c7_f4" value="I was just sitting there! KYU!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="Master...I&apos;m really sorry..."/>
+        <string name="c8_s2" value="Master, you scare me..."/>
+        <string name="c8_s3" value="I...I&apos;m hurt..."/>
+        <string name="c8_s4" value="Arrgh...you look scary..."/>
+        <string name="c8_f1" value="Are you mad again? AGAIN?"/>
+        <string name="c8_f2" value="So you&apos;re mad at me cuz you&apos;re bored, right?"/>
+        <string name="c8_f3" value="I wasn&apos;t doing anything..."/>
+        <string name="c8_f4" value="Ey~you&apos;re bored again, right?"/>
+        <string name="c9" value="up|stand"/>
+        <string name="c9_s1" value="Kyooooot!"/>
+        <string name="c9_s2" value="Kyooooooo~"/>
+        <string name="c9_f1" value="...???"/>
+        <string name="c9_f2" value="..."/>
+        <string name="c10" value="up|stand|rise"/>
+        <string name="c10_s1" value="Hap~kyu~!"/>
+        <string name="c10_s2" value="This is easy~kyu!"/>
+        <string name="c10_s3" value="I&apos;m good, right...kyu?"/>
+        <string name="c10_s4" value="This is too easy for me, key!"/>
+        <string name="c10_f1" value="No, kyu...!"/>
+        <string name="c10_f2" value="What, kyu?"/>
+        <string name="c10_f3" value="Annoying...kyu...!"/>
+        <string name="c10_f4" value="I won&apos;t do it~kyu~"/>
+        <string name="c11" value="up|stand|rise"/>
+        <string name="c11_s1" value="What do you think, master? I&apos;m good, right? KYU?"/>
+        <string name="c11_s2" value="Too easy~KYU!"/>
+        <string name="c11_s3" value="If my master wants me to...KYU!"/>
+        <string name="c11_s4" value="Hahh...I&apos;ve just gotte much taller! KYU!"/>
+        <string name="c11_f1" value="Ey...I don&apos;t wanna do something boring like that...KYU"/>
+        <string name="c11_f2" value="It&apos;s hard...KYU..."/>
+        <string name="c11_f3" value="I don&apos;t want to...KYU~"/>
+        <string name="c11_f4" value="Let&apos;s do something else~KYU~"/>
+        <string name="c12" value="up|stand|rise"/>
+        <string name="c12_s1" value="Master what do you think? I&apos;m good, right?"/>
+        <string name="c12_s2" value="You won&apos;t find a bunny that can stand like I do"/>
+        <string name="c12_s3" value="Now that I&apos;m up like this, I can see things from afar"/>
+        <string name="c12_s4" value="Standing up is sooo easy now..."/>
+        <string name="c12_f1" value="Hmm...so annoying"/>
+        <string name="c12_f2" value="I&apos;ll sleep for now"/>
+        <string name="c12_f3" value="Ey...keeps asking me to do the same thing..."/>
+        <string name="c12_f4" value="I can&apos;t hear you...I can&apos;t hear you"/>
+        <string name="c13" value="poop"/>
+        <string name="c13_s1" value="...(haaaah..)"/>
+        <string name="c13_s2" value="...(phew...)"/>
+        <string name="c13_f1" value="...?"/>
+        <string name="c13_f2" value="..."/>
+        <string name="c14" value="poop"/>
+        <string name="c14_s1" value="Embarassing~kyu~"/>
+        <string name="c14_s2" value="Hahhh..."/>
+        <string name="c14_s3" value="Don&apos;t look at me~ kyu~"/>
+        <string name="c14_s4" value="Ah...smells...kyu..."/>
+        <string name="c14_f1" value="I do&apos;nt feel too much of it of TC"/>
+        <string name="c14_f2" value="It&apos;s still a long way to go before coming out...heh"/>
+        <string name="c14_f3" value="So may people around here, how am I gonna poop in public?? kyu..."/>
+        <string name="c14_f4" value="I just pooped a few min. ago...kyu..."/>
+        <string name="c15" value="poop"/>
+        <string name="c15_s1" value="Ahhhhhhhhhhhhhhhhhhhhhhh"/>
+        <string name="c15_s2" value="Ahhhhh...whoa, I almost stepped on it...KYU"/>
+        <string name="c15_s3" value="I almost got constipated...KYU"/>
+        <string name="c15_s4" value="Ahhh, that was good...KYU"/>
+        <string name="c15_f1" value="Master...the poop isn&apos;t coming out...KYU!"/>
+        <string name="c15_f2" value="It&apos;s not time to go poop yet...KYU"/>
+        <string name="c15_f3" value="Master...I don&apos;t feel it yet...KYU"/>
+        <string name="c15_f4" value="Master...pooping should only be at bathrooms...KYU"/>
+        <string name="c16" value="poop"/>
+        <string name="c16_s1" value="Ahhhhhh...please don&apos;t look...it&apos;s embarassing"/>
+        <string name="c16_s2" value="Ahh...the poop looks really good today"/>
+        <string name="c16_s3" value="Ahh...master you can&apos;t step on it!"/>
+        <string name="c16_s4" value="Ahhh, that was good...whoa, master...you stepped on it..."/>
+        <string name="c16_f1" value="I can&apos;t poop what I didn&apos;t eat..."/>
+        <string name="c16_f2" value="Can you poop even if you don&apos;t feel like it?"/>
+        <string name="c16_f3" value="I had nothing to eat all day, so no poop for me..."/>
+        <string name="c16_f4" value="I must be constipating right now..."/>
+        <string name="c17" value="talk|chat|say"/>
+        <string name="c17_s1" value="Is something wrong with you these days...? Don&apos;t worry, I&apos;ll be there for you, kyu..."/>
+        <string name="c17_s2" value="When you&apos;re buying items, you need to make sure you&apos;re not being deceived...kyu..."/>
+        <string name="c17_s3" value="If...you starve me, I may just crawl back into my home...so don&apos;t starve me too much...kyu..."/>
+        <string name="c17_s4" value="I love the phrase &quot;I love you&quot; more than anything else in the world! kyu..."/>
+        <string name="c17_f1" value="You ever see a rabbit talk? kyu..."/>
+        <string name="c17_f2" value="I can&apos;t talk to you about things...kyu..."/>
+        <string name="c17_f3" value="I have nothing to say to you! kyu..."/>
+        <string name="c17_f4" value="I&apos;m in no mood to talk...kyu..."/>
+        <string name="c18" value="talk|chat|say"/>
+        <string name="c18_s1" value="How about going from place to place instead of staying at a same place? KYU"/>
+        <string name="c18_s2" value="Isn&apos;t it not fun playing by yourself? I like hanging out with people...KYU..."/>
+        <string name="c18_s3" value="There&apos;s a lot of ppl on this island so make sure you don&apos;t forget about being courteous to everyone around you...KYU..."/>
+        <string name="c18_s4" value="I heard there&apos;s a dungeon in the middle of this island...KYU..."/>
+        <string name="c18_f1" value="I have nothing to say...KYU..."/>
+        <string name="c18_f2" value="I feel like crap, so I won&apos;t talk...KYU..."/>
+        <string name="c18_f3" value="Aye...let&apos;s do something else! KYUUU!"/>
+        <string name="c18_f4" value="YOU talk to me~KYU~"/>
+        <string name="c19" value="talk|chat|say"/>
+        <string name="c19_s1" value="We pets are created by Cloy of Henesys."/>
+        <string name="c19_s2" value="Master...your head&apos;s huge!!!"/>
+        <string name="c19_s3" value="I know it&apos;s precious, but you need to take those potions while you fight to get stronger fast!"/>
+        <string name="c19_s4" value="Go do some quests and something good may happen~"/>
+        <string name="c19_f1" value="There&apos;s not much to say but...feed me!"/>
+        <string name="c19_f2" value="So annoying...I have nothing to say..."/>
+        <string name="c19_f3" value="I&apos;m tired, so I&apos;ll tell you later..."/>
+        <string name="c19_f4" value="Boring...anything more fun??"/>
+        <string name="c20" value="hug"/>
+        <string name="c20_s1" value="Here, come here! kyu~"/>
+        <string name="c20_s2" value="I&apos;ll hug you up~ kyu~~"/>
+        <string name="c20_s3" value="Hug me too~ kyu~"/>
+        <string name="c20_s4" value="Hehe~~~hug me~~~kyuu..."/>
+        <string name="c20_f1" value="NO! You haven&apos;t showered in days! kyu..."/>
+        <string name="c20_f2" value="Ah...B.O.!! kyu...!"/>
+        <string name="c20_f3" value="You...smell funny! kyu...!"/>
+        <string name="c20_f4" value="It&apos;s hot in here!! kyu..."/>
+        <string name="c21" value="hug"/>
+        <string name="c21_s1" value="Master, I&apos;ll go hug you up~! Kyu!"/>
+        <string name="c21_s2" value="Alright, come hug me~! KYU!"/>
+        <string name="c21_s3" value="Master, hug me~~! KYU!"/>
+        <string name="c21_s4" value="Master, I can feel your heartbeat~! KYU!"/>
+        <string name="c21_f1" value="Feed me! KYU!"/>
+        <string name="c21_f2" value="Master...please go take shower right now!"/>
+        <string name="c21_f3" value="You smell too much! KYU!"/>
+        <string name="c21_f4" value="NO~! I don&apos;t want to hug you! KYU!"/>
+        <string name="c22" value="hug"/>
+        <string name="c22_s1" value="Hug me~~~~HUG ME~~~~"/>
+        <string name="c22_s2" value="Master~~Pleease hug me tight!"/>
+        <string name="c22_s3" value="I like how you embrace me, master"/>
+        <string name="c22_s4" value="Hurry...hurry...hug me~!"/>
+        <string name="c22_f1" value="Master? You really think I&apos;ll hug you up?"/>
+        <string name="c22_f2" value="And you were scolding me just now..."/>
+        <string name="c22_f3" value="If you feed me, I will"/>
+        <string name="c22_f4" value="Master, you smell! I don&apos;t wanna hug you~"/>
+        <string name="c23" value="sleep|sleepy|gotobed"/>
+        <string name="c23_s1" value="Need...to...sleep...kyu~"/>
+        <string name="c23_s2" value="I&apos;m tired...and sleepy...kyu...."/>
+        <string name="c23_s3" value="My eyes are closing fast...kyu..."/>
+        <string name="c23_s4" value="I&apos;m really tired today...kyu..."/>
+        <string name="c23_f1" value="I&apos;m not sleepy at all...kyu..."/>
+        <string name="c23_f2" value="Play time~ Play time! PLAY TIME!!"/>
+        <string name="c23_f3" value="Who sleeps in the middle of the day...kyu?"/>
+        <string name="c23_f4" value="It&apos;s not bedtime yet~kyu~"/>
+        <string name="c24" value="sleep|sleepy|gotobed"/>
+        <string name="c24_s1" value="Ah...master, sleep with me...kyuuuuuu"/>
+        <string name="c24_s2" value="...zzz"/>
+        <string name="c24_s3" value="Ahh...I&apos;m sleepy...master, give me your arm as my pillow...kyu..."/>
+        <string name="c24_s4" value="Please don&apos;t have delicious food all to yourself while I&apos;m asleep...kyu..."/>
+        <string name="c24_f1" value="Master! I feel fine~! Hang out with me!"/>
+        <string name="c24_f2" value="If you sing me a song, then I&apos;ll fall asleep."/>
+        <string name="c24_f3" value="You know you&apos;re gonna write all over my face while I fall asleep..."/>
+        <string name="c24_f4" value="I can&apos;t sleep cuz I&apos;m hungry! FOOD! FOOD!"/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="Kyu~~!!"/>
+        <string name="c25_s2" value="Kyu...kyuuuuu~~~~"/>
+        <string name="c25_f1" value="???"/>
+        <string name="c25_f2" value="Kyu?"/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="I love you too~kyu~~"/>
+        <string name="c26_s2" value="I like you too~~~kyu~~~"/>
+        <string name="c26_s3" value="Really? Nice! I feel good~ kyu~"/>
+        <string name="c26_s4" value="That was a surprise...thanks~kyu~"/>
+        <string name="c26_f1" value="What did you say, kyu?"/>
+        <string name="c26_f2" value="Was that a lie, kyu?"/>
+        <string name="c26_f3" value="That wasn&apos;t for me, right? kyu?"/>
+        <string name="c26_f4" value="That was a typo, right? kyu?"/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="I love you too, master! KYU!"/>
+        <string name="c27_s2" value="Master you&apos;re awesome...KYU~"/>
+        <string name="c27_s3" value="Wow...I&apos;m sooo happy~ KYU~"/>
+        <string name="c27_s4" value="Hehe...I&apos;m gonna tell everyone about this...KYU!"/>
+        <string name="c27_f1" value="Master, I know you&apos;re lying. KYU!"/>
+        <string name="c27_f2" value="Really..? Aye...you know you&apos;re lying...KYU..."/>
+        <string name="c27_f3" value="That was funny~KYU~"/>
+        <string name="c27_f4" value="You&apos;re just saying that, right? KYU?"/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="Me too!!!!"/>
+        <string name="c28_s2" value="Master~ I&apos;m floored..."/>
+        <string name="c28_s3" value="Please keep telling me that..."/>
+        <string name="c28_s4" value="Hehe...you&apos;re tha bomb!"/>
+        <string name="c28_f1" value="Yeah, whatever..."/>
+        <string name="c28_f2" value="One minute you&apos;re all over me, now you say you love me..."/>
+        <string name="c28_f3" value="If you love me, how come you aren&apos;t feeding me?"/>
+        <string name="c28_f4" value="You think I&apos;ll fall for it again...?"/>
+        <string name="f1_s" value="Kyu! Kyuuuuuuuuuuu!"/>
+        <string name="f1_f" value="..."/>
+        <string name="f2_s" value="Wow...looks GOOD~ KYU!"/>
+        <string name="f2_f" value="I feel like throwing up...Kyu..."/>
+        <string name="f3_s" value="Master, that was awesome~ Kyu~~"/>
+        <string name="f3_f" value="I can&apos;t eat anymore...Kyu..."/>
+        <string name="f4_s" value="Master this is soooo delicious! Kyu!"/>
+        <string name="f4_f" value="Master...I&apos;m soooooooo full"/>
+    </imgdir>
+    <imgdir name="5000003">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="Grrr..."/>
+        <string name="c1_s2" value="Ow..."/>
+        <string name="c1_f1" value="...?"/>
+        <string name="c1_f2" value="???"/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="Like this? Grr..."/>
+        <string name="c2_s2" value="Yeah, I should rest up for a bit...ou..."/>
+        <string name="c2_s3" value="You sit too~ Grr~~"/>
+        <string name="c2_s4" value="So this is where I sit? Grr~"/>
+        <string name="c2_f1" value="What did you say? Grr...~"/>
+        <string name="c2_f2" value="I can&apos;t understand what you&apos;re saying...ou..."/>
+        <string name="c2_f3" value="Humans are still hard to understand..."/>
+        <string name="c2_f4" value="It&apos;s nasty here...Grrr..."/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="This is a piece of cake~ Ou..."/>
+        <string name="c3_s2" value="Phew...good thing, because I was beginning to get tired of standing up~"/>
+        <string name="c3_s3" value="Haha...how did you know i wanted to sit for a sec?"/>
+        <string name="c3_s4" value="Yes Sir! Grr!!"/>
+        <string name="c3_f1" value="It&apos;s way too nasty here...Grr...."/>
+        <string name="c3_f2" value="Master, before that, I&apos;m really hungry...grrr..."/>
+        <string name="c3_f3" value="Master, what did you say? Grr..."/>
+        <string name="c3_f4" value="Can&apos;t hear you...hear hear you...can&apos;t hear you...ou..."/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="Sitting is too easy now~"/>
+        <string name="c4_s2" value="(Too annoying...might as well do as what the master tells me to do...)"/>
+        <string name="c4_s3" value="Now that I&apos;m sitting, get me some food!!"/>
+        <string name="c4_s4" value="Now~master, you should come sit here with me~"/>
+        <string name="c4_f1" value="NO..."/>
+        <string name="c4_f2" value="I will NOT SIT..."/>
+        <string name="c4_f3" value="(no way...)"/>
+        <string name="c4_f4" value="(never...never...)"/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="Ou..."/>
+        <string name="c5_s2" value="..."/>
+        <string name="c5_f1" value="Kao!"/>
+        <string name="c5_f2" value="Kao!!! Kaaaooo!!!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="I&apos;m sorry...ou..."/>
+        <string name="c6_s2" value="Too scary...ou..."/>
+        <string name="c6_s3" value="What is there to get mad at? Especially an adorable pet like me...ou..."/>
+        <string name="c6_s4" value="Heeeng...I&apos;m scared...ou.."/>
+        <string name="c6_f1" value="If you keep doing that, I&apos;m telling my mom! "/>
+        <string name="c6_f2" value="What did I do wrong, anyway!! Kao!!"/>
+        <string name="c6_f3" value="Are you trying to go up against me? Kaooo!!"/>
+        <string name="c6_f4" value="What about you????? Kao!!!!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="You...you&apos;re just kidding, right? Ou..."/>
+        <string name="c7_s2" value="Master, I&apos;m sorry...ou..."/>
+        <string name="c7_s3" value="I, I&apos;m so sorry...ou..."/>
+        <string name="c7_s4" value="I&apos;ll be good...ou..."/>
+        <string name="c7_f1" value="I&apos;ll hate you for saying that!! KAO!!"/>
+        <string name="c7_f2" value="Master! What did I do wrong anyway?!! Kaoo!!!!"/>
+        <string name="c7_f3" value="If you keep doing that, I&apos;m gonna tell on my mom!!!! KAO!!"/>
+        <string name="c7_f4" value="I didn&apos;t do anything!! Kao!!!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="I&apos;m really sorry, master..."/>
+        <string name="c8_s2" value="Master, I don&apos;t like what you&apos;re saying..."/>
+        <string name="c8_s3" value="I&apos;ll never do that again...I promise..."/>
+        <string name="c8_s4" value="Master, forgive me this once, please?"/>
+        <string name="c8_f1" value="(Hah...not scary at all~)"/>
+        <string name="c8_f2" value="(Hehe...should I at least pretend to act scared?)"/>
+        <string name="c8_f3" value="(Stupid...)"/>
+        <string name="c8_f4" value="(As if I&apos;m going to get scared of that...hehe...)"/>
+        <string name="c9" value="up|stand|rise"/>
+        <string name="c9_s1" value="Kao~~~"/>
+        <string name="c9_s2" value="Ou~~~!"/>
+        <string name="c9_f1" value="..."/>
+        <string name="c9_f2" value="Grrr..."/>
+        <string name="c10" value="up|stand|rise"/>
+        <string name="c10_s1" value="Ahhh! Ou~"/>
+        <string name="c10_s2" value="What do you think? Good, huh? Ou~"/>
+        <string name="c10_s3" value="This is easy...grr~"/>
+        <string name="c10_s4" value="Hah, tada!! Ou~"/>
+        <string name="c10_f1" value="No...grrr..."/>
+        <string name="c10_f2" value="I wont do it...grrr..."/>
+        <string name="c10_f3" value="Never...grrr..."/>
+        <string name="c10_f4" value="Never, ever, ever...grr..."/>
+        <string name="c11" value="up|stand|rise"/>
+        <string name="c11_s1" value="What do you think, master? Am I doing well? Ou?"/>
+        <string name="c11_s2" value="This is too easy...ou~~"/>
+        <string name="c11_s3" value="I got much taller standing up! Ou~"/>
+        <string name="c11_s4" value="Fresh air up here...ou~"/>
+        <string name="c11_f1" value="That&apos;s hard to do...grrr..."/>
+        <string name="c11_f2" value="I won&apos;t do it...grrr..."/>
+        <string name="c11_f3" value="I will definitely NOT do it...grr..."/>
+        <string name="c11_f4" value="No way...grrrr..."/>
+        <string name="c12" value="up|stand|rise"/>
+        <string name="c12_s1" value="Master, what do you think? I&apos;m good, right?"/>
+        <string name="c12_s2" value="This is my area of specialty!"/>
+        <string name="c12_s3" value="Whoa~~I&apos;m up there!"/>
+        <string name="c12_s4" value="And of course, I can do most everything~"/>
+        <string name="c12_f1" value="NO!"/>
+        <string name="c12_f2" value="NO WAY!!"/>
+        <string name="c12_f3" value="And you think I&apos;ll actually do what you ask me to do...!"/>
+        <string name="c12_f4" value="No, you stupid master!"/>
+        <string name="c13" value="pee"/>
+        <string name="c13_s1" value="(Shhh...)"/>
+        <string name="c13_s2" value="(Shh...)"/>
+        <string name="c13_f1" value="...?"/>
+        <string name="c13_f2" value="Ou?"/>
+        <string name="c14" value="pee"/>
+        <string name="c14_s1" value="What are you looking at? Grr..."/>
+        <string name="c14_s2" value="Shhhhh..."/>
+        <string name="c14_s3" value="Look away! It&apos;s embarassing...shhh..."/>
+        <string name="c14_s4" value="Whoa, that felt good...grrr..."/>
+        <string name="c14_f1" value="I peed before...grrr..."/>
+        <string name="c14_f2" value="I can&apos;t pee if I haven&apos;t had anything to pee out anyway...grr..."/>
+        <string name="c14_f3" value="How am I supposed to pee on purpose...grrrr..."/>
+        <string name="c14_f4" value="YOU go pee...grrr..."/>
+        <string name="c15" value="pee"/>
+        <string name="c15_s1" value="Shhhh...ou!"/>
+        <string name="c15_s2" value="Shhhh...arrgh, it got on my leg!! Ou..."/>
+        <string name="c15_s3" value="I can hold off no. 2, but not no. 1...ou~"/>
+        <string name="c15_s4" value="Phew, that saved me...grrr..."/>
+        <string name="c15_f1" value="Master, I can&apos;t pee in public places..."/>
+        <string name="c15_f2" value="I don&apos;t feel like peeing yet...grr..."/>
+        <string name="c15_f3" value="Before that, feed me first...grr..."/>
+        <string name="c15_f4" value="I can&apos;t pee anywhere out here...grrr..."/>
+        <string name="c16" value="pee"/>
+        <string name="c16_s1" value="Shhh~~nice pee color there...hahaha"/>
+        <string name="c16_s2" value="Ahhh, that felt good...hey master, you stepped on my pee!!!"/>
+        <string name="c16_s3" value="Phew...I would have wet myself if I was even a minute late..."/>
+        <string name="c16_s4" value="Master, how did you know I felt like peeing? Ahhh...I needed that..."/>
+        <string name="c16_f1" value="Master, I have some pride in me, too! I can&apos;t pee out here in public!"/>
+        <string name="c16_f2" value="Can YOU pee even when you don&apos;t feel like peeing?"/>
+        <string name="c16_f3" value="Not unless you feed me first!"/>
+        <string name="c16_f4" value="(I don&apos;t feel like peeing!!!!!)"/>
+        <string name="c17" value="talk|chat|say"/>
+        <string name="c17_s1" value="I&apos;ve been thinking...of what I&apos;m going to do when I grow up. What about you? Grr..."/>
+        <string name="c17_s2" value="The other day, I saw some ppl that ran away after seeing me...why is that? Grr..."/>
+        <string name="c17_s3" value="A pet like me that&apos;s still growing should be fed A LOT, understand? Grrr..."/>
+        <string name="c17_s4" value="Is there really a terrifying monster that flies? I wanna see that too..."/>
+        <string name="c17_f1" value="How am I supposed to speak human language? Grr..."/>
+        <string name="c17_f2" value="(Master thinks pets can talk...hahahha)"/>
+        <string name="c17_f3" value="(As if pets and humans can talk to each other...haha)"/>
+        <string name="c17_f4" value="(Like I&apos;ll just talk that easily? Hehe...)"/>
+        <string name="c18" value="talk|chat|say"/>
+        <string name="c18_s1" value="Every once in a while, it&apos;s good to explore new places...it&apos;s for your own good...grr"/>
+        <string name="c18_s2" value="I heard from my friends that there are other islands around other than just this! I wanna see them..."/>
+        <string name="c18_s3" value="Is it true that fairies don&apos;t get along too well with humans? Grr..."/>
+        <string name="c18_s4" value="I heard the farther you leave town, the stronger the monsters are...grr..."/>
+        <string name="c18_f1" value="I don&apos;t wanna talk...grrr..."/>
+        <string name="c18_f2" value="I have nothing to say...grr..."/>
+        <string name="c18_f3" value="I said I have nothing to say! Grrr...."/>
+        <string name="c18_f4" value="I&apos;m tired...grrr..."/>
+        <string name="c19" value="talk|chat|say"/>
+        <string name="c19_s1" value="I heard from my friends that fairies LOVE shiny, sparkling objects..."/>
+        <string name="c19_s2" value="The other day, I saw this person that got attacked by a pirate ship."/>
+        <string name="c19_s3" value="The same old food...I wanna try other things, too!!"/>
+        <string name="c19_s4" value="Do all humans have heads that big???? Interesting!!"/>
+        <string name="c19_f1" value="(As if I&apos;ll actually talk to you...hehe)"/>
+        <string name="c19_f2" value="(Act like I didn&apos;t hear that...hahah...)"/>
+        <string name="c19_f3" value="(Hehe...can&apos;t hear, can&apos;t hear, won&apos;t hear~)"/>
+        <string name="c19_f4" value="(Ignore master...ignore master...)"/>
+        <string name="c20" value="thelook|charisma"/>
+        <string name="c20_s1" value="What do you think? Grr..."/>
+        <string name="c20_s2" value="Awesome eyes, right? Grrr..."/>
+        <string name="c20_s3" value="At least someone appreciates beauty...grr..."/>
+        <string name="c20_s4" value="That&apos;s MY specialty right there...grr..."/>
+        <string name="c20_f1" value="It&apos;s not something I&apos;ll do whenever...grrr..."/>
+        <string name="c20_f2" value="Later...grrr..."/>
+        <string name="c20_f3" value="That&apos;s kinda awkward...grr..."/>
+        <string name="c20_f4" value="Did you say something? Grr..."/>
+        <string name="c21" value="thelook|charisma"/>
+        <string name="c21_s1" value="Master, what do you think? Sparkling is the word for this...grrr..."/>
+        <string name="c21_s2" value="Look at my charismatic eyes! Grr..."/>
+        <string name="c21_s3" value="Am I sucking you in with my eyes? Grr..."/>
+        <string name="c21_s4" value="Even Barlog can&apos;t touch my eyes...grrr..."/>
+        <string name="c21_f1" value="If you feed me, I&apos;ll think about it..."/>
+        <string name="c21_f2" value="I got something in my eyes...grr..."/>
+        <string name="c21_f3" value="Arrgh, the sun&apos;s in my eyes...grrr..."/>
+        <string name="c21_f4" value="I don&apos;t feel like doing it right now...grrr..."/>
+        <string name="c22" value="thelook|charisma"/>
+        <string name="c22_s1" value="Haha...these will scare even the great Barlog..."/>
+        <string name="c22_s2" value="This is dedicated to my master!!"/>
+        <string name="c22_s3" value="What do you think? A celebrity in training?"/>
+        <string name="c22_s4" value="Eyes-wise, I can&apos;t think of anyone that can come close to me...haha"/>
+        <string name="c22_f1" value="Master, you don&apos;t really think I&apos;ll do it that easily right here right now, right?"/>
+        <string name="c22_f2" value="You know how tired my eyes get after doing this..."/>
+        <string name="c22_f3" value="Do...I...have to??"/>
+        <string name="c22_f4" value="Ri..ri..right now?"/>
+        <string name="c23" value="good|goodboy"/>
+        <string name="c23_s1" value="Master, you&apos;re the bomb!! Grr...!!"/>
+        <string name="c23_s2" value="I&apos;ll be good, don&apos;t worry...grrr..."/>
+        <string name="c23_s3" value="See? I&apos;m good, right? Grr..."/>
+        <string name="c23_s4" value="Yeah, I&apos;m good. Grr..."/>
+        <string name="c23_f1" value="(Master must be crazy right now...)"/>
+        <string name="c23_f2" value="(Did the master really just say that?)"/>
+        <string name="c23_f3" value="(I probably hear it wrong...right?)"/>
+        <string name="c23_f4" value="Are...you...okay?? Grr..."/>
+        <string name="c24" value="good|goodboy"/>
+        <string name="c24_s1" value="That&apos;s right, master!!!!"/>
+        <string name="c24_s2" value="Haha, of course!"/>
+        <string name="c24_s3" value="I&apos;ll be good, forever and ever!"/>
+        <string name="c24_s4" value="I feel good that you&apos;re complimenting me~"/>
+        <string name="c24_f1" value="(As if I&apos;m supposed to believe that...)"/>
+        <string name="c24_f2" value="(Probably didn&apos;t even mean it...)"/>
+        <string name="c24_f3" value="(Something&apos;s not right...hahahah...)"/>
+        <string name="c24_f4" value="(What the...did I hear that right?)"/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="Ou~~~~"/>
+        <string name="c25_s2" value="Grrr~~~"/>
+        <string name="c25_f1" value="???"/>
+        <string name="c25_f2" value="Grrr..."/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="I love you too, ou~~~"/>
+        <string name="c26_s2" value="I like being with you, too, ou~~"/>
+        <string name="c26_s3" value="Really? I&apos;m soo happy~~ou..."/>
+        <string name="c26_s4" value="Aww...ou...!!"/>
+        <string name="c26_f1" value="Were you just saying that? Grr..."/>
+        <string name="c26_f2" value="Liar, grr..."/>
+        <string name="c26_f3" value="That wasn&apos;t for me, right? Ou..."/>
+        <string name="c26_f4" value="Typo, right? Grr..."/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="Master, I love you too~Grr...!!"/>
+        <string name="c27_s2" value="Really? I&apos;m definitely telling this to all my friends!"/>
+        <string name="c27_s3" value="You&apos;re like my mom!! Hehe...Grr!!!"/>
+        <string name="c27_s4" value="Master, you&apos;re the bomb! Grr..."/>
+        <string name="c27_f1" value="Master, don&apos;t be lying like that...grr..."/>
+        <string name="c27_f2" value="You were just kidding, right? Grrr..."/>
+        <string name="c27_f3" value="You were just saying it, right? Grr..."/>
+        <string name="c27_f4" value="Probably didn&apos;t mean it. Grrr..."/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="Master, I love you too!"/>
+        <string name="c28_s2" value="I can&apos;t believe you said that...wow...!"/>
+        <string name="c28_s3" value="Master~I&apos;m feeling embarassed now~"/>
+        <string name="c28_s4" value="I love seeing you smile~~~!"/>
+        <string name="c28_f1" value="(Hahah...master has finally gone mad...)"/>
+        <string name="c28_f2" value="(Wasn&apos;t the master going off on me just minutes ago?...)"/>
+        <string name="c28_f3" value="(Of course I know it&apos;s a lie...hehe...)"/>
+        <string name="c28_f4" value="(I&apos;m not falling for that again...hehehe)"/>
+        <string name="c29" value="down"/>
+        <string name="c29_s1" value="What do you think? Am I good or what? Grrr..."/>
+        <string name="c29_s2" value="I feel sleepy like this...grrrr..."/>
+        <string name="c29_s3" value="How did you know I&apos;m tired? Grr..."/>
+        <string name="c29_s4" value="Ah...this is comfortable...grrr"/>
+        <string name="c29_f1" value="NO. Grr..."/>
+        <string name="c29_f2" value="I&apos;m gonna get dirty...grrr..."/>
+        <string name="c29_f3" value="I can&apos;t just be down like that anywhere...grr..."/>
+        <string name="c29_f4" value="YOU do it...grr..."/>
+        <string name="c30" value="down"/>
+        <string name="c30_s1" value="Master, I&apos;m doing fine, right? Grr..."/>
+        <string name="c30_s2" value="Master, get down here and do it with me~ Grrr..."/>
+        <string name="c30_s3" value="Ah...I feel like falling asleep...grrrr..."/>
+        <string name="c30_s4" value="This is way too easy~ Grr..."/>
+        <string name="c30_f1" value="Master, NO! Grrr...."/>
+        <string name="c30_f2" value="Not right now. Grr..."/>
+        <string name="c30_f3" value="I don&apos;t wanna do it. Grr...."/>
+        <string name="c30_f4" value="I will never do that...grrrr..."/>
+        <string name="c31" value="down"/>
+        <string name="c31_s1" value="Yes, master!"/>
+        <string name="c31_s2" value="Master, just tell me to do it!"/>
+        <string name="c31_s3" value="Like this...? Ey...I&apos;ll do this once for you..."/>
+        <string name="c31_s4" value="What do you think, master? I&apos;m good, right?"/>
+        <string name="c31_f1" value="Master! Can&apos;t you see how dirty it is around here?"/>
+        <string name="c31_f2" value="How am I supposed to be down on my belly if it&apos;s THIS DIRTY around here?"/>
+        <string name="c31_f3" value="What if someone steps on me while I&apos;m down?"/>
+        <string name="c31_f4" value="You think I&apos;ll do everything you ask me to do?!"/>
+        <string name="f1_s" value="Kao~~Kao kao kao!!!"/>
+        <string name="f1_f" value="Ou..."/>
+        <string name="f2_s" value="I&apos;ll definitely feast on this~ Grr~"/>
+        <string name="f2_f" value="I feel like it&apos;s going to come up now...ou..."/>
+        <string name="f3_s" value="Master, thanks for the meal~! YEAH!"/>
+        <string name="f3_f" value="Master, I&apos;m sooo full...ou..."/>
+        <string name="f4_s" value="Yeah! That&apos;s the way uh huh uh huh~!!"/>
+        <string name="f4_f" value="Yo master, are you trying to feed me to death..."/>
+    </imgdir>
+    <imgdir name="5000004">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="meow~"/>
+        <string name="c1_s2" value="meeeooww~"/>
+        <string name="c1_f1" value="meow? meeeeeoooww?"/>
+        <string name="c1_f2" value="meoow?"/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="You want me to sit, meoww? I&apos;m one smart cat...meow"/>
+        <string name="c2_s2" value="Like this, meow? This is nothing, meow..."/>
+        <string name="c2_s3" value="It&apos;s a piece of cake, meow."/>
+        <string name="c2_s4" value="Too easy, meow~"/>
+        <string name="c2_f1" value="I wanna do something fun, meow~"/>
+        <string name="c2_f2" value="I wanna do something else, meow~"/>
+        <string name="c2_f3" value="It&apos;s too nasty for me to sit, meow~"/>
+        <string name="c2_f4" value="I can&apos;t sit here, because someone peed the ground, meow~"/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="Yes, master~ MEOW~"/>
+        <string name="c3_s2" value="Like this? MEOW~"/>
+        <string name="c3_s3" value="I did well, right? MEOW~"/>
+        <string name="c3_s4" value="Sitting is easy~ MEOW~"/>
+        <string name="c3_f1" value="Master, instead of that...give me some food~ MEOW~"/>
+        <string name="c3_f2" value="Master, let&apos;s do something else for fun~ Meow~"/>
+        <string name="c3_f3" value="I don&apos;t wanna sit right now~ MEOW~"/>
+        <string name="c3_f4" value="Master, you&apos;re talking funny, and I can&apos;t understand you~"/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="Just say it~"/>
+        <string name="c4_s2" value="It&apos;s hard being a pet..."/>
+        <string name="c4_s3" value="Piece of cake..."/>
+        <string name="c4_s4" value="Master, whaddaya think? I&apos;m good right?"/>
+        <string name="c4_f1" value="Why don&apos;t YOU sit...hehe"/>
+        <string name="c4_f2" value="Sitting&apos;s waaay too easy...let me do something else."/>
+        <string name="c4_f3" value="Ahh..I&apos;m sleepy...what&apos;s up? What did you say? I didn&apos;t hear you~"/>
+        <string name="c4_f4" value="Hehe...I was daydreaming, so I couldn&apos;t hear you..."/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="niao...niao..."/>
+        <string name="c5_s2" value="meeeeooooowww...~"/>
+        <string name="c5_f1" value="kaooooooo~!"/>
+        <string name="c5_f2" value="Kao~! Kao~!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="Heeeng...you scare me, meow..."/>
+        <string name="c6_s2" value="That&apos;s not cool, meow..."/>
+        <string name="c6_s3" value="Please don&apos;t make a scary face like that...meow..."/>
+        <string name="c6_s4" value="That...that surprised me, meow..."/>
+        <string name="c6_f1" value="What did I do wrong, meow?"/>
+        <string name="c6_f2" value="You&apos;re just going off on me, meow...!"/>
+        <string name="c6_f3" value="I didn&apos;t do anything wrong, meow...!"/>
+        <string name="c6_f4" value="You&apos;re just doing this because you&apos;re bored, meow...!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="So...sorry...MEOW..."/>
+        <string name="c7_s2" value="I&apos;m sorry...MEOW..."/>
+        <string name="c7_s3" value="Master, are you really mad at me...? MEOW..."/>
+        <string name="c7_s4" value="Master...I won&apos;t do that again...MEOW..."/>
+        <string name="c7_f1" value="What did I do anyway~! MEOW!"/>
+        <string name="c7_f2" value="Master that wasn&apos;t cool at all! Meow~!"/>
+        <string name="c7_f3" value="Where else will you find an obedient pet like me? MEOW~!"/>
+        <string name="c7_f4" value="Master! If you keep doing that, I may one day get out of here! MEOW!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="Master...I&apos;ll be careful now..."/>
+        <string name="c8_s2" value="Ah...master, you&apos;re really scaring me..."/>
+        <string name="c8_s3" value="Master...I&apos;ll be good now..."/>
+        <string name="c8_s4" value="Master...please give me that scary face..."/>
+        <string name="c8_f1" value="Man...I haven&apos;t done anything wrong, and still..."/>
+        <string name="c8_f2" value="Master...things happen in life..."/>
+        <string name="c8_f3" value="Man...going off on me again for no reason..."/>
+        <string name="c8_f4" value="Master must be bored...so I&apos;m treated like crap..."/>
+        <string name="c9" value="stupid|ihateyou|dummy"/>
+        <string name="c9_s1" value="Meeeooooowwww..."/>
+        <string name="c9_s2" value="Meow... ... ..."/>
+        <string name="c9_f1" value="Meeeoooow!!"/>
+        <string name="c9_f2" value="OWWW!!!!"/>
+        <string name="c10" value="stupid|ihateyou|dummy"/>
+        <string name="c10_s1" value="I...I am not that, meow..."/>
+        <string name="c10_s2" value="Please don&apos;t leave me, meow..."/>
+        <string name="c10_s3" value="I don&apos;t like hearing that, meow..."/>
+        <string name="c10_s4" value="That was harsh, meow..."/>
+        <string name="c10_f1" value="Take back what you just said, meow!"/>
+        <string name="c10_f2" value="I&apos;m not that, meow!!"/>
+        <string name="c10_f3" value="I&apos;m pissed, meow!!"/>
+        <string name="c10_f4" value="What are you saying, meow???"/>
+        <string name="c11" value="stupid|ihateyou|dummy"/>
+        <string name="c11_s1" value="M...master...I can&apos;t believe you said that...MEOW!"/>
+        <string name="c11_s2" value="Master, I get hurt when I hear those...MEOW"/>
+        <string name="c11_s3" value="That was a joke...right? Right? MEOW?"/>
+        <string name="c11_s4" value="You...didn&apos;t mean that, right? right? MEOW?"/>
+        <string name="c11_f1" value="You&apos;re stupid! MEOW!"/>
+        <string name="c11_f2" value="Take back what you said! MEOW!!!!!"/>
+        <string name="c11_f3" value="That hurts, master! MEOW!"/>
+        <string name="c11_f4" value="You suck master! MEOW!"/>
+        <string name="c12" value="stupid|ihateyou|dummy"/>
+        <string name="c12_s1" value="Master...this is not the first time I&apos;ve heard this, but it still hurts..."/>
+        <string name="c12_s2" value="You aren&apos;t gonna leave me out hanging like this, right?"/>
+        <string name="c12_s3" value="I still like you though..."/>
+        <string name="c12_s4" value="Do you really not like me??"/>
+        <string name="c12_f1" value="Wah? What? I can&apos;t hear you~"/>
+        <string name="c12_f2" value="You didn&apos;t mean what you said, right?"/>
+        <string name="c12_f3" value="I&apos;m sick of hearing that everyday...hehe"/>
+        <string name="c12_f4" value="If you keep saying that, I can really go pissy on you..."/>
+        <string name="c13" value="poop"/>
+        <string name="c13_s1" value="Meeeeeeeeeeeow~"/>
+        <string name="c13_s2" value="Meeoooooow~"/>
+        <string name="c13_f1" value="Meow? Meeeow?"/>
+        <string name="c13_f2" value="Meooooooow~"/>
+        <string name="c14" value="poop"/>
+        <string name="c14_s1" value="Oh, that was good, meow..."/>
+        <string name="c14_s2" value="Ahhh..."/>
+        <string name="c14_s3" value="It...it&apos;s not coming out well, meow..."/>
+        <string name="c14_s4" value="Oh...it smells, meow..."/>
+        <string name="c14_f1" value="It&apos;s not pooping time yet, meow..."/>
+        <string name="c14_f2" value="How can I poop if I don&apos;t feel like it, meow..."/>
+        <string name="c14_f3" value="Pooping is only for bathroom, meow..."/>
+        <string name="c14_f4" value="I pooped before, meow..."/>
+        <string name="c15" value="poop"/>
+        <string name="c15_s1" value="Phew~ MEOW~"/>
+        <string name="c15_s2" value="Oh my...it smells...MEOW~"/>
+        <string name="c15_s3" value="EEhhh...I may be constipating...MEOW~"/>
+        <string name="c15_s4" value="EEhhh...not coming out...MEOW~"/>
+        <string name="c15_f1" value="Master, it hasn&apos;t been long since I last pooped...MEOW..."/>
+        <string name="c15_f2" value="It&apos;s not time to poop yet, master...MEOW..."/>
+        <string name="c15_f3" value="Master...I don&apos;t feel like pooping yet...MEOW..."/>
+        <string name="c15_f4" value="Don&apos;t YOU poop, master? MEOW..."/>
+        <string name="c16" value="poop"/>
+        <string name="c16_s1" value="Ahhh...that was good...but it&apos;s still embarassing...hehe"/>
+        <string name="c16_s2" value="Ahh...whoa, my breakfast just came out like that...hehe"/>
+        <string name="c16_s3" value="Phew~ Doesn&apos;t my poop look as adorable as me? "/>
+        <string name="c16_s4" value="Phew~ Haven&apos;t taken a crap in 3 days and look at this!! Yowza!"/>
+        <string name="c16_f1" value="I haven&apos;t had anything to poop out in the first place..."/>
+        <string name="c16_f2" value="Master...can I do it later in the dark? I don&apos;t wanna do it in public..."/>
+        <string name="c16_f3" value="Master! YOU POOP"/>
+        <string name="c16_f4" value="Master...how am I gonna crap on purpose??"/>
+        <string name="c17" value="talk|chat|say"/>
+        <string name="c17_s1" value="I&apos;m hungry, hungry, meow~"/>
+        <string name="c17_s2" value="The harder you go hunting, the better the items you&apos;ll find, meow..."/>
+        <string name="c17_s3" value="Isn&apos;t it nice out here today? We should go far and have fun wherever on a day like this, meow..."/>
+        <string name="c17_s4" value="I need a nap on top of a comfortable blanket, meow..."/>
+        <string name="c17_f1" value="How do cats talk, meow~"/>
+        <string name="c17_f2" value="I&apos;m too depressed to talk right now, meow~"/>
+        <string name="c17_f3" value="I have nothing to say to you...meow...!"/>
+        <string name="c17_f4" value="Cats don&apos;t talk, meow!"/>
+        <string name="c18" value="talk|chat|say"/>
+        <string name="c18_s1" value="It&apos;s awesome outside today~MEOW!"/>
+        <string name="c18_s2" value="I have a feeling a nice item may come our way today! MEOW!"/>
+        <string name="c18_s3" value="Master, you&apos;ll get me some goood food today, right? MEOW~"/>
+        <string name="c18_s4" value="Let&apos;s go to the beach today! I wanna do something fun!!"/>
+        <string name="c18_f1" value="I don&apos;t have anything to say...MEOW..."/>
+        <string name="c18_f2" value="I wanna rest~MEOW~"/>
+        <string name="c18_f3" value="I have little to say...MEOW..."/>
+        <string name="c18_f4" value="Feel me first...MEOW!"/>
+        <string name="c19" value="talk|chat|say"/>
+        <string name="c19_s1" value="Master, are you dating someone? I&apos;m not..."/>
+        <string name="c19_s2" value="Hey master, can you beat Barlog?"/>
+        <string name="c19_s3" value="You better level-up today!"/>
+        <string name="c19_s4" value="Master, I heard there&apos;s something scary in a cave in the middle of the island..."/>
+        <string name="c19_f1" value="Ah...screw the talk, just get me some food..."/>
+        <string name="c19_f2" value="Must be really really bored...haha..."/>
+        <string name="c19_f3" value="Arrgh...didn&apos;t hear a thing...didn&apos;t hear a thing..."/>
+        <string name="c19_f4" value="Man I&apos;m tired, and I don&apos;t feel like talking..."/>
+        <string name="c20" value="cutie"/>
+        <string name="c20_s1" value="What do you think, meow? Am I doing well...meow?"/>
+        <string name="c20_s2" value="Even I think this is cute...meow...~"/>
+        <string name="c20_s3" value="Hehe...is this the right way...meow...?"/>
+        <string name="c20_s4" value="You like my butt? I know too...meow...!"/>
+        <string name="c20_f1" value="No! I don&apos;t want to do it...meow...!"/>
+        <string name="c20_f2" value="Dummy! You do it...meow...!"/>
+        <string name="c20_f3" value="Not in a mood...meow...!"/>
+        <string name="c20_f4" value="I&apos;m TIRED, meow...!"/>
+        <string name="c21" value="cutie"/>
+        <string name="c21_s1" value="Master, what do you think? Cute, right? MEOW!"/>
+        <string name="c21_s2" value="Hehe...cute butt I got here right? MEOW!"/>
+        <string name="c21_s3" value="I&apos;ll do anything for you, master~!"/>
+        <string name="c21_s4" value="Whatever you ask me to do...MEOW~!"/>
+        <string name="c21_f1" value="Master! Just get me some food! MEOW!"/>
+        <string name="c21_f2" value="I don&apos;t wanna do cute stuff! MEOW!"/>
+        <string name="c21_f3" value="Master, I don&apos;t feel good! MEOW!"/>
+        <string name="c21_f4" value="Just leave me alone! MEOW!"/>
+        <string name="c22" value="cutie"/>
+        <string name="c22_s1" value="Like this? At least you know a cute act when you see one..."/>
+        <string name="c22_s2" value="Luv ya master~"/>
+        <string name="c22_s3" value="Master I love you~"/>
+        <string name="c22_s4" value="I&apos;ll do whatever you ask me to do~"/>
+        <string name="c22_f1" value="Keeps making me do stupid stuff...I&apos;m sick of it..."/>
+        <string name="c22_f2" value="Feed me instead of making me do those!"/>
+        <string name="c22_f3" value="Man~ That thing is wack now! I don&apos;t wanna do it!"/>
+        <string name="c22_f4" value="You think I&apos;ll do just what you ask me to do? Dummy..."/>
+        <string name="c23" value="up|stand|rise"/>
+        <string name="c23_s1" value="It&apos;s hard...I can&apos;t stand for too long~MEOW~"/>
+        <string name="c23_s2" value="Like this? MEOW?"/>
+        <string name="c23_s3" value="Master~ I&apos;m doing fine, right? MEOW?"/>
+        <string name="c23_s4" value="Hap!! Whoa, I got tall! MEOW!"/>
+        <string name="c23_f1" value="It&apos;s hard! MEOW!"/>
+        <string name="c23_f2" value="No way~! MEOW!"/>
+        <string name="c23_f3" value="NOOOO NOO NOO~! MEOW~!"/>
+        <string name="c23_f4" value="How&apos;s a cat supposed to stand up? MEOW!"/>
+        <string name="c24" value="up|stand|rise"/>
+        <string name="c24_s1" value="Hehe...master, I&apos;m good, right?"/>
+        <string name="c24_s2" value="This ain&apos;t nothing~ Too easy~"/>
+        <string name="c24_s3" value="If I keep practicing like this everyday, I may one day walk around with two feet...hehe"/>
+        <string name="c24_s4" value="I&apos;m good, right? Give me something harder~"/>
+        <string name="c24_f1" value="Maybe if you feed me...then I might...hehe"/>
+        <string name="c24_f2" value="Master~That&apos;s too hard, and I don&apos;t wanna do it~"/>
+        <string name="c24_f3" value="Man...some strange stuff again..."/>
+        <string name="c24_f4" value="No..."/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="Meow~~"/>
+        <string name="c25_s2" value="Meow~, meow~~~~"/>
+        <string name="c25_f1" value="...?"/>
+        <string name="c25_f2" value="Meow?"/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="I love you too, meow~"/>
+        <string name="c26_s2" value="Hehe...I&apos;m blushing, meow~"/>
+        <string name="c26_s3" value="Really? Thanks, meow~"/>
+        <string name="c26_s4" value="Me too~"/>
+        <string name="c26_f1" value="Liar..."/>
+        <string name="c26_f2" value="What did you say, meow?"/>
+        <string name="c26_f3" value="What&apos;s up, meow?"/>
+        <string name="c26_f4" value="Since when, meow?"/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="Master, me too~! MEOW!"/>
+        <string name="c27_s2" value="Really? Thanks, master! MEOW!"/>
+        <string name="c27_s3" value="I like you too~ MEOW!"/>
+        <string name="c27_s4" value="I like you very very much! MEOW!"/>
+        <string name="c27_f1" value="Master, give me some food...meow..."/>
+        <string name="c27_f2" value="...? MEOW?"/>
+        <string name="c27_f3" value="Ah...I was thinking of something else...MEOW"/>
+        <string name="c27_f4" value="I know you&apos;re lying...MEOW..."/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="Master...right back atcha!"/>
+        <string name="c28_s2" value="You&apos;re the only one in my heart, master!"/>
+        <string name="c28_s3" value="Me too! Me too!! hehe..."/>
+        <string name="c28_s4" value="Aye...I&apos;m blushing..."/>
+        <string name="c28_f1" value="Liar~ Liar~"/>
+        <string name="c28_f2" value="Master&apos;s talking gibberish again..."/>
+        <string name="c28_f3" value="Don&apos;t be lying to me like that~!"/>
+        <string name="c28_f4" value="Gimme some food already~"/>
+        <string name="f1_s" value="Meow~ Meow~Meoooow!"/>
+        <string name="f1_f" value="Me...meooooooowwww..."/>
+        <string name="f2_s" value="FOOD~! FOOD~!"/>
+        <string name="f2_f" value="I wanna stop eating now...argh..."/>
+        <string name="f3_s" value="Master~ That was gooood!"/>
+        <string name="f3_f" value="Master...I can&apos;t eat anymore...hoo"/>
+        <string name="f4_s" value="Master, I want today&apos;s special~"/>
+        <string name="f4_f" value="Yo master...I&apos;m realllly full..."/>
+    </imgdir>
+    <imgdir name="5000005">
+        <string name="c1" value="sit"/>
+        <string name="c1_s1" value="Kyu~~"/>
+        <string name="c1_s2" value="Kyooooot~"/>
+        <string name="c1_f1" value="...?"/>
+        <string name="c1_f2" value="..."/>
+        <string name="c2" value="sit"/>
+        <string name="c2_s1" value="Sit? Alright I&apos;ll sit...kyu~~"/>
+        <string name="c2_s2" value="I get sleepy from sitting down, but...kyu.."/>
+        <string name="c2_s3" value="I should just sit here instead of roaming around~kyu~"/>
+        <string name="c2_s4" value="So I just need to sit here, right, kyu??"/>
+        <string name="c2_f1" value="What is the master saying...kyu??"/>
+        <string name="c2_f2" value="Keeps making me do the same thing over and over again...anything else? kyu...?"/>
+        <string name="c2_f3" value="Huh? I was thinking of something else for a sec...kyu..."/>
+        <string name="c2_f4" value="It&apos;s dirty here...kyu..."/>
+        <string name="c3" value="sit"/>
+        <string name="c3_s1" value="Master, sitting is waay too easy~!"/>
+        <string name="c3_s2" value="Piece of cake~! KYU!"/>
+        <string name="c3_s3" value="You keep asking me to do some easy thing...KYU~!"/>
+        <string name="c3_s4" value="Yes, master! I&apos;ll sit! KYU!"/>
+        <string name="c3_f1" value="Master, you can&apos;t say it right, right? KYU?"/>
+        <string name="c3_f2" value="Can I sit later..KYU...?"/>
+        <string name="c3_f3" value="It&apos;s too dirty to sit around here...KYU..."/>
+        <string name="c3_f4" value="Feed me instead~! KYU!"/>
+        <string name="c4" value="sit"/>
+        <string name="c4_s1" value="This is waaay too easy~"/>
+        <string name="c4_s2" value="I gotta do one for the master every once in a while..."/>
+        <string name="c4_s3" value="Now that I sat, you need to feed me~"/>
+        <string name="c4_s4" value="It&apos;s nothing really~"/>
+        <string name="c4_f1" value="Ahh...sleepy..."/>
+        <string name="c4_f2" value="Argh...so annoying..."/>
+        <string name="c4_f3" value="Ey...get away..."/>
+        <string name="c4_f4" value="No...stupid..."/>
+        <string name="c5" value="bad|no|badgirl|badboy"/>
+        <string name="c5_s1" value="Kyouuuuu..."/>
+        <string name="c5_s2" value="..."/>
+        <string name="c5_f1" value="KYUT!"/>
+        <string name="c5_f2" value="Kyooot, kyuuuuuuuut!"/>
+        <string name="c6" value="bad|no|badgirl|badboy"/>
+        <string name="c6_s1" value="Scary...kyu..."/>
+        <string name="c6_s2" value="No more of that scary face...please...kyu..."/>
+        <string name="c6_s3" value="I&apos;ll be better...kyu..."/>
+        <string name="c6_s4" value="Sorry...kyu..."/>
+        <string name="c6_f1" value="Man, just letting out on me, kyu!!"/>
+        <string name="c6_f2" value="I wasn&apos;t doing anything! WHAT, kyu!"/>
+        <string name="c6_f3" value="Dummy, kyu!"/>
+        <string name="c6_f4" value="Stupid, kyu!"/>
+        <string name="c7" value="bad|no|badgirl|badboy"/>
+        <string name="c7_s1" value="I&apos;m really sorry, master...KYU..."/>
+        <string name="c7_s2" value="You&apos;re too scary...KYU..."/>
+        <string name="c7_s3" value="Master...please don&apos;t get mad...! KYU!"/>
+        <string name="c7_s4" value="I&apos;ll be better...KYU...!"/>
+        <string name="c7_f1" value="Master! You don&apos;t understand...!KYU!"/>
+        <string name="c7_f2" value="Master, what exactly did I do wrong? KYU!"/>
+        <string name="c7_f3" value="You won&apos;t find a more obidient pet around you! KYU!"/>
+        <string name="c7_f4" value="I was just sitting there! KYU!"/>
+        <string name="c8" value="bad|no|badgirl|badboy"/>
+        <string name="c8_s1" value="Master...I&apos;m really sorry..."/>
+        <string name="c8_s2" value="Master, you scare me..."/>
+        <string name="c8_s3" value="I...I&apos;m hurt..."/>
+        <string name="c8_s4" value="Arrgh...you look scary..."/>
+        <string name="c8_f1" value="Are you mad again? AGAIN?"/>
+        <string name="c8_f2" value="So you&apos;re mad at me cuz you&apos;re bored, right?"/>
+        <string name="c8_f3" value="I wasn&apos;t doing anything..."/>
+        <string name="c8_f4" value="Ey~you&apos;re bored again, right?"/>
+        <string name="c9" value="up|stand"/>
+        <string name="c9_s1" value="Kyooooot!"/>
+        <string name="c9_s2" value="Kyooooooo~"/>
+        <string name="c9_f1" value="...???"/>
+        <string name="c9_f2" value="..."/>
+        <string name="c10" value="up|stand|rise"/>
+        <string name="c10_s1" value="Hap~kyu~!"/>
+        <string name="c10_s2" value="This is easy~kyu!"/>
+        <string name="c10_s3" value="I&apos;m good, right...kyu?"/>
+        <string name="c10_s4" value="This is too easy for me, key!"/>
+        <string name="c10_f1" value="No, kyu...!"/>
+        <string name="c10_f2" value="What, kyu?"/>
+        <string name="c10_f3" value="Annoying...kyu...!"/>
+        <string name="c10_f4" value="I won&apos;t do it~kyu~"/>
+        <string name="c11" value="up|stand|rise"/>
+        <string name="c11_s1" value="What do you think, master? I&apos;m good, right? KYU?"/>
+        <string name="c11_s2" value="Too easy~KYU!"/>
+        <string name="c11_s3" value="If my master wants me to...KYU!"/>
+        <string name="c11_s4" value="Hahh...I&apos;ve just gotte much taller! KYU!"/>
+        <string name="c11_f1" value="Ey...I don&apos;t wanna do something boring like that...KYU"/>
+        <string name="c11_f2" value="It&apos;s hard...KYU..."/>
+        <string name="c11_f3" value="I don&apos;t want to...KYU~"/>
+        <string name="c11_f4" value="Let&apos;s do something else~KYU~"/>
+        <string name="c12" value="up|stand|rise"/>
+        <string name="c12_s1" value="Master what do you think? I&apos;m good, right?"/>
+        <string name="c12_s2" value="You won&apos;t find a bunny that can stand like I do"/>
+        <string name="c12_s3" value="Now that I&apos;m up like this, I can see things from afar"/>
+        <string name="c12_s4" value="Standing up is sooo easy now..."/>
+        <string name="c12_f1" value="Hmm...so annoying"/>
+        <string name="c12_f2" value="I&apos;ll sleep for now"/>
+        <string name="c12_f3" value="Ey...keeps asking me to do the same thing..."/>
+        <string name="c12_f4" value="I can&apos;t hear you...I can&apos;t hear you"/>
+        <string name="c13" value="poop"/>
+        <string name="c13_s1" value="...(haaaah..)"/>
+        <string name="c13_s2" value="...(phew...)"/>
+        <string name="c13_f1" value="...?"/>
+        <string name="c13_f2" value="..."/>
+        <string name="c14" value="poop"/>
+        <string name="c14_s1" value="Embarassing~kyu~"/>
+        <string name="c14_s2" value="Hahhh..."/>
+        <string name="c14_s3" value="Don&apos;t look at me~ kyu~"/>
+        <string name="c14_s4" value="Ah...smells...kyu..."/>
+        <string name="c14_f1" value="I do&apos;nt feel too much of it of TC"/>
+        <string name="c14_f2" value="It&apos;s still a long way to go before coming out...heh"/>
+        <string name="c14_f3" value="So may people around here, how am I gonna poop in public?? kyu..."/>
+        <string name="c14_f4" value="I just pooped a few min. ago...kyu..."/>
+        <string name="c15" value="poop"/>
+        <string name="c15_s1" value="Ahhhhhhhhhhhhhhhhhhhhhhh"/>
+        <string name="c15_s2" value="Ahhhhh...whoa, I almost stepped on it...KYU"/>
+        <string name="c15_s3" value="I almost got constipated...KYU"/>
+        <string name="c15_s4" value="Ahhh, that was good...KYU"/>
+        <string name="c15_f1" value="Master...the poop isn&apos;t coming out...KYU!"/>
+        <string name="c15_f2" value="It&apos;s not time to go poop yet...KYU"/>
+        <string name="c15_f3" value="Master...I don&apos;t feel it yet...KYU"/>
+        <string name="c15_f4" value="Master...pooping should only be at bathrooms...KYU"/>
+        <string name="c16" value="poop"/>
+        <string name="c16_s1" value="Ahhhhhh...please don&apos;t look...it&apos;s embarassing"/>
+        <string name="c16_s2" value="Ahh...the poop looks really good today"/>
+        <string name="c16_s3" value="Ahh...master you can&apos;t step on it!"/>
+        <string name="c16_s4" value="Ahhh, that was good...whoa, master...you stepped on it..."/>
+        <string name="c16_f1" value="I can&apos;t poop what I didn&apos;t eat..."/>
+        <string name="c16_f2" value="Can you poop even if you don&apos;t feel like it?"/>
+        <string name="c16_f3" value="I had nothing to eat all day, so no poop for me..."/>
+        <string name="c16_f4" value="I must be constipating right now..."/>
+        <string name="c17" value="talk|chat|say"/>
+        <string name="c17_s1" value="Is something wrong with you these days...? Don&apos;t worry, I&apos;ll be there for you, kyu..."/>
+        <string name="c17_s2" value="When you&apos;re buying items, you need to make sure you&apos;re not being deceived...kyu..."/>
+        <string name="c17_s3" value="If...you starve me, I may just crawl back into my home...so don&apos;t starve me too much...kyu..."/>
+        <string name="c17_s4" value="I love the phrase &quot;I love you&quot; more than anything else in the world! kyu..."/>
+        <string name="c17_f1" value="You ever see a rabbit talk? kyu..."/>
+        <string name="c17_f2" value="I can&apos;t talk to you about things...kyu..."/>
+        <string name="c17_f3" value="I have nothing to say to you! kyu..."/>
+        <string name="c17_f4" value="I&apos;m in no mood to talk...kyu..."/>
+        <string name="c18" value="talk|chat|say"/>
+        <string name="c18_s1" value="How about going from place to place instead of staying at a same place? KYU"/>
+        <string name="c18_s2" value="Isn&apos;t it not fun playing by yourself? I like hanging out with people...KYU..."/>
+        <string name="c18_s3" value="There&apos;s a lot of ppl on this island so make sure you don&apos;t forget about being courteous to everyone around you...KYU..."/>
+        <string name="c18_s4" value="I heard there&apos;s a dungeon in the middle of this island...KYU..."/>
+        <string name="c18_f1" value="I have nothing to say...KYU..."/>
+        <string name="c18_f2" value="I feel like crap, so I won&apos;t talk...KYU..."/>
+        <string name="c18_f3" value="Aye...let&apos;s do something else! KYUUU!"/>
+        <string name="c18_f4" value="YOU talk to me~KYU~"/>
+        <string name="c19" value="talk|chat|say"/>
+        <string name="c19_s1" value="We pets are created by Cloy of Henesys."/>
+        <string name="c19_s2" value="Master...your head&apos;s huge!!!"/>
+        <string name="c19_s3" value="I know it&apos;s precious, but you need to take those potions while you fight to get stronger fast!"/>
+        <string name="c19_s4" value="Go do some quests and something good may happen~"/>
+        <string name="c19_f1" value="There&apos;s not much to say but...feed me!"/>
+        <string name="c19_f2" value="So annoying...I have nothing to say..."/>
+        <string name="c19_f3" value="I&apos;m tired, so I&apos;ll tell you later..."/>
+        <string name="c19_f4" value="Boring...anything more fun??"/>
+        <string name="c20" value="hug"/>
+        <string name="c20_s1" value="Here, come here! kyu~"/>
+        <string name="c20_s2" value="I&apos;ll hug you up~ kyu~~"/>
+        <string name="c20_s3" value="Hug me too~ kyu~"/>
+        <string name="c20_s4" value="Hehe~~~hug me~~~kyuu..."/>
+        <string name="c20_f1" value="NO! You haven&apos;t showered in days! kyu..."/>
+        <string name="c20_f2" value="Ah...B.O.!! kyu...!"/>
+        <string name="c20_f3" value="You...smell funny! kyu...!"/>
+        <string name="c20_f4" value="It&apos;s hot in here!! kyu..."/>
+        <string name="c21" value="hug"/>
+        <string name="c21_s1" value="Master, I&apos;ll go hug you up~! Kyu!"/>
+        <string name="c21_s2" value="Alright, come hug me~! KYU!"/>
+        <string name="c21_s3" value="Master, hug me~~! KYU!"/>
+        <string name="c21_s4" value="Master, I can feel your heartbeat~! KYU!"/>
+        <string name="c21_f1" value="Feed me! KYU!"/>
+        <string name="c21_f2" value="Master...please go take shower right now!"/>
+        <string name="c21_f3" value="You smell too much! KYU!"/>
+        <string name="c21_f4" value="NO~! I don&apos;t want to hug you! KYU!"/>
+        <string name="c22" value="hug"/>
+        <string name="c22_s1" value="Hug me~~~~HUG ME~~~~"/>
+        <string name="c22_s2" value="Master~~Pleease hug me tight!"/>
+        <string name="c22_s3" value="I like how you embrace me, master"/>
+        <string name="c22_s4" value="Hurry...hurry...hug me~!"/>
+        <string name="c22_f1" value="Master? You really think I&apos;ll hug you up?"/>
+        <string name="c22_f2" value="And you were scolding me just now..."/>
+        <string name="c22_f3" value="If you feed me, I will"/>
+        <string name="c22_f4" value="Master, you smell! I don&apos;t wanna hug you~"/>
+        <string name="c23" value="sleep|sleepy|gotobed"/>
+        <string name="c23_s1" value="Need...to...sleep...kyu~"/>
+        <string name="c23_s2" value="I&apos;m tired...and sleepy...kyu...."/>
+        <string name="c23_s3" value="My eyes are closing fast...kyu..."/>
+        <string name="c23_s4" value="I&apos;m really tired today...kyu..."/>
+        <string name="c23_f1" value="I&apos;m not sleepy at all...kyu..."/>
+        <string name="c23_f2" value="Play time~ Play time! PLAY TIME!!"/>
+        <string name="c23_f3" value="Who sleeps in the middle of the day...kyu?"/>
+        <string name="c23_f4" value="It&apos;s not bedtime yet~kyu~"/>
+        <string name="c24" value="sleep|sleepy|gotobed"/>
+        <string name="c24_s1" value="Ah...master, sleep with me...kyuuuuuu"/>
+        <string name="c24_s2" value="...zzz"/>
+        <string name="c24_s3" value="Ahh...I&apos;m sleepy...master, give me your arm as my pillow...kyu..."/>
+        <string name="c24_s4" value="Please don&apos;t have delicious food all to yourself while I&apos;m asleep...kyu..."/>
+        <string name="c24_f1" value="Master! I feel fine~! Hang out with me!"/>
+        <string name="c24_f2" value="If you sing me a song, then I&apos;ll fall asleep."/>
+        <string name="c24_f3" value="You know you&apos;re gonna write all over my face while I fall asleep..."/>
+        <string name="c24_f4" value="I can&apos;t sleep cuz I&apos;m hungry! FOOD! FOOD!"/>
+        <string name="c25" value="loveyou"/>
+        <string name="c25_s1" value="Kyu~~!!"/>
+        <string name="c25_s2" value="Kyu...kyuuuuu~~~~"/>
+        <string name="c25_f1" value="???"/>
+        <string name="c25_f2" value="Kyu?"/>
+        <string name="c26" value="loveyou"/>
+        <string name="c26_s1" value="I love you too~kyu~~"/>
+        <string name="c26_s2" value="I like you too~~~kyu~~~"/>
+        <string name="c26_s3" value="Really? Nice! I feel good~ kyu~"/>
+        <string name="c26_s4" value="That was a surprise...thanks~kyu~"/>
+        <string name="c26_f1" value="What did you say, kyu?"/>
+        <string name="c26_f2" value="Was that a lie, kyu?"/>
+        <string name="c26_f3" value="That wasn&apos;t for me, right? kyu?"/>
+        <string name="c26_f4" value="That was a typo, right? kyu?"/>
+        <string name="c27" value="loveyou"/>
+        <string name="c27_s1" value="I love you too, master! KYU!"/>
+        <string name="c27_s2" value="Master you&apos;re awesome...KYU~"/>
+        <string name="c27_s3" value="Wow...I&apos;m sooo happy~ KYU~"/>
+        <string name="c27_s4" value="Hehe...I&apos;m gonna tell everyone about this...KYU!"/>
+        <string name="c27_f1" value="Master, I know you&apos;re lying. KYU!"/>
+        <string name="c27_f2" value="Really..? Aye...you know you&apos;re lying...KYU..."/>
+        <string name="c27_f3" value="That was funny~KYU~"/>
+        <string name="c27_f4" value="You&apos;re just saying that, right? KYU?"/>
+        <string name="c28" value="loveyou"/>
+        <string name="c28_s1" value="Me too!!!!"/>
+        <string name="c28_s2" value="Master~ I&apos;m floored..."/>
+        <string name="c28_s3" value="Please keep telling me that..."/>
+        <string name="c28_s4" value="Hehe...you&apos;re tha bomb!"/>
+        <string name="c28_f1" value="Yeah, whatever..."/>
+        <string name="c28_f2" value="One minute you&apos;re all over me, now you say you love me..."/>
+        <string name="c28_f3" value="If you love me, how come you aren&apos;t feeding me?"/>
+        <string name="c28_f4" value="You think I&apos;ll fall for it again...?"/>
+        <string name="f1_s" value="Kyu! Kyuuuuuuuuuuu!"/>
+        <string name="f1_f" value="..."/>
+        <string name="f2_s" value="Wow...looks GOOD~ KYU!"/>
+        <string name="f2_f" value="I feel like throwing up...Kyu..."/>
+        <string name="f3_s" value="Master, that was awesome~ Kyu~~"/>
+        <string name="f3_f" value="I can&apos;t eat anymore...Kyu..."/>
+        <string name="f4_s" value="Master this is soooo delicious! Kyu!"/>
+        <string name="f4_f" value="Master...I&apos;m soooooooo full"/>
+    </imgdir>
+</imgdir>

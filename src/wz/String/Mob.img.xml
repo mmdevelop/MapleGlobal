@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Mob.img">
+    <imgdir name="100100">
+        <string name="name" value="Snail"/>
+    </imgdir>
+    <imgdir name="100101">
+        <string name="name" value="Blue Snail"/>
+    </imgdir>
+    <imgdir name="120100">
+        <string name="name" value="Shroom"/>
+    </imgdir>
+    <imgdir name="130100">
+        <string name="name" value="Stump"/>
+    </imgdir>
+    <imgdir name="130101">
+        <string name="name" value="Red Snail"/>
+    </imgdir>
+    <imgdir name="210100">
+        <string name="name" value="Slime"/>
+    </imgdir>
+    <imgdir name="1110100">
+        <string name="name" value="Green Mushroom"/>
+    </imgdir>
+    <imgdir name="1110101">
+        <string name="name" value="Dark Stump"/>
+    </imgdir>
+    <imgdir name="1120100">
+        <string name="name" value="Octopus"/>
+    </imgdir>
+    <imgdir name="1130100">
+        <string name="name" value="Axe Stump"/>
+    </imgdir>
+    <imgdir name="1210100">
+        <string name="name" value="Pig"/>
+    </imgdir>
+    <imgdir name="1210101">
+        <string name="name" value="Ribbon Pig"/>
+    </imgdir>
+    <imgdir name="1210102">
+        <string name="name" value="Orange Mushroom"/>
+    </imgdir>
+    <imgdir name="1210103">
+        <string name="name" value="Bubbling"/>
+    </imgdir>
+    <imgdir name="2110200">
+        <string name="name" value="Horned Mushroom"/>
+    </imgdir>
+    <imgdir name="2130100">
+        <string name="name" value="Dark Axe Stump"/>
+    </imgdir>
+    <imgdir name="2130103">
+        <string name="name" value="Jr. Necki"/>
+    </imgdir>
+    <imgdir name="2220100">
+        <string name="name" value="Blue Mushroom"/>
+    </imgdir>
+    <imgdir name="2230100">
+        <string name="name" value="Evil Eye"/>
+    </imgdir>
+    <imgdir name="2230101">
+        <string name="name" value="Zombie Mushroom"/>
+    </imgdir>
+    <imgdir name="2230102">
+        <string name="name" value="Wild Boar"/>
+    </imgdir>
+    <imgdir name="2230103">
+        <string name="name" value="Trickster"/>
+    </imgdir>
+    <imgdir name="2230104">
+        <string name="name" value="Green Trickster"/>
+    </imgdir>
+    <imgdir name="2300100">
+        <string name="name" value="Stirge"/>
+    </imgdir>
+    <imgdir name="3000000">
+        <string name="name" value="Sentinel"/>
+    </imgdir>
+    <imgdir name="3000001">
+        <string name="name" value="Fairy 1"/>
+    </imgdir>
+    <imgdir name="3000002">
+        <string name="name" value="Fairy 2"/>
+    </imgdir>
+    <imgdir name="3000003">
+        <string name="name" value="Fairy 3"/>
+    </imgdir>
+    <imgdir name="3000004">
+        <string name="name" value="Fairy 4"/>
+    </imgdir>
+    <imgdir name="3000005">
+        <string name="name" value="Brown Tenny"/>
+    </imgdir>
+    <imgdir name="3110100">
+        <string name="name" value="Ligator"/>
+    </imgdir>
+    <imgdir name="3110101">
+        <string name="name" value="Pink Tenny"/>
+    </imgdir>
+    <imgdir name="3110102">
+        <string name="name" value="Latz"/>
+    </imgdir>
+    <imgdir name="3210100">
+        <string name="name" value="Fire Boar"/>
+    </imgdir>
+    <imgdir name="3210200">
+        <string name="name" value="Jr. Cellion"/>
+    </imgdir>
+    <imgdir name="3210201">
+        <string name="name" value="Jr. Lioner"/>
+    </imgdir>
+    <imgdir name="3210202">
+        <string name="name" value="Jr. Grupin"/>
+    </imgdir>
+    <imgdir name="3210203">
+        <string name="name" value="Panda Tenny"/>
+    </imgdir>
+    <imgdir name="3210204">
+        <string name="name" value="Ducky Family"/>
+    </imgdir>
+    <imgdir name="3210205">
+        <string name="name" value="Black Latz"/>
+    </imgdir>
+    <imgdir name="3210206">
+        <string name="name" value="Cheek Saver"/>
+    </imgdir>
+    <imgdir name="3210207">
+        <string name="name" value="Ticky"/>
+    </imgdir>
+    <imgdir name="3210800">
+        <string name="name" value="Lupin"/>
+    </imgdir>
+    <imgdir name="3230100">
+        <string name="name" value="Curse Eye"/>
+    </imgdir>
+    <imgdir name="3230101">
+        <string name="name" value="Jr. Wraith"/>
+    </imgdir>
+    <imgdir name="3230102">
+        <string name="name" value="Lorang"/>
+    </imgdir>
+    <imgdir name="3230303">
+        <string name="name" value="Pink Saver"/>
+    </imgdir>
+    <imgdir name="3230306">
+        <string name="name" value="Chronos"/>
+    </imgdir>
+    <imgdir name="3230103">
+        <string name="name" value="King Block Fuss"/>
+    </imgdir>
+    <imgdir name="3230304">
+        <string name="name" value="Sky Saver"/>
+    </imgdir>
+    <imgdir name="3230305">
+        <string name="name" value="Toy Horse"/>
+    </imgdir>
+    <imgdir name="3230200">
+        <string name="name" value="Star Pixie"/>
+    </imgdir>
+    <imgdir name="3230300">
+        <string name="name" value="Jr. Boogie 1"/>
+    </imgdir>
+    <imgdir name="3230301">
+        <string name="name" value="Jr. Boogie 2"/>
+    </imgdir>
+    <imgdir name="3230302">
+        <string name="name" value="Block Fuss"/>
+    </imgdir>
+    <imgdir name="4130100">
+        <string name="name" value="Copper Drake"/>
+    </imgdir>
+    <imgdir name="4130101">
+        <string name="name" value="Tortie"/>
+    </imgdir>
+    <imgdir name="4230115">
+        <string name="name" value="Master Chronos"/>
+    </imgdir>
+    <imgdir name="4130102">
+        <string name="name" value="Dark Nependeath"/>
+    </imgdir>
+    <imgdir name="4230100">
+        <string name="name" value="Cold Eye"/>
+    </imgdir>
+    <imgdir name="4230101">
+        <string name="name" value="Zombie Lupin"/>
+    </imgdir>
+    <imgdir name="4230102">
+        <string name="name" value="Wraith"/>
+    </imgdir>
+    <imgdir name="4230103">
+        <string name="name" value="Iron Hog"/>
+    </imgdir>
+    <imgdir name="4230104">
+        <string name="name" value="Clang"/>
+    </imgdir>
+    <imgdir name="4230105">
+        <string name="name" value="Nependeath"/>
+    </imgdir>
+    <imgdir name="4230106">
+        <string name="name" value="Lunar Pixie"/>
+    </imgdir>
+    <imgdir name="4230107">
+        <string name="name" value="Flyeye"/>
+    </imgdir>
+    <imgdir name="4230108">
+        <string name="name" value="Jr. Bulldog"/>
+    </imgdir>
+    <imgdir name="4230109">
+        <string name="name" value="Block Gollem"/>
+    </imgdir>
+    <imgdir name="4230110">
+        <string name="name" value="King Block Gollem"/>
+    </imgdir>
+    <imgdir name="4230111">
+        <string name="name" value="Robotoy"/>
+    </imgdir>
+    <imgdir name="4230112">
+        <string name="name" value="Master Robo"/>
+    </imgdir>
+    <imgdir name="4230113">
+        <string name="name" value="Tic-Toc"/>
+    </imgdir>
+    <imgdir name="4230114">
+        <string name="name" value="Platoon Chronos"/>
+    </imgdir>
+    <imgdir name="5100000">
+        <string name="name" value="Jr. Yeti"/>
+    </imgdir>
+    <imgdir name="5100001">
+        <string name="name" value="Transforming Jr. Yeti"/>
+    </imgdir>
+    <imgdir name="5100002">
+        <string name="name" value="Firebomb"/>
+    </imgdir>
+    <imgdir name="5120000">
+        <string name="name" value="Luster Pixie"/>
+    </imgdir>
+    <imgdir name="5120001">
+        <string name="name" value="Cellion"/>
+    </imgdir>
+    <imgdir name="5120002">
+        <string name="name" value="Lioner"/>
+    </imgdir>
+    <imgdir name="5120003">
+        <string name="name" value="Grupin"/>
+    </imgdir>
+    <imgdir name="5130100">
+        <string name="name" value="Drake"/>
+    </imgdir>
+    <imgdir name="5130101">
+        <string name="name" value="Stone Gollem"/>
+    </imgdir>
+    <imgdir name="5130102">
+        <string name="name" value="Dark Stone Gollem"/>
+    </imgdir>
+    <imgdir name="5130103">
+        <string name="name" value="Croco"/>
+    </imgdir>
+    <imgdir name="5130104">
+        <string name="name" value="Hector"/>
+    </imgdir>
+    <imgdir name="5130105">
+        <string name="name" value="Dark Jr. Yeti"/>
+    </imgdir>
+    <imgdir name="5130106">
+        <string name="name" value="Transforming Dark Jr. Yeti"/>
+    </imgdir>
+    <imgdir name="5130107">
+        <string name="name" value="Coolie Zombie"/>
+    </imgdir>
+    <imgdir name="5130108">
+        <string name="name" value="Minor Zombie"/>
+    </imgdir>
+    <imgdir name="5140000">
+        <string name="name" value="White Fang"/>
+    </imgdir>
+    <imgdir name="5200000">
+        <string name="name" value="Jr. Sentinel"/>
+    </imgdir>
+    <imgdir name="5200001">
+        <string name="name" value="Ice Sentinel"/>
+    </imgdir>
+    <imgdir name="5200002">
+        <string name="name" value="Fire Sentinel"/>
+    </imgdir>
+    <imgdir name="5300000">
+        <string name="name" value="Leatty"/>
+    </imgdir>
+    <imgdir name="5300001">
+        <string name="name" value="Dark Leatty"/>
+    </imgdir>
+    <imgdir name="5400000">
+        <string name="name" value="Jr. Pepe"/>
+    </imgdir>
+    <imgdir name="5300100">
+        <string name="name" value="Malady"/>
+    </imgdir>
+    <imgdir name="6130100">
+        <string name="name" value="Red Drake"/>
+    </imgdir>
+    <imgdir name="6130101">
+        <string name="name" value="Mushmom"/>
+    </imgdir>
+    <imgdir name="6130102">
+        <string name="name" value="Separated Pepe"/>
+    </imgdir>
+    <imgdir name="6130103">
+        <string name="name" value="Pepe"/>
+    </imgdir>
+    <imgdir name="6130104">
+        <string name="name" value="Boogie"/>
+    </imgdir>
+    <imgdir name="6230100">
+        <string name="name" value="Wild Cargo"/>
+    </imgdir>
+    <imgdir name="6230101">
+        <string name="name" value="Puco"/>
+    </imgdir>
+    <imgdir name="6230200">
+        <string name="name" value="Dark Pepe"/>
+    </imgdir>
+    <imgdir name="6230201">
+        <string name="name" value="Separated Dark Pepe"/>
+    </imgdir>
+    <imgdir name="6300000">
+        <string name="name" value="Yeti"/>
+    </imgdir>
+    <imgdir name="6300001">
+        <string name="name" value="Transformed Yeti"/>
+    </imgdir>
+    <imgdir name="6300002">
+        <string name="name" value="Separated Yeti"/>
+    </imgdir>
+    <imgdir name="6300003">
+        <string name="name" value="Punco"/>
+    </imgdir>
+    <imgdir name="6400000">
+        <string name="name" value="Dark Yeti"/>
+    </imgdir>
+    <imgdir name="6400001">
+        <string name="name" value="Transformed Dark Yeti"/>
+    </imgdir>
+    <imgdir name="6400002">
+        <string name="name" value="Separated Dark Yeti"/>
+    </imgdir>
+    <imgdir name="6400003">
+        <string name="name" value="Kusco"/>
+    </imgdir>
+    <imgdir name="7130000">
+        <string name="name" value="Lucida"/>
+    </imgdir>
+    <imgdir name="7130001">
+        <string name="name" value="Cerebes"/>
+    </imgdir>
+    <imgdir name="7130100">
+        <string name="name" value="Tauromacis"/>
+    </imgdir>
+    <imgdir name="7130101">
+        <string name="name" value="Taurospear"/>
+    </imgdir>
+    <imgdir name="7130102">
+        <string name="name" value="Yeti and Pepe"/>
+    </imgdir>
+    <imgdir name="7130200">
+        <string name="name" value="Werewolf"/>
+    </imgdir>
+    <imgdir name="8130100">
+        <string name="name" value="Jr. Balrog"/>
+    </imgdir>
+    <imgdir name="8140000">
+        <string name="name" value="Lycanthrope"/>
+    </imgdir>
+    <imgdir name="8140100">
+        <string name="name" value="Dark Yeti and Pepe"/>
+    </imgdir>
+    <imgdir name="8140500">
+        <string name="name" value="Bain"/>
+    </imgdir>
+    <imgdir name="8150000">
+        <string name="name" value="Crimson Balrog"/>
+    </imgdir>
+    <imgdir name="8800000">
+        <string name="name" value="Zakum1"/>
+    </imgdir>
+    <imgdir name="8800001">
+        <string name="name" value="Zakum2"/>
+    </imgdir>
+    <imgdir name="8800002">
+        <string name="name" value="Zakum3"/>
+    </imgdir>
+    <imgdir name="8800003">
+        <string name="name" value="Zakum&apos;s Arm 1"/>
+    </imgdir>
+    <imgdir name="8800004">
+        <string name="name" value="Zakum&apos;s Arm 2"/>
+    </imgdir>
+    <imgdir name="8800005">
+        <string name="name" value="Zakum&apos;s Arm 3"/>
+    </imgdir>
+    <imgdir name="8800006">
+        <string name="name" value="Zakum&apos;s Arm 4"/>
+    </imgdir>
+    <imgdir name="8800007">
+        <string name="name" value="Zakum&apos;s Arm 5"/>
+    </imgdir>
+    <imgdir name="8800008">
+        <string name="name" value="Zakum&apos;s Arm 6"/>
+    </imgdir>
+    <imgdir name="8800009">
+        <string name="name" value="Zakum&apos;s Arm 7"/>
+    </imgdir>
+    <imgdir name="8800010">
+        <string name="name" value="Zakum&apos;s Arm 8"/>
+    </imgdir>
+    <imgdir name="9000001">
+        <string name="name" value="Curse Eye 2"/>
+    </imgdir>
+    <imgdir name="9000002">
+        <string name="name" value="Horned Mushroom 2"/>
+    </imgdir>
+    <imgdir name="9000100">
+        <string name="name" value="Fire Boar 2"/>
+    </imgdir>
+    <imgdir name="9000101">
+        <string name="name" value="Lupin 2"/>
+    </imgdir>
+    <imgdir name="9000200">
+        <string name="name" value="Evil Eye 2"/>
+    </imgdir>
+    <imgdir name="9000201">
+        <string name="name" value="Zombie Mushroom 2"/>
+    </imgdir>
+    <imgdir name="9000300">
+        <string name="name" value="Cold Eye 2"/>
+    </imgdir>
+    <imgdir name="9000301">
+        <string name="name" value="Blue Mushroom 2"/>
+    </imgdir>
+    <imgdir name="9001000">
+        <string name="name" value="Blackbull&apos;s Other Self"/>
+    </imgdir>
+    <imgdir name="9001001">
+        <string name="name" value="Hines&apos;s Other Self"/>
+    </imgdir>
+    <imgdir name="9001002">
+        <string name="name" value="Helena&apos;s Other Self"/>
+    </imgdir>
+    <imgdir name="9001003">
+        <string name="name" value="Dark Lord&apos;s Other Self"/>
+    </imgdir>
+    <imgdir name="9100000">
+        <string name="name" value="Super Slime"/>
+    </imgdir>
+    <imgdir name="9100001">
+        <string name="name" value="Super Jr. Necki"/>
+    </imgdir>
+    <imgdir name="9100002">
+        <string name="name" value="Super Steezy"/>
+    </imgdir>
+    <imgdir name="9100003">
+        <string name="name" value="Ultra Jr. Necki 1"/>
+    </imgdir>
+    <imgdir name="9100004">
+        <string name="name" value="Ultra Jr. Necki 2"/>
+    </imgdir>
+    <imgdir name="9100005">
+        <string name="name" value="Super Trickster"/>
+    </imgdir>
+    <imgdir name="9100006">
+        <string name="name" value="Super Green Trickster"/>
+    </imgdir>
+    <imgdir name="9200000">
+        <string name="name" value="Wild Boar (PC)"/>
+    </imgdir>
+    <imgdir name="9200001">
+        <string name="name" value="Fire Boar (PC)"/>
+    </imgdir>
+    <imgdir name="9200002">
+        <string name="name" value="Dark Stump (PC)"/>
+    </imgdir>
+    <imgdir name="9200003">
+        <string name="name" value="Horned Mushroom (PC)"/>
+    </imgdir>
+    <imgdir name="9200004">
+        <string name="name" value="Green Mushroom (PC)"/>
+    </imgdir>
+    <imgdir name="9200005">
+        <string name="name" value="Slime (PC)"/>
+    </imgdir>
+    <imgdir name="9200006">
+        <string name="name" value="Lupin (PC)"/>
+    </imgdir>
+    <imgdir name="9200007">
+        <string name="name" value="Zombie Lupin (PC)"/>
+    </imgdir>
+    <imgdir name="9200008">
+        <string name="name" value="Blue Mushroom (PC)"/>
+    </imgdir>
+    <imgdir name="9200009">
+        <string name="name" value="Stone Gollem (PC)"/>
+    </imgdir>
+    <imgdir name="9200010">
+        <string name="name" value="Zombie Mushroom (PC)"/>
+    </imgdir>
+    <imgdir name="9200011">
+        <string name="name" value="Evil Eye (PC)"/>
+    </imgdir>
+    <imgdir name="9200012">
+        <string name="name" value="Drake (PC)"/>
+    </imgdir>
+    <imgdir name="9200013">
+        <string name="name" value="Cold Eye (PC)"/>
+    </imgdir>
+    <imgdir name="9200014">
+        <string name="name" value="Wild Cargo (PC)"/>
+    </imgdir>
+    <imgdir name="9300000">
+        <string name="name" value="Jr. Necki (PC)"/>
+    </imgdir>
+    <imgdir name="9300001">
+        <string name="name" value="Ligator (PC)"/>
+    </imgdir>
+    <imgdir name="9300002">
+        <string name="name" value="Curse Eye (PC)"/>
+    </imgdir>
+    <imgdir name="9300003">
+        <string name="name" value="King Slime (PC)"/>
+    </imgdir>
+    <imgdir name="9400000">
+        <string name="name" value="Crow"/>
+    </imgdir>
+    <imgdir name="9400001">
+        <string name="name" value="Fire Raccoon"/>
+    </imgdir>
+    <imgdir name="9400002">
+        <string name="name" value="Mushroom Fox"/>
+    </imgdir>
+    <imgdir name="3230307">
+        <string name="name" value="Chuff"/>
+    </imgdir>
+    <imgdir name="3230308">
+        <string name="name" value="Tweeter"/>
+    </imgdir>
+    <imgdir name="4230116">
+        <string name="name" value="Barnard Gray"/>
+    </imgdir>
+    <imgdir name="4230117">
+        <string name="name" value="Zeta Gray"/>
+    </imgdir>
+    <imgdir name="4230118">
+        <string name="name" value="Ultra Gray"/>
+    </imgdir>
+    <imgdir name="4230119">
+        <string name="name" value="Matian"/>
+    </imgdir>
+    <imgdir name="4230120">
+        <string name="name" value="Platian"/>
+    </imgdir>
+    <imgdir name="4230121">
+        <string name="name" value="Mecatian"/>
+    </imgdir>
+    <imgdir name="9400500">
+        <string name="name" value="Malady"/>
+    </imgdir>
+    <imgdir name="9400501">
+        <string name="name" value="Jr. Wraith"/>
+    </imgdir>
+    <imgdir name="9400502">
+        <string name="name" value="Wraith"/>
+    </imgdir>
+    <imgdir name="9400503">
+        <string name="name" value="Stirge"/>
+    </imgdir>
+    <imgdir name="9400504">
+        <string name="name" value="Coolie Zombie"/>
+    </imgdir>
+    <imgdir name="9400505">
+        <string name="name" value="Turkey"/>
+    </imgdir>
+</imgdir>

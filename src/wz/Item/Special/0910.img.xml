@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0910.img">
+    <imgdir name="9100000">
+        <string name="name" value="일반 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101000">
+        <string name="name" value="처녀귀신 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101001">
+        <string name="name" value="저승사자 패키지"/>
+        <uol name="icon" value="../9101000/icon"/>
+    </imgdir>
+    <imgdir name="9101002">
+        <string name="name" value="남자한복 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101003">
+        <string name="name" value="여자한복 패키지"/>
+        <uol name="icon" value="../9101002/icon"/>
+    </imgdir>
+    <imgdir name="9101004">
+        <string name="name" value="남자매트릭스 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101005">
+        <string name="name" value="여자매트릭스 패키지"/>
+        <uol name="icon" value="../9101004/icon"/>
+    </imgdir>
+    <imgdir name="9101006">
+        <string name="name" value="남자바바리 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101007">
+        <string name="name" value="여자바바리 패키지"/>
+        <uol name="icon" value="../9101006/icon"/>
+    </imgdir>
+    <imgdir name="9101008">
+        <string name="name" value="천사 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101009">
+        <string name="name" value="남자산타 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101010">
+        <string name="name" value="여자산타 패키지"/>
+        <uol name="icon" value="../9101009/icon"/>
+    </imgdir>
+    <imgdir name="9101011">
+        <string name="name" value="루돌프 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101012">
+        <string name="name" value="레드 캐쥬얼 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="9101013">
+        <string name="name" value="화이트 캐쥬얼 패키지"/>
+        <canvas name="icon" width="32" height="32">
+            <vector name="origin" x="0" y="32"/>
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2012003.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0"/>
+            <string name="1" value="n1"/>
+        </imgdir>
+        <imgdir name="shop">
+            <imgdir name="01302008">
+                <int name="price" value="40000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01312005">
+                <int name="price" value="40000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01322014">
+                <int name="price" value="40000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01332009">
+                <int name="price" value="42000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01332012">
+                <int name="price" value="40000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01372003">
+                <int name="price" value="38000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01382002">
+                <int name="price" value="20000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01402002">
+                <int name="price" value="150000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01412006">
+                <int name="price" value="45000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01422001">
+                <int name="price" value="45000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01432002">
+                <int name="price" value="60000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01442001">
+                <int name="price" value="60000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01452005">
+                <int name="price" value="150000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01462000">
+                <int name="price" value="30000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="01472001">
+                <int name="price" value="20000"/>
+                <int name="stock" value="10000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+        </imgdir>
+        <int name="float" value="1"/>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="3000"/>
+        </canvas>
+        <canvas name="1" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="100"/>
+        </canvas>
+        <canvas name="2" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="250"/>
+        </canvas>
+        <uol name="3" value="1"/>
+    </imgdir>
+    <imgdir name="smile0">
+        <canvas name="0" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="250"/>
+        </canvas>
+        <canvas name="1" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="250"/>
+        </canvas>
+        <uol name="2" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="7" value="1"/>
+        <uol name="8" value="0"/>
+        <uol name="9" value="1"/>
+        <uol name="10" value="0"/>
+        <uol name="11" value="1"/>
+        <uol name="12" value="0"/>
+        <uol name="13" value="1"/>
+        <uol name="14" value="0"/>
+        <uol name="15" value="1"/>
+        <uol name="16" value="0"/>
+        <uol name="17" value="1"/>
+        <imgdir name="speak">
+            <string name="0" value="c0"/>
+            <string name="1" value="c1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="smile1">
+        <canvas name="0" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="250"/>
+        </canvas>
+        <canvas name="1" width="70" height="87">
+            <vector name="origin" x="38" y="96"/>
+            <int name="delay" value="250"/>
+        </canvas>
+        <uol name="2" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="7" value="1"/>
+        <uol name="8" value="0"/>
+        <uol name="9" value="1"/>
+        <uol name="10" value="0"/>
+        <uol name="11" value="1"/>
+        <uol name="12" value="0"/>
+        <uol name="13" value="1"/>
+        <uol name="14" value="0"/>
+        <uol name="15" value="1"/>
+        <uol name="16" value="0"/>
+        <uol name="17" value="1"/>
+        <imgdir name="speak">
+            <string name="0" value="c0"/>
+            <string name="1" value="c1"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

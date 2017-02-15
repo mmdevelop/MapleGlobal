@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Tips.img">
+    <imgdir name="info">
+        <imgdir name="0">
+            <int name="levelMin" value="1"/>
+            <int name="levelMax" value="5"/>
+            <int name="interval" value="30000"/>
+            <int name="all" value="20"/>
+            <string name="tip" value="novice"/>
+        </imgdir>
+        <imgdir name="1">
+            <int name="levelMin" value="6"/>
+            <int name="levelMax" value="10"/>
+            <int name="interval" value="60000"/>
+            <int name="all" value="40"/>
+            <string name="tip" value="novice2"/>
+        </imgdir>
+        <imgdir name="2">
+            <int name="levelMin" value="11"/>
+            <int name="levelMax" value="20"/>
+            <int name="interval" value="300000"/>
+            <int name="all" value="50"/>
+            <string name="tip" value="novice3"/>
+        </imgdir>
+        <imgdir name="3">
+            <int name="levelMin" value="21"/>
+            <int name="levelMax" value="30"/>
+            <int name="interval" value="600000"/>
+            <int name="all" value="60"/>
+            <string name="tip" value="novice4"/>
+        </imgdir>
+        <imgdir name="4">
+            <int name="levelMin" value="31"/>
+            <int name="levelMax" value="70"/>
+            <int name="interval" value="600000"/>
+            <int name="all" value="70"/>
+            <string name="tip" value="novice5"/>
+        </imgdir>
+        <imgdir name="5">
+            <int name="levelMin" value="71"/>
+            <int name="levelMax" value="120"/>
+            <int name="interval" value="600000"/>
+            <int name="all" value="80"/>
+            <string name="tip" value="novice6"/>
+        </imgdir>
+        <imgdir name="6">
+            <int name="levelMin" value="121"/>
+            <int name="levelMax" value="999"/>
+            <int name="interval" value="600000"/>
+            <int name="all" value="100"/>
+            <string name="tip" value="novice7"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="all">
+        <string name="0" value="Please refrain from using foul language in this game."/>
+        <string name="1" value="If you target another user for verbal or other forms of abuse within the game, your access to the game will be limited."/>
+        <string name="2" value="The gamemaster will never ask for password or any other form of personal information."/>
+        <string name="3" value="Please be careful not to let anyone else know your password."/>
+        <string name="4" value="If you find any bugs or have trouble playing the game, please check &apos;email us&apos; at helpdesk on MapleStory website."/>
+        <string name="5" value="If you commit an illegal act within the game, your access to the game will be limited."/>
+        <string name="6" value="If you use any hacking programs or engage in any activity that may be deemed illegal, your access to the game will be limited."/>
+        <string name="7" value="You can use the system option at menu to change your sound settings."/>
+        <string name="8" value="Use the game option at menu to change settings for chatting, trade request, whisper, and others."/>
+        <string name="9" value="Type &apos;/?&apos; on the textbox to see a list of commands available by typing &apos;/&apos;."/>
+        <string name="10" value="If the cash equipment item is equipped on top of the regular equipment item, the abilities of the regular items will stay put."/>
+        <string name="11" value="To prevent hacking, you should think twice before opening an unknown attachment file from a messenger or an email."/>
+    </imgdir>
+    <imgdir name="novice">
+        <string name="0" value="Use HotKey&apos;s (I,E,S,K,W,M,R,H) to conveniently access all menus quickly."/>
+        <string name="1" value="To designate an item as a HotKey, drag the item onto the quick slot."/>
+        <string name="2" value="Look for hidden portals all around the map."/>
+        <string name="3" value="Press F1~F7 to make various facial expressions."/>
+        <string name="4" value="Use the portal on the field to move on to a different area."/>
+        <string name="5" value="The portals that allow you to move on to a different area will be displayed on the minimap as a blue dot."/>
+        <string name="6" value="Once you leave the Maple Island, there&apos;s no turning back."/>
+        <string name="7" value="Click on &apos;Detail&apos; at stat window to take a detailed look at your character stats."/>
+        <string name="8" value="Other characters around you will be displayed on the minimap as red dots."/>
+        <string name="9" value="Stand still for a period of time to slowly regain health."/>
+        <string name="10" value="To pick up an item, press &apos;Z&apos; or &apos;0&apos; on the number pad."/>
+        <string name="11" value="Press CTRL to attack, ALT to jump."/>
+        <string name="12" value="Go to stores to purchase equipments and potions necessary for your journey."/>
+        <string name="13" value="Once you have leveled up, go to the stat window to use your ability points acquired through leveling up."/>
+        <string name="14" value="Once you have made the 1st job advancement, you can&apos;t make another job adv. with a different job."/>
+        <string name="15" value="To equip an item, go to the equipment inventory and drag the item onto equipped items window or just double-click on it."/>
+        <string name="16" value="Press &apos;W&apos; to look at the world map."/>
+        <string name="17" value="Press &apos;E&apos; to look at the equipped items."/>
+        <string name="18" value="Press &apos;I&apos; to take a look at the list of items you possess."/>
+        <string name="19" value="Press &apos;M&apos; to look at the minimap."/>
+        <string name="20" value="Press &apos;K&apos; to look at the skill window."/>
+        <string name="21" value="Press &apos;S&apos; to look at your character stats."/>
+        <string name="22" value="To create a party, type &apos;/makeparty&apos; on the textbox."/>
+        <string name="23" value="If the party leader wants to invite a user to the party, type &apos;/partyinvite character-name&apos; on the textbox."/>
+        <string name="24" value="If the party leader wants to expel a party member, type &apos;/partyexpel&apos;."/>
+        <string name="25" value="To leave the party, type &apos;/leaveparty&apos;."/>
+        <string name="26" value="To look at your party&apos;s information, type &apos;/partyinfo&apos;."/>
+        <string name="27" value="If the party leader wants to invite a user to the party, right-click on the user to see &apos;Invite Party&apos;."/>
+        <string name="28" value="To raise or drop someone&apos;s fame level, right-click on the user to see Fame +/-."/>
+        <string name="29" value="You can raise or drop someone&apos;s fame level once a day."/>
+        <string name="30" value="You can raise or drop a particular user&apos;s fame level once a month per user."/>
+    </imgdir>
+    <imgdir name="novice2">
+        <string name="0" value="Everyone of the towns feature stores where you can purchase equipments and potions."/>
+        <string name="1" value="Some items have gender and job limitations. Please be aware of them before making a purchase."/>
+        <string name="2" value="Once you have made the 1st job advancement, you can&apos;t make another job adv. with a different job."/>
+        <string name="3" value="Please be aware of the fact that once you make the job adv., every death will cost you some EXP."/>
+        <string name="4" value="Through quests, you may be able to acquire items unavailable in stores."/>
+        <string name="5" value="More inventory slots are added once you make the job adv.."/>
+        <string name="6" value="You won&apos;t be awarded with skill points if you decide not to make the job advancement at the appropriate level, and instead opt to level up."/>
+        <string name="7" value="Type &apos;/trade character-name&apos; to request a trade with a user."/>
+        <string name="8" value="To become a magician, make the job advancement at level 8. Otherwise, at level 10."/>
+        <string name="9" value="To create a party, type &apos;/makeparty&apos; on the textbox."/>
+        <string name="10" value="If the party leader wants to invite a user to the party, type &apos;/partyinvite character-name&apos; on the textbox."/>
+        <string name="11" value="If the party leader wants to expel a party member, type &apos;/partyexpel&apos;."/>
+        <string name="12" value="To leave the party, type &apos;/leaveparty&apos;."/>
+        <string name="13" value="To look at your party&apos;s information, type &apos;/partyinfo&apos;."/>
+        <string name="14" value="If the party leader wants to invite a user to the party, right-click on the user to see &apos;Invite Party&apos;."/>
+        <string name="15" value="To raise or drop someone&apos;s fame level, right-click on the user to see Fame +/-."/>
+        <string name="16" value="You can raise or drop someone&apos;s fame level once a day."/>
+        <string name="17" value="You can raise or drop a particular user&apos;s fame level once a month per user."/>
+    </imgdir>
+    <imgdir name="novice3">
+        <string name="0" value="Job advancements can be done at the guilds in each town."/>
+        <string name="1" value="Passive skills work automatically after acquiring them."/>
+        <string name="2" value="To use an active skill, drag it out of the skill window and place it over Quick Slot to designate it with a HotKey."/>
+        <string name="3" value="Each town sells their own, original set of equipment."/>
+        <string name="4" value="You won&apos;t be awarded with skill points if you decide not to make the job advancement at the appropriate level, and instead opt to level up."/>
+        <string name="5" value="After the job advancement, you&apos;ll be awarded with some skill points after every level up."/>
+        <string name="6" value="Skill points can be used at &apos;Skill&apos; window."/>
+        <string name="7" value="Be careful of powerful monsters underneath the underground dungeon!"/>
+        <string name="8" value="Defeat a powerful monster to acquire a rare item not found in stores."/>
+        <string name="9" value="The MP will slowly recover after a certain period of time."/>
+        <string name="10" value="The skills that require MP won¡¯t work if the Mana Points are used up."/>
+        <string name="11" value="Type &apos;/trade character-name&apos; to request a trade with a user."/>
+        <string name="12" value="Use the town-returning scrolls to return to a town much more easily."/>
+        <string name="13" value="The throwing stars don¡¯t disappear even after using them all up and reaching 0 in the process."/>
+        <string name="14" value="The throwing stars can be recharged at weapon stores in every town."/>
+    </imgdir>
+    <imgdir name="novice4">
+        <string name="0" value="The 2nd job advancement is available at level 30 after the 1st job adv.."/>
+        <string name="1" value="All skill points obtained until level 30 must be used towards skills related to the 1st job adv."/>
+        <string name="2" value="You need to use up all your skill points you&apos;ve earned until level 30 in order to make the 2nd job adv."/>
+        <string name="3" value="Some skills are not used because it overlaps with other skills."/>
+        <string name="4" value="Use various scrolls to improve your weapons and armors."/>
+        <string name="5" value="There&apos;s a 24-Hr store available deep in the underground dungeon where you can purchase powerful potions not available in towns."/>
+        <string name="6" value="When making the 2nd job adv., the warrior need to choose one of these three jobs available: Fighter, Page, or Spearman."/>
+        <string name="7" value="When making the 2nd job adv., the bowman need to choose one of these two jobs available: Hunter or Crossbow man.."/>
+        <string name="8" value="When making the 2nd job adv., the magician need to choose one of these two jobs available: Wizard or Cleric"/>
+        <string name="9" value="When making the 2nd job adv., the thief need to choose one of these two jobs available: Assassin or Bandit"/>
+        <string name="10" value="Some quests and items require a certain level of fame."/>
+    </imgdir>
+    <imgdir name="novice5">
+        <string name="0" value="The 3rd job advancement is available at level 70 after the 2nd job adv.."/>
+        <string name="1" value="It&apos;s best for you to use your skill points gained after level 70 AFTER the 3rd job adv."/>
+        <string name="2" value="You need to use up all your skill points you&apos;ve earned until level 70 in order to make the 3rd job adv."/>
+        <string name="3" value="There are quests available that can be repeated even after clearing it the first time."/>
+        <string name="4" value="Use the sauna at Sleepywood Hotel to recover your HP and MP faster."/>
+        <string name="5" value="Among the 2nd level skills for magicians, some skills based on elements work best under monsters based on same elements."/>
+    </imgdir>
+    <imgdir name="novice6">
+        <string name="0" value="The 4th job advancement is available at level 120 after 3rd job adv."/>
+        <string name="1" value="It&apos;s best for you to use your skill points gained after level 120 AFTER the 4th job adv."/>
+        <string name="2" value="You need to use up all your skill points you&apos;ve earned until level 120 in order to make the 4th job adv."/>
+    </imgdir>
+    <imgdir name="novice7">
+    </imgdir>
+</imgdir>

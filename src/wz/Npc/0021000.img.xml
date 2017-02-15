@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0021000.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0"/>
+            <string name="1" value="n1"/>
+            <string name="2" value="n2"/>
+        </imgdir>
+        <imgdir name="shop">
+            <imgdir name="01040002">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01040006">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01040010">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01041002">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01041006">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01041010">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01041011">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01060002">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01060006">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01061002">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01061008">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01072001">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+            <imgdir name="01072005">
+                <int name="price" value="50"/>
+                <int name="stock" value="100"/>
+                <int name="period" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="35" height="57">
+            <vector name="origin" x="17" y="57"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

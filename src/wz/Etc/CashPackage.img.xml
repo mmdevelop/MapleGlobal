@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CashPackage.img">
+    <imgdir name="9100000">
+        <imgdir name="SN">
+            <int name="0" value="20000087"/>
+            <int name="1" value="20400061"/>
+            <int name="2" value="20500059"/>
+            <int name="3" value="20600038"/>
+            <int name="4" value="20700005"/>
+            <int name="5" value="20100012"/>
+            <int name="6" value="30100013"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101000">
+        <imgdir name="SN">
+            <int name="0" value="50000018"/>
+            <int name="1" value="20300048"/>
+            <int name="2" value="20600037"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101001">
+        <imgdir name="SN">
+            <int name="0" value="20000086"/>
+            <int name="1" value="20300047"/>
+            <int name="2" value="20600036"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101002">
+        <imgdir name="SN">
+            <int name="0" value="20300049"/>
+            <int name="1" value="20000088"/>
+            <int name="2" value="20600039"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101003">
+        <imgdir name="SN">
+            <int name="0" value="20300050"/>
+            <int name="1" value="20000089"/>
+            <int name="2" value="20600040"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101004">
+        <imgdir name="SN">
+            <int name="0" value="20200023"/>
+            <int name="1" value="20300058"/>
+            <int name="2" value="20600043"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101005">
+        <imgdir name="SN">
+            <int name="0" value="20200023"/>
+            <int name="1" value="20300059"/>
+            <int name="2" value="20600043"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101006">
+        <imgdir name="SN">
+            <int name="0" value="20000097"/>
+            <int name="1" value="20300060"/>
+            <int name="2" value="20600044"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101007">
+        <imgdir name="SN">
+            <int name="0" value="20000098"/>
+            <int name="1" value="20300060"/>
+            <int name="2" value="20600044"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101008">
+        <imgdir name="SN">
+            <int name="0" value="20000109"/>
+            <int name="1" value="20300063"/>
+            <int name="2" value="21100009"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101009">
+        <imgdir name="SN">
+            <int name="0" value="20000111"/>
+            <int name="1" value="20300065"/>
+            <int name="2" value="20700007"/>
+            <int name="3" value="20600048"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101010">
+        <imgdir name="SN">
+            <int name="0" value="20000111"/>
+            <int name="1" value="20300066"/>
+            <int name="2" value="20700007"/>
+            <int name="3" value="20600049"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101011">
+        <imgdir name="SN">
+            <int name="0" value="20000110"/>
+            <int name="1" value="20300064"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101012">
+        <imgdir name="SN">
+            <int name="0" value="20000107"/>
+            <int name="1" value="20400069"/>
+            <int name="2" value="20500063"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9101013">
+        <imgdir name="SN">
+            <int name="0" value="20000108"/>
+            <int name="1" value="20400068"/>
+            <int name="2" value="20500064"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

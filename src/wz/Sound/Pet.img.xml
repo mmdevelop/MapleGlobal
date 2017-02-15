@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Pet.img">
+    <imgdir name="5000000">
+        <sound name="alert"/>
+        <sound name="angry"/>
+        <sound name="chat"/>
+        <sound name="cry"/>
+        <sound name="dung"/>
+        <sound name="eat"/>
+        <sound name="levelup"/>
+        <sound name="rise"/>
+        <sound name="poor"/>
+        <sound name="prone"/>
+    </imgdir>
+    <imgdir name="5000001">
+        <sound name="angry"/>
+        <sound name="chat"/>
+        <sound name="cry"/>
+        <sound name="dung"/>
+        <sound name="eat"/>
+        <sound name="levelup"/>
+        <sound name="nap"/>
+        <sound name="prone"/>
+        <sound name="rise"/>
+        <sound name="tedious"/>
+    </imgdir>
+    <imgdir name="5000002">
+        <sound name="chat"/>
+        <sound name="angry"/>
+        <sound name="hug"/>
+        <sound name="rise"/>
+        <sound name="cry"/>
+        <sound name="complain"/>
+        <sound name="donno"/>
+    </imgdir>
+    <imgdir name="5000004">
+        <uol name="alert" value="../5000000/alert"/>
+        <uol name="angry" value="../5000000/angry"/>
+        <uol name="chat" value="../5000000/chat"/>
+        <uol name="cry" value="../5000000/cry"/>
+        <uol name="dung" value="../5000000/dung"/>
+        <uol name="eat" value="../5000000/eat"/>
+        <uol name="levelup" value="../5000000/levelup"/>
+        <uol name="rise" value="../5000000/rise"/>
+        <uol name="poor" value="../5000000/poor"/>
+        <uol name="prone" value="../5000000/prone"/>
+    </imgdir>
+    <imgdir name="5000005">
+        <uol name="chat" value="../5000002/chat"/>
+        <uol name="angry" value="../5000002/angry"/>
+        <uol name="hug" value="../5000002/hug"/>
+        <uol name="rise" value="../5000002/rise"/>
+        <uol name="cry" value="../5000002/cry"/>
+        <uol name="complain" value="../5000002/complain"/>
+        <uol name="donno" value="../5000002/donno"/>
+    </imgdir>
+</imgdir>

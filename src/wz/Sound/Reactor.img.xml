@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Reactor.img">
+    <imgdir name="Reactor">
+        <imgdir name="deepMine">
+            <imgdir name="artificiality">
+                <imgdir name="boxItem0">
+                    <imgdir name="0">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxItem1">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxItem2">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxItem3">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxKey0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxPaper0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxMob0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxMoney0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxNone">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxPotal0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../boxItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../boxItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneItem0">
+                    <imgdir name="0">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneItem1">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneItem2">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneItem3">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneKey0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stonePaper0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneMoney0">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="stoneNone">
+                    <imgdir name="0">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <uol name="Hit" value="../../stoneItem0/0/Hit"/>
+                    </imgdir>
+                    <imgdir name="3">
+                        <uol name="Hit" value="../../stoneItem0/3/Hit"/>
+                    </imgdir>
+                    <imgdir name="4">
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boxBItem0">
+                    <imgdir name="0">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="moltenRock">
+            <imgdir name="artificiality">
+                <imgdir name="gate0">
+                    <imgdir name="0">
+                        <sound name="Hit"/>
+                    </imgdir>
+                    <imgdir name="1">
+                        <sound name="Hit"/>
+                    </imgdir>
+                </imgdir>
+                <imgdir name="boss">
+                    <imgdir name="0">
+                    </imgdir>
+                    <imgdir name="1">
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

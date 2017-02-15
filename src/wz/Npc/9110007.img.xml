@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9110007.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0"/>
+            <string name="1" value="n1"/>
+            <string name="2" value="n2"/>
+        </imgdir>
+        <imgdir name="shop">
+            <imgdir name="02022017">
+                <int name="price" value="1000"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02022018">
+                <int name="price" value="1500"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02022019">
+                <int name="price" value="800"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02022020">
+                <int name="price" value="500"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="102" height="84">
+            <vector name="origin" x="51" y="84"/>
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,51 @@
+package net.sf.odinms.server.PlayerInteraction;
+
+import java.util.List;
+import net.sf.odinms.client.MapleCharacter;
+import net.sf.odinms.client.MapleClient;
+import net.sf.odinms.net.MaplePacket;
+
+public interface IPlayerInteractionManager {
+
+    public final byte PLAYER_SHOP = 4;
+    public final byte MATCH_CARD = 2;
+    public final byte OMOK = 1;
+
+    public void broadcast(MaplePacket packet, boolean toOwner);
+
+    public void addVisitor(MapleCharacter visitor);
+
+    public void removeVisitor(MapleCharacter visitor);
+
+    public int getVisitorSlot(MapleCharacter visitor);
+
+    public void removeAllVisitors(int error, int type);
+
+    public void buy(MapleClient c, int item, short quantity);
+
+    public void closeShop(boolean saveItems);
+
+    public String getOwnerName();
+
+    public int getOwnerId();
+
+    public String getDescription();
+
+    public MapleCharacter[] getVisitors();
+
+    public List<MaplePlayerShopItem> getItems();
+
+    public void addItem(MaplePlayerShopItem item);
+
+    public boolean removeItem(int item);
+
+    public void removeFromSlot(int slot);
+
+    public int getFreeSlot();
+
+    public byte getItemType();
+
+    public boolean isOwner(MapleCharacter chr);
+
+    public byte getShopType();
+}

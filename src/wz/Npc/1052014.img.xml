@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1052014.img">
+    <imgdir name="info">
+        <int name="dcMark" value="1"/>
+        <int name="dcLeft" value="-47"/>
+        <int name="dcTop" value="-117"/>
+        <int name="dcRight" value="50"/>
+        <int name="dcBottom" value="0"/>
+        <imgdir name="shop">
+            <imgdir name="02020007">
+                <int name="price" value="620"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02020008">
+                <int name="price" value="1260"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02020009">
+                <int name="price" value="920"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+            <imgdir name="02020010">
+                <int name="price" value="1860"/>
+                <int name="stock" value="10000000"/>
+                <int name="period" value="2"/>
+            </imgdir>
+        </imgdir>
+        <canvas name="default" width="64" height="79">
+            <vector name="origin" x="32" y="79"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="99" height="120">
+            <vector name="origin" x="49" y="119"/>
+            <int name="delay" value="500"/>
+        </canvas>
+        <canvas name="1" width="99" height="120">
+            <vector name="origin" x="49" y="119"/>
+            <int name="delay" value="500"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="shop">
+        <canvas name="0" width="64" height="79">
+            <vector name="origin" x="32" y="79"/>
+        </canvas>
+    </imgdir>
+</imgdir>

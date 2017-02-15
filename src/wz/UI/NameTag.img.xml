@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="NameTag.img">
+    <imgdir name="3">
+        <canvas name="w" width="7" height="18">
+            <vector name="origin" x="7" y="4"/>
+        </canvas>
+        <canvas name="c" width="4" height="18">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <canvas name="e" width="7" height="18">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="4">
+        <canvas name="w" width="8" height="17">
+            <vector name="origin" x="8" y="3"/>
+        </canvas>
+        <canvas name="c" width="4" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <canvas name="e" width="8" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="5">
+        <canvas name="w" width="7" height="18">
+            <vector name="origin" x="7" y="4"/>
+        </canvas>
+        <canvas name="c" width="4" height="18">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <canvas name="e" width="7" height="18">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <int name="clr" value="-16777216"/>
+    </imgdir>
+    <imgdir name="6">
+        <canvas name="w" width="22" height="22">
+            <vector name="origin" x="22" y="4"/>
+        </canvas>
+        <canvas name="c" width="4" height="19">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <canvas name="e" width="22" height="22">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="7">
+        <canvas name="w" width="19" height="23">
+            <vector name="origin" x="19" y="7"/>
+        </canvas>
+        <canvas name="c" width="4" height="23">
+            <vector name="origin" x="0" y="7"/>
+        </canvas>
+        <canvas name="e" width="19" height="23">
+            <vector name="origin" x="0" y="7"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="8">
+        <canvas name="w" width="22" height="21">
+            <vector name="origin" x="22" y="5"/>
+        </canvas>
+        <canvas name="c" width="4" height="21">
+            <vector name="origin" x="0" y="5"/>
+        </canvas>
+        <canvas name="e" width="22" height="21">
+            <vector name="origin" x="0" y="5"/>
+        </canvas>
+        <int name="clr" value="-16777216"/>
+    </imgdir>
+    <imgdir name="9">
+        <canvas name="w" width="22" height="21">
+            <vector name="origin" x="22" y="5"/>
+        </canvas>
+        <canvas name="c" width="4" height="21">
+            <vector name="origin" x="0" y="5"/>
+        </canvas>
+        <canvas name="e" width="22" height="21">
+            <vector name="origin" x="0" y="5"/>
+        </canvas>
+        <int name="clr" value="-16777216"/>
+    </imgdir>
+    <imgdir name="10">
+        <canvas name="w" width="20" height="23">
+            <vector name="origin" x="20" y="8"/>
+        </canvas>
+        <canvas name="c" width="4" height="23">
+            <vector name="origin" x="0" y="8"/>
+        </canvas>
+        <canvas name="e" width="20" height="23">
+            <vector name="origin" x="0" y="8"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="11">
+        <canvas name="w" width="8" height="22">
+            <vector name="origin" x="8" y="5"/>
+        </canvas>
+        <canvas name="c" width="4" height="20">
+            <vector name="origin" x="0" y="4"/>
+        </canvas>
+        <canvas name="e" width="8" height="22">
+            <vector name="origin" x="0" y="5"/>
+        </canvas>
+        <int name="clr" value="-1024"/>
+    </imgdir>
+    <imgdir name="12">
+        <canvas name="w" width="22" height="17">
+            <vector name="origin" x="22" y="3"/>
+        </canvas>
+        <canvas name="c" width="4" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <canvas name="e" width="22" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <int name="clr" value="-1"/>
+    </imgdir>
+    <imgdir name="13">
+        <canvas name="w" width="22" height="17">
+            <vector name="origin" x="22" y="3"/>
+        </canvas>
+        <canvas name="c" width="4" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <canvas name="e" width="22" height="17">
+            <vector name="origin" x="0" y="3"/>
+        </canvas>
+        <int name="clr" value="-16777216"/>
+    </imgdir>
+</imgdir>

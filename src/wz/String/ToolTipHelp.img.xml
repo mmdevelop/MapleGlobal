@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="Game">
+        <imgdir name="Button">
+            <imgdir name="Shop">
+                <string name="Title" value="Cash Shop"/>
+                <string name="Desc" value="It&apos;s a place where, armed with Cash, you&apos;ll be able to purchase accessories, clothes, messenger item, hair salon coupons, coupons for plastic surgery, and other various items."/>
+            </imgdir>
+            <imgdir name="Item">
+                <string name="Title" value="Item Inventory"/>
+                <string name="Desc" value="The window that allows the character to see the items it owns.\nThe items are categorized under Equip., Use, Set-Up, and Etc. items."/>
+            </imgdir>
+            <imgdir name="Equip">
+                <string name="Title" value="Equipment Window"/>
+                <string name="Desc" value="The window that shows the equipped items, and allowing the character to equip/unequip them.\nOpen the item inventory alongside it to use the equip. items."/>
+            </imgdir>
+            <imgdir name="Stat">
+                <string name="Title" value="Ability Window"/>
+                <string name="Desc" value="The window that shows detailed character info and its abilities.\nUse AP to enhance many different kinds of abilities. "/>
+            </imgdir>
+            <imgdir name="Skill">
+                <string name="Title" value="Skill Window"/>
+                <string name="Desc" value="The window that shows the detailed look of the skillbook owned by the character.\nUse skill points to learn the skills available."/>
+            </imgdir>
+            <imgdir name="Chat">
+                <string name="Title" value="Messenger Window"/>
+                <string name="Desc" value="The window that lets you chat with buddies within a world."/>
+            </imgdir>
+            <imgdir name="Menu">
+                <string name="Title" value="Menu"/>
+                <string name="Desc" value="The window that lets you change the options or game infos.\nCan change game and system option.\nCan also see quest info, party info, and the community info."/>
+            </imgdir>
+            <imgdir name="Whisper">
+                <string name="Title" value="Whisper"/>
+                <string name="Desc" value="Press the button to choose the character you want to whisper to.\nPress it once more to disable whisper."/>
+            </imgdir>
+            <imgdir name="MapTransfer">
+                <imgdir name="Register">
+                    <string name="Title" value="Register Map"/>
+                    <string name="Desc" value="Registers the map the character is at to the teleport list. Can save up to 5 maps."/>
+                </imgdir>
+                <imgdir name="Delete">
+                    <string name="Title" value="Delete Map"/>
+                    <string name="Desc" value="Delete the chosen map from the list."/>
+                </imgdir>
+                <imgdir name="Move">
+                    <string name="Title" value="Move"/>
+                    <string name="Desc" value="Teleports to the map of your choice, or to the map where the chosen character is."/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="UIWnd">
+            <imgdir name="Stat">
+                <imgdir name="0">
+                    <vector name="lt" x="8" y="32"/>
+                    <vector name="rb" x="55" y="47"/>
+                    <string name="Title" value="Name of the Character"/>
+                    <string name="Desc" value="Once the name is made, the name can&apos;t be changed"/>
+                </imgdir>
+                <imgdir name="1">
+                    <vector name="lt" x="8" y="50"/>
+                    <vector name="rb" x="55" y="75"/>
+                    <string name="Title" value="Job of the Character"/>
+                    <string name="Desc" value="The beginner will be able to choose its job as either a warrior, bowman, magician, or a thief\nWarrior - Level 10, STR 35 or over, make the job advancement at Perion\nBowman - Level 10, DEX 25 or over, make the job advancement at Henesys\nMagician - Level 8, INT 20 or over, make the job advancement at Ellinia\nThief - Level 10, DEX 25 or over, make the job advancent at Kerning City."/>
+                </imgdir>
+                <imgdir name="2">
+                    <vector name="lt" x="8" y="96"/>
+                    <vector name="rb" x="55" y="111"/>
+                    <string name="Title" value="Main Guild"/>
+                    <string name="Desc" value="The main community of the the communities the account belongs to."/>
+                </imgdir>
+                <imgdir name="3">
+                    <vector name="lt" x="8" y="114"/>
+                    <vector name="rb" x="55" y="129"/>
+                    <string name="Title" value="Health Point"/>
+                    <string name="Desc" value="It&apos;s a health stat, and if it reaches 0, the character dies.\nHP decreases if either attacked by an enemy or if a certain skill is used.\nIt can go up to the maximum of 10,000 points."/>
+                </imgdir>
+                <imgdir name="4">
+                    <vector name="lt" x="8" y="132"/>
+                    <vector name="rb" x="55" y="147"/>
+                    <string name="Title" value="Mana Point"/>
+                    <string name="Desc" value="The stat needed to use various skills.\nIt can go up to the maximum of 10,000 points."/>
+                </imgdir>
+                <imgdir name="5">
+                    <vector name="lt" x="8" y="150"/>
+                    <vector name="rb" x="55" y="165"/>
+                    <string name="Title" value="EXP"/>
+                    <string name="Desc" value="The amount of experience gained. \nObtained by killing a monster or completing a quest."/>
+                </imgdir>
+                <imgdir name="6">
+                    <vector name="lt" x="8" y="168"/>
+                    <vector name="rb" x="55" y="183"/>
+                    <string name="Title" value=""/>
+                    <string name="Desc" value=""/>
+                </imgdir>
+                <imgdir name="7">
+                    <vector name="lt" x="8" y="192"/>
+                    <vector name="rb" x="55" y="207"/>
+                    <string name="Title" value="Strength (STR)"/>
+                    <string name="Desc" value="The stat needed to use heavy weapons and/or armors.\nIt determines the attacking ability of the warriors."/>
+                </imgdir>
+                <imgdir name="8">
+                    <vector name="lt" x="8" y="210"/>
+                    <vector name="rb" x="55" y="225"/>
+                    <string name="Title" value="Dexterity (DEX)"/>
+                    <string name="Desc" value="The higher it is, the higher the accuracy and avoidability.\nIt&apos;s most important to the bowman, for it determines their attacking ability."/>
+                </imgdir>
+                <imgdir name="9">
+                    <vector name="lt" x="8" y="228"/>
+                    <vector name="rb" x="55" y="243"/>
+                    <string name="Title" value="Intelligence (INT)"/>
+                    <string name="Desc" value="The higher it is, the higher the accuracy for spells. \nIt determines the magical power of the magician.\nThe higher it is, the higher the MP increases on level-up&apos;s and AP-related increases."/>
+                </imgdir>
+                <imgdir name="10">
+                    <vector name="lt" x="8" y="246"/>
+                    <vector name="rb" x="55" y="261"/>
+                    <string name="Title" value="Luck (LUK)"/>
+                    <string name="Desc" value="The higher it is, the higher the avoidability is. \nIt determines the Thief&apos;s attacking ability and hands.\nAlso, the higher it is, the less EXP a character loses by dying."/>
+                </imgdir>
+                <imgdir name="11">
+                    <vector name="lt" x="7" y="277"/>
+                    <string name="Title" value="AP(Ability Point)"/>
+                    <vector name="rb" x="84" y="290"/>
+                    <string name="Desc" value="It can raise the stats of strength, dexterity, stamina,  and luck, along with the amount of HP and MP\nIf raising strength, dexterity, intelligence, or luck, 1 AP will equal an increase of 1 point\nIf HP or MP, the increase depends on the condition of the character\n5 points are given per every level up."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="StatDetail">
+                <imgdir name="0">
+                    <vector name="lt" x="13" y="7"/>
+                    <vector name="rb" x="70" y="22"/>
+                    <string name="Title" value="Attack"/>
+                    <string name="Desc" value="The stat the determines the damage of weapon attack.\nFor warriors and magicians, it&apos;s strength; bowman is dexterity; and thief is based on strength, dexterity, and luck.\nThe aforementioned ability points, along with the equipped equipment, determines the attack points."/>
+                </imgdir>
+                <imgdir name="1">
+                    <vector name="lt" x="13" y="25"/>
+                    <vector name="rb" x="70" y="40"/>
+                    <string name="Title" value="Weapon Def."/>
+                    <string name="Desc" value="The stat that determines the ability to defend the weapon attack.\nBased on all equipped armors&apos; weapon def. "/>
+                </imgdir>
+                <imgdir name="2">
+                    <vector name="lt" x="13" y="43"/>
+                    <vector name="rb" x="70" y="58"/>
+                    <string name="Title" value="Magic"/>
+                    <string name="Desc" value="The stat that determines the success rate and the attacking ability of spells.\nBased on INT and equipped items&apos; magic power."/>
+                </imgdir>
+                <imgdir name="3">
+                    <vector name="lt" x="13" y="61"/>
+                    <vector name="rb" x="70" y="76"/>
+                    <string name="Title" value="Magic Def."/>
+                    <string name="Desc" value="The stat for defending spells.\nBased on magic def. of every armor that&apos;s been equipped."/>
+                </imgdir>
+                <imgdir name="4">
+                    <vector name="lt" x="13" y="79"/>
+                    <vector name="rb" x="70" y="94"/>
+                    <string name="Title" value="Accuracy"/>
+                    <string name="Desc" value="The stat that determines the accuracy of weapon attack. \nThe higher, the more accurate.\nBased on dexterity and the equipment item options."/>
+                </imgdir>
+                <imgdir name="5">
+                    <vector name="lt" x="13" y="97"/>
+                    <vector name="rb" x="70" y="112"/>
+                    <string name="Title" value="Avoidability"/>
+                    <string name="Desc" value="The stat that enables the character to avoid weapon damage.\nThe higher it is, the better the character avoids weapon damage.\nBased on dexterity, luck, and the equipment item options."/>
+                </imgdir>
+                <imgdir name="6">
+                    <vector name="lt" x="13" y="115"/>
+                    <vector name="rb" x="70" y="130"/>
+                    <string name="Title" value=""/>
+                    <string name="Desc" value=""/>
+                </imgdir>
+                <imgdir name="7">
+                    <vector name="lt" x="13" y="133"/>
+                    <vector name="rb" x="70" y="148"/>
+                    <string name="Title" value="Speed"/>
+                    <string name="Desc" value="Can be changed through equipment item options or skills."/>
+                </imgdir>
+                <imgdir name="8">
+                    <vector name="lt" x="13" y="151"/>
+                    <vector name="rb" x="70" y="166"/>
+                    <string name="Title" value="Jump"/>
+                    <string name="Desc" value="Determines the jumping ability.\nCan be changed through equipment item options or skills."/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="Shop">
+        <imgdir name="Button">
+            <imgdir name="BuyAvatar">
+                <string name="Title" value="Buying Equipped Items"/>
+                <string name="Desc" value="Buying the items that are equipped by the character. The existing items are not\nincluded in the purchase."/>
+            </imgdir>
+            <imgdir name="DefaultAvatar">
+                <string name="Title" value="Back to Default"/>
+                <string name="Desc" value="Character being put back into the state of default before walking into the cash shop."/>
+            </imgdir>
+            <imgdir name="Rebate">
+                <string name="Title" value="Deleting Items"/>
+                <string name="Desc" value="Deleting cash items and saving a percentage of its price as MaplePoints"/>
+            </imgdir>
+            <imgdir name="ExEquip">
+                <string name="Title" value="Extending Equip. Inventory"/>
+                <string name="Desc" value="Extending an equip. inventory by 4 slots (1 line)\n4000 NX Cash"/>
+            </imgdir>
+            <imgdir name="ExConsume">
+                <string name="Title" value="Extending Use Inventory"/>
+                <string name="Desc" value="Extending a use inventory by 4 slots (1 line)\n4000 NX Cash"/>
+            </imgdir>
+            <imgdir name="ExInstall">
+                <string name="Title" value="Extending Set-Up Inventory"/>
+                <string name="Desc" value="Extending a set-up inventory by 4 slots (1 line)\n4000 NX Cash"/>
+            </imgdir>
+            <imgdir name="ExEtc">
+                <string name="Title" value="Extending Etc. Inventory"/>
+                <string name="Desc" value="Extending an etc. inventory by 4 slots (1 line)\n4000 NX Cash"/>
+            </imgdir>
+            <imgdir name="Charge">
+                <string name="Title" value="Recharging Cash"/>
+                <string name="Desc" value="Please visit the website to charge your account."/>
+            </imgdir>
+            <imgdir name="Check">
+                <string name="Title" value="Check Cash"/>
+                <string name="Desc" value="Checking the remaining Cash"/>
+            </imgdir>
+            <imgdir name="Coupon">
+                <string name="Title" value="Using Coupon"/>
+                <string name="Desc" value="Exchanging the item coupon into an item."/>
+            </imgdir>
+            <imgdir name="TakeoffAvatar">
+                <string name="Title" value="Remove All"/>
+                <string name="Desc" value="Remove all the items that the character is wearing."/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>
